@@ -58,3 +58,6 @@ gradle-app.setting
 
 # General
 .DS_Store
+
+# Ignore Gradle build output directory
+build
