@@ -7,8 +7,12 @@
  */
 
 plugins {
-    // Apply the application plugin to add support for building a CLI application in Java.
+    id 'java'
     id 'application'
+    id 'com.github.johnrengelman.shadow' version '7.1.2'
+    id 'jacoco'
+    id 'com.github.kt3k.coveralls' version '2.12.0'
+
 }
 
 repositories {
@@ -19,17 +23,55 @@ repositories {
 dependencies {
     // Use JUnit Jupiter for testing.
     testImplementation 'org.junit.jupiter:junit-jupiter:5.9.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
 
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:31.1-jre'
 }
 
+shadowJar {
+    archiveBaseName.set('nikusa')
+    archiveClassifier.set('')
+    manifest {
+        attributes 'Main-Class': 'com.github.tamadalab.nikusa.Main'
+    }
+}
+
+jacoco {
+    toolVersion = '0.8.8'
+}
+
+jacocoTestReport {
+    dependsOn test
+    reports {
+        xml.required = true
+        html.required = true
+    }
+}
+
+coveralls {
+    jacocoReportPath 'build/reports/jacoco/test/jacocoTestReport.xml'
+}
+
+task copyFile(type: Copy){
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    from configurations.compileClasspath
+    into "$buildDir/libs"
+}
+
+test {
+    useJUnitPlatform()
+}
+
 application {
     // Define the main class for the application.
-    mainClass = 'nikusa.App'
+    mainClass = 'com.github.tamadalab.nikusa.Main'
 }
 
 tasks.named('test') {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
+    finalizedBy jacocoTestReport
 }
+
+build.finalizedBy copyFile
