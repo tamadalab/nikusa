@@ -1,5 +1,7 @@
 package com.github.tamadalab.nikusa;
 
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Calendar;
 
 /**
@@ -14,7 +16,7 @@ public class Fork extends Object{
     /**
      * ForkリポジトリのURL
      */
-    private String url;
+    private URL url;
 
     /**
      * Forkリポジトリが作成された日時
@@ -57,7 +59,7 @@ public class Fork extends Object{
      * urlのゲッタ
      * @return ForkリポジトリのURL
      */
-    public String getUrl() {
+    public URL getUrl() {
         return this.url;
     }
 
@@ -65,7 +67,11 @@ public class Fork extends Object{
      * urlのセッタ
      */
     public void setUrl(String url) {
-        this.url = url;
+        try {
+            this.url = new URL(url);
+        } catch (MalformedURLException e) {
+            throw new RuntimeException(e);
+        }
 
         return;
     }
