@@ -23,6 +23,10 @@ public class Repository {
      */
     private List<Fork> aliveForks;
 
+    /**
+     * Repositoryのコンストラクタ
+     * @param nameWithOwner
+     */
     public Repository(String nameWithOwner) {
         setNameWithOwner(nameWithOwner);
         setUrl();

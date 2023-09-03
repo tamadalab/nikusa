@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 import java.util.List;
 
 /**
- * Fetcher；Argoを利用しデータを取得する
+ * Fetcher；データを取得する
  */
 public class Fetcher extends Object{
     /**
@@ -16,16 +16,20 @@ public class Fetcher extends Object{
      * @param nameWithOwner リポジトリのオーナー名とリポジトリ名．(owner/name)
      */
     public static void fetch(String nameWithOwner) {
-        String currentDirectory = Paths.get(System.getProperty("user.dir"), "/cache").toString();
-        String containerDirectory = Paths.get("home", "Argo", "cache").toAbsolutePath().toString();
-        String dockerImageName = Paths.get("ghcr.io", "ji-ua", "argo:0.0.2").toString();
+        String currentDirectory = System.getProperty("user.dir") + "/cache";
+        String containerDirectory = "/home/Argo/cache";
+        String dockerImageName = "ghcr.io/ji-ua/argo:0.0.2";
+        String api_key = System.getenv("GITHUB_API_KEY");
 
         List<String> commands = new ArrayList<>();
         commands.add("docker");
         commands.add("run");
+        commands.add("-e");
+        commands.add("API_KEY=" + api_key);
         commands.add("-v");
         commands.add(currentDirectory + ":" + containerDirectory);
         commands.add(dockerImageName);
+        commands.add("Fork");
         commands.add(nameWithOwner);
 
         try {
