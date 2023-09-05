@@ -2,12 +2,15 @@ package com.github.tamadalab.nikusa;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Date;
 
 /**
  * Fork：Forkが保持するべきデータを記憶
  */
-public class Fork extends Object{
+public class Fork extends Object implements Comparable<Fork>{
     /**
      * オーナー名とリポジトリ名
      */
@@ -36,7 +39,25 @@ public class Fork extends Object{
     /**
      * Forkのコンストラクタ
      */
-    public Fork() {}
+    public Fork(String nameWithOwner, String url, String createdAt, String commitedDate, String commitCountAfterFork) {
+        setNameWithOwner(nameWithOwner);
+        setUrl(url);
+        setCreatedAt(createdAt);
+        setCommitedDate(commitedDate);
+        setCommitCountAfterFork(commitCountAfterFork);
+    }
+
+    /**
+     *
+     * @param fork the object to be compared.
+     * @return
+     */
+    public int compareTo(Fork fork) {
+        if (this.commitCountAfterFork > fork.commitCountAfterFork) { return -1; }
+        if (this.commitCountAfterFork < fork.commitCountAfterFork) {return 1; }
+
+        return  0;
+    }
 
     /**
      * nameWithOwnerのゲッタ
@@ -87,8 +108,8 @@ public class Fork extends Object{
     /**
      * createdAtのセッタ
      */
-    public void setCreatedAt(Calendar createdAt) {
-        this.createdAt = createdAt;
+    public void setCreatedAt(String createdAt) {
+        this.createdAt = stringToCalendar(createdAt);
 
         return;
     }
@@ -104,8 +125,8 @@ public class Fork extends Object{
     /**
      * commitedDateのセッタ
      */
-    public void setCommitedDate(Calendar commitedDate) {
-        this.commitedDate = commitedDate;
+    public void setCommitedDate(String commitedDate) {
+        this.commitedDate = stringToCalendar(commitedDate);
 
         return;
     }
@@ -121,9 +142,30 @@ public class Fork extends Object{
     /**
      * commitCountAfterForkのセッタ
      */
-    public void setCommitCountAfterFork(Integer countAfterFork) {
-        this.commitCountAfterFork = commitCountAfterFork;
+    public void setCommitCountAfterFork(String countAfterFork) {
+        this.commitCountAfterFork = Integer.valueOf(countAfterFork);
 
         return;
+    }
+
+    /**
+     * 日付をCalender型に変換する
+     * @param date String型の日付
+     * @return Calender型の日付
+     */
+    private Calendar stringToCalendar (String date) {
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM/dd HH:mm:ss");
+        Date aDate = null;
+
+        try {
+            aDate = simpleDateFormat.parse(date);
+        } catch (ParseException e) {
+            throw new RuntimeException(e);
+        }
+
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(aDate);
+
+        return calendar;
     }
 }
