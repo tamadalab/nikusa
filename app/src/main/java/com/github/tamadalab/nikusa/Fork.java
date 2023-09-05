@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * Fork：Forkが保持するべきデータを記憶
  */
-public class Fork extends Object implements Comparable<Fork>{
+public class Fork extends Object {
     /**
      * オーナー名とリポジトリ名
      */
@@ -48,15 +48,23 @@ public class Fork extends Object implements Comparable<Fork>{
     }
 
     /**
-     *
-     * @param fork the object to be compared.
-     * @return
+     * 自身を文字列で応答
+     * @return 自身を表す文字列
      */
-    public int compareTo(Fork fork) {
-        if (this.commitCountAfterFork > fork.commitCountAfterFork) { return -1; }
-        if (this.commitCountAfterFork < fork.commitCountAfterFork) {return 1; }
+    public String toCsvRowString() {
+        StringBuffer aBuffer = new StringBuffer();
 
-        return  0;
+        aBuffer.append(this.getNameWithOwner());
+        aBuffer.append(",");
+        aBuffer.append(this.getUrl().toString());
+        aBuffer.append(",");
+        aBuffer.append(calendarToString(this.getCreatedAt()));
+        aBuffer.append(",");
+        aBuffer.append(calendarToString(this.getCommitedDate()));
+        aBuffer.append(",");
+        aBuffer.append(this.getCommitCountAfterFork().toString());
+
+        return aBuffer.toString();
     }
 
     /**
@@ -167,5 +175,11 @@ public class Fork extends Object implements Comparable<Fork>{
         calendar.setTime(aDate);
 
         return calendar;
+    }
+
+    private String calendarToString (Calendar calendar) {
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+
+        return sdf.format(calendar.getTime());
     }
 }
