@@ -157,7 +157,7 @@ public class Fork extends Object {
     }
 
     /**
-     * 日付をCalender型に変換する
+     * StringをCalender型に変換する
      * @param date String型の日付
      * @return Calender型の日付
      */
@@ -177,6 +177,11 @@ public class Fork extends Object {
         return calendar;
     }
 
+    /**
+     * CalenderをStringに変換する
+     * @param calendar Calender型の日付
+     * @return String型の日付
+     */
     private String calendarToString (Calendar calendar) {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 

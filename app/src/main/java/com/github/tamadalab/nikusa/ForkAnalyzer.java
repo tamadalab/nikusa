@@ -53,18 +53,23 @@ public class ForkAnalyzer {
     }
 
     /**
-     * ソートしCSVファイルに書き込む
+     * ソート&書き込み
      */
     private static void writeSortedCSV(String owner, String repository) {
-        write(owner, repository ,Sort.commitCountAfterFork);
-    }
-
-    private static void write(String owner, String repository,Sort sortType) {
         String currentDirectory = System.getProperty("user.dir");
         Path resultDirectoryPath = Paths.get(currentDirectory, "result", owner, repository);
         mkdir(resultDirectoryPath);
+        write(resultDirectoryPath.toString() ,Sort.commitCountAfterFork);
+        write(resultDirectoryPath.toString() ,Sort.commitedDate);
+    }
 
-        String csvFileName = Paths.get(resultDirectoryPath.toString(), sortType.toString().concat(".csv")).toString();
+    /**
+     * ファイルを書き込む
+     * @param resultDirectoryPath 保存するディレクトリパス
+     * @param sortType ソート方法
+     */
+    private static void write(String resultDirectoryPath, Sort sortType) {
+        String csvFileName = Paths.get(resultDirectoryPath, sortType.toString().concat(".csv")).toString();
 
         try {
             FileOutputStream fileOutputStream = new FileOutputStream(csvFileName);
@@ -92,7 +97,7 @@ public class ForkAnalyzer {
 
     /**
      * ディレクトリを作成する．
-     * @param path 作りたいディレクトリパス
+     * @param path 作成したいディレクトリパス
      */
     private static void mkdir(Path path) {
         if (!Files.exists(path)) {
@@ -104,21 +109,39 @@ public class ForkAnalyzer {
         }
     }
 
+    /**
+     * 指定されたソート方法でソートを行う
+     * @param sortType ソート方法
+     * @return ソートされたForkリスト
+     */
     private static List<Fork> sort(Sort sortType) {
         List<Fork> listOfRemoveZeroCommitFork = ForkAnalyzer.forks;
 
         listOfRemoveZeroCommitFork.removeIf(fork -> fork.getCommitCountAfterFork() <= 0);
 
-
         switch (sortType) {
-            /**
-             * fork作成後のコミット数を降順でソート
-             */
             case commitCountAfterFork:
                 Collections.sort(listOfRemoveZeroCommitFork, new Comparator<Fork>() {
                     @Override
                     public int compare(Fork f1, Fork f2) {
                         return Integer.compare(f2.getCommitCountAfterFork(), f1.getCommitCountAfterFork());
+                    }
+                });
+
+            case commitedDate:
+                Collections.sort(listOfRemoveZeroCommitFork, new Comparator<Fork>() {
+                    @Override
+                    public int compare(Fork f1, Fork f2) {
+                        if (f1.getCommitedDate() == null || f2.getCommitedDate() == null) {
+                            return 0;
+                        }
+                        if (f1.getCommitedDate() == null) {
+                            return -1;
+                        }
+                        if (f2.getCommitedDate() == null) {
+                            return 1;
+                        }
+                        return f2.getCommitedDate().compareTo(f1.getCommitedDate());
                     }
                 });
         }
