@@ -127,6 +127,7 @@ public class ForkAnalyzer {
                         return Integer.compare(f2.getCommitCountAfterFork(), f1.getCommitCountAfterFork());
                     }
                 });
+                break;
 
             case commitedDate:
                 Collections.sort(listOfRemoveZeroCommitFork, new Comparator<Fork>() {
@@ -144,6 +145,10 @@ public class ForkAnalyzer {
                         return f2.getCommitedDate().compareTo(f1.getCommitedDate());
                     }
                 });
+                break;
+
+            default:
+                break;
         }
 
         return listOfRemoveZeroCommitFork;
