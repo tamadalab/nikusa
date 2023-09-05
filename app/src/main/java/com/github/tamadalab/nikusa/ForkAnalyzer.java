@@ -137,10 +137,10 @@ public class ForkAnalyzer {
                             return 0;
                         }
                         if (f1.getCommitedDate() == null) {
-                            return -1;
+                            return 1;
                         }
                         if (f2.getCommitedDate() == null) {
-                            return 1;
+                            return -1;
                         }
                         return f2.getCommitedDate().compareTo(f1.getCommitedDate());
                     }
