@@ -6,6 +6,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Objects;
 
 /**
  * Fork：Forkが保持するべきデータを記憶
@@ -162,6 +163,8 @@ public class Fork extends Object {
      * @return Calender型の日付
      */
     private Calendar stringToCalendar (String date) {
+        if (Objects.equals(date, "nan")) return null;
+
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM/dd HH:mm:ss");
         Date aDate = null;
 

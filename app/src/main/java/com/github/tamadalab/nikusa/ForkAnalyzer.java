@@ -27,11 +27,17 @@ public class ForkAnalyzer {
 
     /**
      * CSVファイルの読み込み
-     * @param nameWithOwner オーナー名/リポジトリ名
+     * @param owner
+     * @param repository
      */
     private static void readCacheCSV(String owner, String repository) {
         String currentDirectory = System.getProperty("user.dir");
         String csvFileName = Paths.get(currentDirectory, "cache", owner, repository, "Fork", "CSV", "total.csv").toString();
+
+        if (!new File(csvFileName).exists()) {
+            System.out.printf("%s dose not exist.%n", csvFileName);
+            return;
+        }
 
         try {
             FileInputStream fileInputStream = new FileInputStream(csvFileName);
@@ -88,7 +94,7 @@ public class ForkAnalyzer {
 
             bufferedWriter.close();
 
-            System.out.printf("writen %s%n", csvFileName);
+            System.out.printf("wrote %s%n", csvFileName);
         }
         catch (FileNotFoundException anException) { anException.printStackTrace(); }
         catch (UnsupportedEncodingException anException) { anException.printStackTrace(); }
