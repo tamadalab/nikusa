@@ -67,6 +67,7 @@ public class ForkAnalyzer {
         mkdir(resultDirectoryPath);
         write(resultDirectoryPath.toString() ,Sort.commitCountAfterFork);
         write(resultDirectoryPath.toString() ,Sort.commitedDate);
+        write(resultDirectoryPath.toString() ,Sort.topPercentFilter);
     }
 
     /**
@@ -85,7 +86,7 @@ public class ForkAnalyzer {
             bufferedWriter.write("nameWithOwner,url,createdAt,commitedDate,commitCountAfterFork");
             bufferedWriter.newLine();
 
-            List<Fork> sortedForks = sort(sortType);
+            List<Fork> sortedForks = sort(sortType, ForkAnalyzer.forks);
 
             for (Fork aFork : sortedForks) {
                 bufferedWriter.write(aFork.toCsvRowString());
@@ -120,14 +121,12 @@ public class ForkAnalyzer {
      * @param sortType ソート方法
      * @return ソートされたForkリスト
      */
-    private static List<Fork> sort(Sort sortType) {
-        List<Fork> listOfRemoveZeroCommitFork = ForkAnalyzer.forks;
-
-        listOfRemoveZeroCommitFork.removeIf(fork -> fork.getCommitCountAfterFork() <= 0);
+    private static List<Fork> sort(Sort sortType, List<Fork> forks) {
+        forks.removeIf(fork -> fork.getCommitCountAfterFork() <= 0);
 
         switch (sortType) {
             case commitCountAfterFork:
-                Collections.sort(listOfRemoveZeroCommitFork, new Comparator<Fork>() {
+                Collections.sort(forks, new Comparator<Fork>() {
                     @Override
                     public int compare(Fork f1, Fork f2) {
                         return Integer.compare(f2.getCommitCountAfterFork(), f1.getCommitCountAfterFork());
@@ -136,7 +135,7 @@ public class ForkAnalyzer {
                 break;
 
             case commitedDate:
-                Collections.sort(listOfRemoveZeroCommitFork, new Comparator<Fork>() {
+                Collections.sort(forks, new Comparator<Fork>() {
                     @Override
                     public int compare(Fork f1, Fork f2) {
                         if (f1.getCommitedDate() == null || f2.getCommitedDate() == null) {
@@ -153,11 +152,21 @@ public class ForkAnalyzer {
                 });
                 break;
 
+            case topPercentFilter:
+                List<Fork> sortedForks = sort(Sort.commitCountAfterFork, forks);
+
+                Integer percent = 10;
+                Integer cutOffIndex = (Integer) (sortedForks.size() * 10 / 100);
+
+                List<Fork> topForks = sortedForks.subList(0,cutOffIndex);
+
+                return  sort(Sort.commitedDate, topForks);
+
             default:
                 break;
         }
 
-        return listOfRemoveZeroCommitFork;
+        return forks;
     }
 
 }
