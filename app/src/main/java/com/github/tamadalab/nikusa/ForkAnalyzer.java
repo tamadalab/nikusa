@@ -65,17 +65,44 @@ public class ForkAnalyzer {
         String currentDirectory = System.getProperty("user.dir");
         Path resultDirectoryPath = Paths.get(currentDirectory, "result", owner, repository);
         mkdir(resultDirectoryPath);
-        write(resultDirectoryPath.toString() ,Sort.commitCountAfterFork);
-        write(resultDirectoryPath.toString() ,Sort.commitedDate);
-        write(resultDirectoryPath.toString() ,Sort.topPercentFilter);
+        ForkAnalyzer.forks.removeIf(fork -> fork.getCommitCountAfterFork() <= 0);
+        writeUnsortedFroks(resultDirectoryPath.toString());
+        writeSortedForks(resultDirectoryPath.toString() ,Sort.commitCountAfterFork);
+        writeSortedForks(resultDirectoryPath.toString() ,Sort.commitedDate);
+        writeSortedForks(resultDirectoryPath.toString() ,Sort.topPercentFilter);
+    }
+
+    private static void writeUnsortedFroks(String resultDirectoryPath) {
+        String csvFileName = Paths.get(resultDirectoryPath, "unSorted.csv").toString();
+
+        try {
+            FileOutputStream fileOutputStream = new FileOutputStream(csvFileName);
+            OutputStreamWriter outputStreamWriter = new OutputStreamWriter(fileOutputStream, "UTF-8");
+            BufferedWriter bufferedWriter = new BufferedWriter(outputStreamWriter);
+
+            bufferedWriter.write("nameWithOwner,url,createdAt,commitedDate,commitCountAfterFork");
+            bufferedWriter.newLine();
+
+            for (Fork aFork : ForkAnalyzer.forks) {
+                bufferedWriter.write(aFork.toCsvRowString());
+                bufferedWriter.newLine();
+            }
+
+            bufferedWriter.close();
+
+            System.out.printf("wrote %s%n", csvFileName);
+        }
+        catch (FileNotFoundException anException) { anException.printStackTrace(); }
+        catch (UnsupportedEncodingException anException) { anException.printStackTrace(); }
+        catch (IOException anException) { anException.printStackTrace(); }
     }
 
     /**
-     * ファイルを書き込む
+     * ソートしファイルを書き込む
      * @param resultDirectoryPath 保存するディレクトリパス
      * @param sortType ソート方法
      */
-    private static void write(String resultDirectoryPath, Sort sortType) {
+    private static void writeSortedForks(String resultDirectoryPath, Sort sortType) {
         String csvFileName = Paths.get(resultDirectoryPath, sortType.toString().concat(".csv")).toString();
 
         try {
@@ -122,8 +149,6 @@ public class ForkAnalyzer {
      * @return ソートされたForkリスト
      */
     private static List<Fork> sort(Sort sortType, List<Fork> forks) {
-        forks.removeIf(fork -> fork.getCommitCountAfterFork() <= 0);
-
         switch (sortType) {
             case commitCountAfterFork:
                 Collections.sort(forks, new Comparator<Fork>() {
