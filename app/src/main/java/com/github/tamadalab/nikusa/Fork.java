@@ -7,6 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Objects;
+import java.util.TimeZone;
 
 /**
  * Fork：Forkが保持するべきデータを記憶
@@ -165,7 +166,8 @@ public class Fork extends Object {
     private Calendar stringToCalendar (String date) {
         if (Objects.equals(date, "nan")) return null;
 
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM/dd HH:mm:ss");
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
+        simpleDateFormat.setTimeZone(TimeZone.getTimeZone("UTC"));
         Date aDate = null;
 
         try {
@@ -186,7 +188,7 @@ public class Fork extends Object {
      * @return String型の日付
      */
     private String calendarToString (Calendar calendar) {
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
 
         return sdf.format(calendar.getTime());
     }
