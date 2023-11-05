@@ -1,0 +1,137 @@
+#!/bin/bash
+
+search_number_of_changed_lines() {
+    echo $(git diff --shortstat $1 origin/HEAD -- $2)
+}
+
+search_number_of_changed_files() {
+    echo $(git diff --summary $1 origin/HEAD | grep -E 'create|delete' | awk '{print $1}' | sort | uniq -c)
+}
+
+show_progress() {
+  local current=$1
+  local total=$2
+  local max_width=$3
+  local bar_width=$((current*max_width/total))
+  local progress=$((current*100/total))
+
+  # プログレスバーを生成
+  local bar=''
+  for ((i=0; i<bar_width; i++)); do bar+='#'; done
+  while [ ${#bar} -lt $max_width ]; do bar+=' '; done
+
+  # プログレスバーとパーセンテージを出力
+  printf "\rProgress: [%s] %d%%" "$bar" "$progress"
+}
+
+
+THIS_DIR_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+INPUT_CSV="$THIS_DIR_PATH/../app/result/$1/unsorted.csv"
+ACTIVE_RATE_CSV="$THIS_DIR_PATH/$1/active_rate.csv"
+ORIGINAL_REPO_URL="git@github.com:$1.git"
+
+# git clone --no-checkout "$ORIGINAL_REPO_URL"
+
+# ORIGIN_REPO=${1#*/}
+
+# mkdir -p $THIS_DIR_PATH/origin/
+# mv "$ORIGIN_REPO" "$THIS_DIR_PATH/origin/"
+
+# 元のディレクトリを保持するパス
+# ORIGIN_DIR_PATH=$THIS_DIR_PATH/origin/$ORIGIN_REPO_NAME
+
+# 作業ディレクトリに移動
+working_dir=$THIS_DIR_PATH/working_dir/
+mkdir -p $working_dir
+cd $working_dir
+
+
+#ヘッダーの書き込み
+mkdir -p $THIS_DIR_PATH/$1
+
+BASE_HEADER=$(head -n 1 $INPUT_CSV)
+BASE_HEADER=${BASE_HEADER//$'\r'/}
+
+echo "$BASE_HEADER,number_of_added_lines,number_of_deleted_lines,number_of_added_lines_in_readme,number_of_deleted_lines_in_readme,number_of_create_files,number_of_delete_files" > $ACTIVE_RATE_CSV
+
+counter=0
+
+# CSVから1行ずつ読み取る
+tail -n +2 $INPUT_CSV | while IFS=, read -ra record_values; do
+    fork_owner_repo=${record_values[0]} # owner/repository
+    fork_repo=${fork_owner_repo#*/} # repository
+
+    url="git@github.com:$fork_owner_repo.git"
+    git clone -q --no-checkout "$url"
+    cd $fork_repo
+
+    created_at=${record_values[2]}
+    createdat_hash=$(git log --until=$created_at --pretty=format:"%H" | head -n 1)
+
+    # データ取り
+    ## All
+    read -ra ch_ln_numbers <<< $(search_number_of_changed_lines $createdat_hash | grep -o -E '[0-9]+')
+    if [ -z ${ch_ln_numbers[1]} ]
+    then
+        number_of_added_lines=0
+    else
+        number_of_added_lines=${ch_ln_numbers[1]}
+    fi
+
+    if [ -z ${ch_ln_numbers[2]} ]
+    then
+        number_of_deleted_lines=0
+    else
+        number_of_deleted_lines=${ch_ln_numbers[2]}
+    fi
+    
+    ## only README.md
+    read -ra ch_ln_numbers_in_readme <<< $(search_number_of_changed_lines $createdat_hash '**\README.md' | grep -o -E '[0-9]+')
+    if [ -z ${ch_ln_numbers_in_readme[1]} ]
+    then
+        number_of_added_lines_in_readme=0
+    else
+        number_of_added_lines_in_readme=${ch_ln_numbers_in_readme[1]}
+    fi
+
+    if [ -z ${ch_ln_numbers_in_readme[2]} ]
+    then
+        number_of_deleted_lines_in_readme=0
+    else
+        number_of_deleted_lines_in_readme=${ch_ln_numbers_in_readme[2]}
+    fi
+
+    ## fiels
+    read -ra ch_files_numbers <<< $(search_number_of_changed_files $createdat_hash | grep -o -E '[0-9]+')
+    number_of_create_files=${ch_files_numbers[0]}
+    if [ -z $number_of_create_files ]
+    then
+        number_of_create_files=0
+    fi
+
+    number_of_delete_files=${ch_files_numbers[1]}
+    if [ -z $number_of_delete_files ]
+    then
+        number_of_delete_files=0
+    fi
+
+    # 書き込み
+    record=$(printf "%s," "${record_values[@]}")
+    record=${record%,}
+    record=${record//$'\r'/}
+    echo "$record,$number_of_added_lines,$number_of_deleted_lines,$number_of_added_lines_in_readme,$number_of_deleted_lines_in_readme,$number_of_create_files,$number_of_delete_files" >> $ACTIVE_RATE_CSV
+
+    # 後処理
+    cd $working_dir
+    rm -rf $fork_repo
+
+    ((counter++))
+    number_of_forks=$(tail -n +2 $INPUT_CSV | wc -l)
+    show_progress $counter $number_of_forks 100
+
+done
+
+#作業ディレクトリの削除
+rm -rf $working_dir
+
+echo "Comparison finished."
