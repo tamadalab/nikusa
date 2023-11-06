@@ -30,30 +30,20 @@ INPUT_CSV="$THIS_DIR_PATH/../app/result/$1/unsorted.csv"
 ACTIVE_RATE_CSV="$THIS_DIR_PATH/$1/active_rate.csv"
 ORIGINAL_REPO_URL="git@github.com:$1.git"
 
-# git clone --no-checkout "$ORIGINAL_REPO_URL"
-
-# ORIGIN_REPO=${1#*/}
-
-# mkdir -p $THIS_DIR_PATH/origin/
-# mv "$ORIGIN_REPO" "$THIS_DIR_PATH/origin/"
-
-# 元のディレクトリを保持するパス
-# ORIGIN_DIR_PATH=$THIS_DIR_PATH/origin/$ORIGIN_REPO_NAME
-
 # 作業ディレクトリに移動
 working_dir=$THIS_DIR_PATH/working_dir/
 mkdir -p $working_dir
 cd $working_dir
 
-
-#ヘッダーの書き込み
+# ヘッダーの書き込み
 mkdir -p $THIS_DIR_PATH/$1
 
 BASE_HEADER=$(head -n 1 $INPUT_CSV)
 BASE_HEADER=${BASE_HEADER//$'\r'/}
 
-echo "$BASE_HEADER,number_of_added_lines,number_of_deleted_lines,number_of_added_lines_in_readme,number_of_deleted_lines_in_readme,number_of_create_files,number_of_delete_files" > $ACTIVE_RATE_CSV
+echo "$BASE_HEADER,number_of_insertion_lines,number_of_deletion_lines,number_of_insertion_lines_in_readme,number_of_deletion_lines_in_readme,number_of_create_files,number_of_delete_files" > $ACTIVE_RATE_CSV
 
+# カウンターの設定
 counter=0
 
 # CSVから1行ずつ読み取る
@@ -70,56 +60,55 @@ tail -n +2 $INPUT_CSV | while IFS=, read -ra record_values; do
 
     # データ取り
     ## All
-    read -ra ch_ln_numbers <<< $(search_number_of_changed_lines $createdat_hash | grep -o -E '[0-9]+')
-    if [ -z ${ch_ln_numbers[1]} ]
+    ch_ln_numbers_output=$(search_number_of_changed_lines $createdat_hash)
+    number_of_insertion_lines=$(echo $ch_ln_numbers_output | grep -o -E '[0-9]+ insertion' | grep -o -E '[0-9]+')
+    number_of_deletion_lines=$(echo $ch_ln_numbers_output | grep -o -E '[0-9]+ deletion' | grep -o -E '[0-9]+')
+    
+    if [ -z $number_of_insertion_lines ]
     then
-        number_of_added_lines=0
-    else
-        number_of_added_lines=${ch_ln_numbers[1]}
+        number_of_insertion_lines='0'
     fi
 
-    if [ -z ${ch_ln_numbers[2]} ]
+    if [ -z $number_of_deletion_lines ]
     then
-        number_of_deleted_lines=0
-    else
-        number_of_deleted_lines=${ch_ln_numbers[2]}
+        number_of_deletion_lines='0'
     fi
     
     ## only README.md
-    read -ra ch_ln_numbers_in_readme <<< $(search_number_of_changed_lines $createdat_hash '**\README.md' | grep -o -E '[0-9]+')
-    if [ -z ${ch_ln_numbers_in_readme[1]} ]
+    ch_ln_numbers_output=$(search_number_of_changed_lines $createdat_hash '*/README.md README.md')
+    number_of_insertion_lines_in_readme=$( echo $ch_ln_numbers_output | grep -o -E '[0-9]+ insertion' | grep -o -E '[0-9]+')
+    number_of_deletion_lines_in_readme=$( echo $ch_ln_numbers_output | grep -o -E '[0-9]+ deletion' | grep -o -E '[0-9]+')
+
+    if [ -z $number_of_insertion_lines_in_readme ]
     then
-        number_of_added_lines_in_readme=0
-    else
-        number_of_added_lines_in_readme=${ch_ln_numbers_in_readme[1]}
+        number_of_insertion_lines_in_readme='0'
     fi
 
-    if [ -z ${ch_ln_numbers_in_readme[2]} ]
+    if [ -z $number_of_deletion_lines_in_readme ]
     then
-        number_of_deleted_lines_in_readme=0
-    else
-        number_of_deleted_lines_in_readme=${ch_ln_numbers_in_readme[2]}
+        number_of_deletion_lines_in_readme='0'
     fi
 
-    ## fiels
-    read -ra ch_files_numbers <<< $(search_number_of_changed_files $createdat_hash | grep -o -E '[0-9]+')
-    number_of_create_files=${ch_files_numbers[0]}
+    ## change fiels
+    ch_files_numbers_output=$(search_number_of_changed_files $createdat_hash)
+    number_of_create_files=$(echo $ch_files_numbers_output | grep -o -E '[0-9]+ create' | grep -o -E '[0-9]+')
+    number_of_delete_files=$(echo $ch_files_numbers_output | grep -o -E '[0-9]+ delete' | grep -o -E '[0-9]+')
+
     if [ -z $number_of_create_files ]
     then
-        number_of_create_files=0
+        number_of_create_files='0'
     fi
 
-    number_of_delete_files=${ch_files_numbers[1]}
     if [ -z $number_of_delete_files ]
     then
-        number_of_delete_files=0
+        number_of_delete_files='0'
     fi
 
     # 書き込み
     record=$(printf "%s," "${record_values[@]}")
     record=${record%,}
     record=${record//$'\r'/}
-    echo "$record,$number_of_added_lines,$number_of_deleted_lines,$number_of_added_lines_in_readme,$number_of_deleted_lines_in_readme,$number_of_create_files,$number_of_delete_files" >> $ACTIVE_RATE_CSV
+    echo "$record,$number_of_insertion_lines,$number_of_deletion_lines,$number_of_insertion_lines_in_readme,$number_of_deletion_lines_in_readme,$number_of_create_files,$number_of_delete_files" >> $ACTIVE_RATE_CSV
 
     # 後処理
     cd $working_dir
@@ -134,4 +123,5 @@ done
 #作業ディレクトリの削除
 rm -rf $working_dir
 
-echo "Comparison finished."
+echo
+echo "data fetch complete."
