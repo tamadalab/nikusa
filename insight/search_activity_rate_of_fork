@@ -32,22 +32,22 @@ ORIGINAL_REPO_URL="git@github.com:$1.git"
 
 # 作業ディレクトリに移動
 WORKING_DIR=$THIS_DIR_PATH/working_dir
-mkdir -p $WORKING_DIR; cd $WORKING_DIR
+mkdir -p "$WORKING_DIR"; cd "$WORKING_DIR"
 
 ## fork元のリポジトリのclone
-git clone -q --no-checkout $ORIGINAL_REPO_URL
+git clone -q --no-checkout "$ORIGINAL_REPO_URL"
 
 ORIGINAL_REPO_NAME=${1#*/}
 ORIGINAL_WORKING_DIR=$WORKING_DIR/origin
-mkdir -p $ORIGINAL_WORKING_DIR
-ORIGINAL_REPO_DIR=$ORIGINAL_WORKING_DIR/$ORIGINAL_REPO_NAME
+mkdir -p "$ORIGINAL_WORKING_DIR"
+ORIGINAL_REPO_DIR="$ORIGINAL_WORKING_DIR"/"$ORIGINAL_REPO_NAME"
 
-mv $WORKING_DIR/$ORIGINAL_REPO_NAME $ORIGINAL_WORKING_DIR
+mv "$WORKING_DIR"/"$ORIGINAL_REPO_NAME" "$ORIGINAL_WORKING_DIR"
 
 # ヘッダーの書き込み
-mkdir -p $THIS_DIR_PATH/$1
+mkdir -p "$THIS_DIR_PATH"/"$1"
 
-BASE_HEADER=$(head -n 1 $INPUT_CSV)
+BASE_HEADER=$(head -n 1 "$INPUT_CSV")
 BASE_HEADER=${BASE_HEADER//$'\r'/}
 
 echo "$BASE_HEADER,number_of_insertion_lines,number_of_deletion_lines,number_of_insertion_lines_in_readme,number_of_deletion_lines_in_readme,number_of_create_files,number_of_delete_files" > $ACTIVE_RATE_CSV
@@ -56,59 +56,59 @@ echo "$BASE_HEADER,number_of_insertion_lines,number_of_deletion_lines,number_of_
 counter=0
 
 # CSVから1行ずつ読み取る
-tail -n +2 $INPUT_CSV | while IFS=, read -ra record_values; do
+tail -n +2 "$INPUT_CSV" | while IFS=, read -ra record_values; do
     fork_owner_repo=${record_values[0]} # owner/repository
     fork_repo=${fork_owner_repo#*/} # repository
 
     url="git@github.com:$fork_owner_repo.git"
-    git clone --reference $ORIGINAL_REPO_DIR --dissociate -q --no-checkout "$url" > /dev/null 2>&1
-    cd $fork_repo
+    git clone --reference "$ORIGINAL_REPO_DIR" --dissociate -q --no-checkout "$url" > /dev/null 2>&1
+    cd "$fork_repo"
 
     created_at=${record_values[2]}
-    createdat_hash=$(git log --until=$created_at --pretty=format:"%H" | head -n 1)
+    createdat_hash=$(git log --until="$created_at" --pretty=format:"%H" | head -n 1)
 
     # データ取り
     ## All
-    ch_ln_numbers_output=$(search_number_of_changed_lines $createdat_hash)
-    number_of_insertion_lines=$(echo $ch_ln_numbers_output | grep -o -E '[0-9]+ insertion' | grep -o -E '[0-9]+')
-    number_of_deletion_lines=$(echo $ch_ln_numbers_output | grep -o -E '[0-9]+ deletion' | grep -o -E '[0-9]+')
+    ch_ln_numbers_output=$(search_number_of_changed_lines "$createdat_hash")
+    number_of_insertion_lines=$(echo "$ch_ln_numbers_output" | grep -o -E '[0-9]+ insertion' | grep -o -E '[0-9]+')
+    number_of_deletion_lines=$(echo "$ch_ln_numbers_output" | grep -o -E '[0-9]+ deletion' | grep -o -E '[0-9]+')
     
-    if [ -z $number_of_insertion_lines ]
+    if [ -z "$number_of_insertion_lines" ]
     then
         number_of_insertion_lines='0'
     fi
 
-    if [ -z $number_of_deletion_lines ]
+    if [ -z "$number_of_deletion_lines" ]
     then
         number_of_deletion_lines='0'
     fi
     
     ## only README.md
-    ch_ln_numbers_output=$(search_number_of_changed_lines $createdat_hash '*/README.md README.md')
-    number_of_insertion_lines_in_readme=$( echo $ch_ln_numbers_output | grep -o -E '[0-9]+ insertion' | grep -o -E '[0-9]+')
-    number_of_deletion_lines_in_readme=$( echo $ch_ln_numbers_output | grep -o -E '[0-9]+ deletion' | grep -o -E '[0-9]+')
+    ch_ln_numbers_output=$(search_number_of_changed_lines "$createdat_hash" '*/README.md README.md')
+    number_of_insertion_lines_in_readme=$( echo "$ch_ln_numbers_output" | grep -o -E '[0-9]+ insertion' | grep -o -E '[0-9]+')
+    number_of_deletion_lines_in_readme=$( echo "$ch_ln_numbers_output" | grep -o -E '[0-9]+ deletion' | grep -o -E '[0-9]+')
 
-    if [ -z $number_of_insertion_lines_in_readme ]
+    if [ -z "$number_of_insertion_lines_in_readme" ]
     then
         number_of_insertion_lines_in_readme='0'
     fi
 
-    if [ -z $number_of_deletion_lines_in_readme ]
+    if [ -z "$number_of_deletion_lines_in_readme" ]
     then
         number_of_deletion_lines_in_readme='0'
     fi
 
     ## change fiels
-    ch_files_numbers_output=$(search_number_of_changed_files $createdat_hash)
-    number_of_create_files=$(echo $ch_files_numbers_output | grep -o -E '[0-9]+ create' | grep -o -E '[0-9]+')
-    number_of_delete_files=$(echo $ch_files_numbers_output | grep -o -E '[0-9]+ delete' | grep -o -E '[0-9]+')
+    ch_files_numbers_output=$(search_number_of_changed_files "$createdat_hash")
+    number_of_create_files=$(echo "$ch_files_numbers_output" | grep -o -E '[0-9]+ create' | grep -o -E '[0-9]+')
+    number_of_delete_files=$(echo "$ch_files_numbers_output" | grep -o -E '[0-9]+ delete' | grep -o -E '[0-9]+')
 
-    if [ -z $number_of_create_files ]
+    if [ -z "$number_of_create_files" ]
     then
         number_of_create_files='0'
     fi
 
-    if [ -z $number_of_delete_files ]
+    if [ -z "$number_of_delete_files" ]
     then
         number_of_delete_files='0'
     fi
@@ -120,17 +120,17 @@ tail -n +2 $INPUT_CSV | while IFS=, read -ra record_values; do
     echo "$record,$number_of_insertion_lines,$number_of_deletion_lines,$number_of_insertion_lines_in_readme,$number_of_deletion_lines_in_readme,$number_of_create_files,$number_of_delete_files" >> $ACTIVE_RATE_CSV
 
     # 後処理
-    cd $WORKING_DIR
-    rm -rf $fork_repo
+    cd "$WORKING_DIR"
+    rm -rf "$fork_repo"
 
     ((counter++))
-    number_of_forks=$(tail -n +2 $INPUT_CSV | wc -l)
-    show_progress $counter $number_of_forks 100
+    number_of_forks=$(tail -n +2 "$INPUT_CSV" | wc -l)
+    show_progress "$counter" "$number_of_forks" 100
 
 done
 
 #作業ディレクトリの削除
-rm -rf $WORKING_DIR
+rm -rf "$WORKING_DIR"
 
 echo
 echo "data fetch complete."
