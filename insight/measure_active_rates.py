@@ -5,10 +5,11 @@ import sys
 
 def print_usage():
     print("Usage: python script.py <arg1> <arg2> ...")
-    print("<arg1>: csvファイル")
+    print("<arg1>: input csv")
+    print("<arg2>: output csv")
     # 必要に応じて更に詳細を追加
 
-if len(sys.argv) <= 1:  # スクリプト名のみが引数の場合
+if len(sys.argv) <= 2:  # スクリプト名のみが引数の場合
     print_usage()
     sys.exit(1)  # エラー終了
 
@@ -58,5 +59,7 @@ df['score'] = (df['commit_count_norm'] * weights['commit_count'] +
 # print(top_forks[['fork_name', 'score']])
 
 # CSVファイルとして保存
-output_file_path = 'test_result.csv'
+output_file_path = sys.argv[2]
 df.sort_values(by='score', ascending=False).to_csv(output_file_path, index=False)
+
+print ('activity rate measure complete.')

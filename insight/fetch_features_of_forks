@@ -27,7 +27,7 @@ show_progress() {
 
 THIS_DIR_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)" # insight/
 INPUT_CSV="$THIS_DIR_PATH/../app/result/$1/unsorted.csv"
-ACTIVE_RATE_CSV="$THIS_DIR_PATH/$1/active_rate.csv"
+FEATURES_CSV="$THIS_DIR_PATH/$1/features.csv"
 ORIGINAL_REPO_URL="git@github.com:$1.git"
 
 # 作業ディレクトリに移動
@@ -50,7 +50,7 @@ mkdir -p "$THIS_DIR_PATH"/"$1"
 BASE_HEADER=$(head -n 1 "$INPUT_CSV")
 BASE_HEADER=${BASE_HEADER//$'\r'/}
 
-echo "$BASE_HEADER,number_of_insertion_lines,number_of_deletion_lines,number_of_insertion_lines_in_readme,number_of_deletion_lines_in_readme,number_of_create_files,number_of_delete_files" > $ACTIVE_RATE_CSV
+echo "$BASE_HEADER,number_of_insertion_lines,number_of_deletion_lines,number_of_insertion_lines_in_readme,number_of_deletion_lines_in_readme,number_of_create_files,number_of_delete_files" > $FEATURES_CSV
 
 # カウンターの設定
 counter=0
@@ -117,15 +117,15 @@ tail -n +2 "$INPUT_CSV" | while IFS=, read -ra record_values; do
     record=$(printf "%s," "${record_values[@]}")
     record=${record%,}
     record=${record//$'\r'/}
-    echo "$record,$number_of_insertion_lines,$number_of_deletion_lines,$number_of_insertion_lines_in_readme,$number_of_deletion_lines_in_readme,$number_of_create_files,$number_of_delete_files" >> $ACTIVE_RATE_CSV
+    echo "$record,$number_of_insertion_lines,$number_of_deletion_lines,$number_of_insertion_lines_in_readme,$number_of_deletion_lines_in_readme,$number_of_create_files,$number_of_delete_files" >> $FEATURES_CSV
 
     # 後処理
     cd "$WORKING_DIR"
     rm -rf "$fork_repo"
 
-    ((counter++))
-    number_of_forks=$(tail -n +2 "$INPUT_CSV" | wc -l)
-    show_progress "$counter" "$number_of_forks" 100
+    # ((counter++))
+    # number_of_forks=$(tail -n +2 "$INPUT_CSV" | wc -l)
+    # show_progress "$counter" "$number_of_forks" 100
 
 done
 

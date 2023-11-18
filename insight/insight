@@ -1,0 +1,47 @@
+#!/bin/bash
+
+print_help() {
+    echo "Usage: $0 [-r="owner"/"repository"] [-f] [-m] [-h]
+    -r:repository = ["owner"/"repository"]
+    -f:fetch
+    -m:measure
+    -h:help
+    
+    [-r]は必須。
+    [-f]と[-m]どちらも指定せず[-r]のみの場合は、fetch、measureどちらも行う。"
+
+    exit 1
+}
+
+if [ $# -eq 0 ]; then
+    print_help
+fi
+
+
+f_mode=0
+m_mode=0
+while getopts "r:fmh" opt; do
+  case $opt in
+    r) owner_repo=$OPTARG ;;
+    f) f_mode=1 ;;
+    m) m_mode=1 ;;
+    h) print_help ;;
+    \?) echo "Invalid option: -$OPTARG" >&2
+        exit 1 ;;
+  esac
+done
+
+THIS_DIR_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+if [ "$f_mode" -eq 1 ]; then
+    $THIS_DIR_PATH/'fetch_features_of_forks' $owner_repo
+    exit 1
+fi
+
+if [ "$m_mode" -eq 1 ]; then
+    python3 $THIS_DIR_PATH/measure_active_rates.py $THIS_DIR_PATH/$owner_repo/features.csv $THIS_DIR_PATH/$owner_repo/active_rates.csv
+    exit 1
+fi
+
+$THIS_DIR_PATH/'fetch_features_of_forks' $owner_repo
+python3 $THIS_DIR_PATH/measure_active_rates.py $THIS_DIR_PATH/$owner_repo/features.csv $THIS_DIR_PATH/$owner_repo/active_rates.csv
