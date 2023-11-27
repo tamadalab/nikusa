@@ -1,0 +1,25 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 401,
+                "nodes": [
+                    {
+                        "nameWithOwner": "brysonrhawkins/react-2-afternoon",
+                        "url": "https://github.com/brysonrhawkins/react-2-afternoon",
+                        "createdAt": "2020-12-20T08:03:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-02T15:59:20Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOE0DwLA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

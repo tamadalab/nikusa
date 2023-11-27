@@ -1,0 +1,515 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 150,
+                "nodes": [
+                    {
+                        "nameWithOwner": "cppmule/restful-api-specification",
+                        "url": "https://github.com/cppmule/restful-api-specification",
+                        "createdAt": "2020-07-13T04:09:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shi-yang/restful-api-specification",
+                        "url": "https://github.com/shi-yang/restful-api-specification",
+                        "createdAt": "2020-07-25T03:06:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangtao940419/restful-api-specification",
+                        "url": "https://github.com/zhangtao940419/restful-api-specification",
+                        "createdAt": "2020-08-14T07:22:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ming2050/restful-api-specification",
+                        "url": "https://github.com/ming2050/restful-api-specification",
+                        "createdAt": "2020-08-19T05:34:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "imoyao/restful-api-specification",
+                        "url": "https://github.com/imoyao/restful-api-specification",
+                        "createdAt": "2020-08-22T06:54:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hoangphison/restful-api-specification",
+                        "url": "https://github.com/hoangphison/restful-api-specification",
+                        "createdAt": "2020-08-27T17:52:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cwywing/restful-api-specification",
+                        "url": "https://github.com/cwywing/restful-api-specification",
+                        "createdAt": "2020-09-16T12:21:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liubiqu/restful-api-specification",
+                        "url": "https://github.com/liubiqu/restful-api-specification",
+                        "createdAt": "2020-11-16T05:51:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gdbiao/restful-api-specification",
+                        "url": "https://github.com/gdbiao/restful-api-specification",
+                        "createdAt": "2020-11-23T07:16:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cherrylouis/restful-api-specification",
+                        "url": "https://github.com/cherrylouis/restful-api-specification",
+                        "createdAt": "2020-11-25T01:06:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "asuratu/restful-api-specification",
+                        "url": "https://github.com/asuratu/restful-api-specification",
+                        "createdAt": "2020-11-25T07:28:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yeyeyeid/restful-api-specification",
+                        "url": "https://github.com/yeyeyeid/restful-api-specification",
+                        "createdAt": "2020-12-16T01:36:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jouse023/restful-api-specification",
+                        "url": "https://github.com/jouse023/restful-api-specification",
+                        "createdAt": "2020-12-17T09:56:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "veken-v/restful-api-specification",
+                        "url": "https://github.com/veken-v/restful-api-specification",
+                        "createdAt": "2020-12-25T06:13:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "daWxiaow/restful-api-specification",
+                        "url": "https://github.com/daWxiaow/restful-api-specification",
+                        "createdAt": "2020-12-30T01:39:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lc19890306/restful-api-specification",
+                        "url": "https://github.com/lc19890306/restful-api-specification",
+                        "createdAt": "2020-12-31T21:51:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xpbob/restful-api-specification",
+                        "url": "https://github.com/xpbob/restful-api-specification",
+                        "createdAt": "2021-01-16T10:23:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lmq12321/restful-api-specification",
+                        "url": "https://github.com/lmq12321/restful-api-specification",
+                        "createdAt": "2021-01-26T01:47:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "daviddotzhang/restful-api-specification",
+                        "url": "https://github.com/daviddotzhang/restful-api-specification",
+                        "createdAt": "2021-01-27T02:15:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jeremyfrc/restful-api-specification",
+                        "url": "https://github.com/jeremyfrc/restful-api-specification",
+                        "createdAt": "2021-01-31T21:12:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ckryo/restful-api-specification",
+                        "url": "https://github.com/ckryo/restful-api-specification",
+                        "createdAt": "2021-02-16T09:53:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "phprookiehbb/restful-api-specification",
+                        "url": "https://github.com/phprookiehbb/restful-api-specification",
+                        "createdAt": "2021-04-12T02:44:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DavidCao626/restful-api-specification",
+                        "url": "https://github.com/DavidCao626/restful-api-specification",
+                        "createdAt": "2021-04-25T04:33:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lzbj/restful-api-specification",
+                        "url": "https://github.com/lzbj/restful-api-specification",
+                        "createdAt": "2021-04-29T08:03:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shanni33/restful-api-specification",
+                        "url": "https://github.com/shanni33/restful-api-specification",
+                        "createdAt": "2021-05-24T04:52:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "1569501393/restful-api-specification",
+                        "url": "https://github.com/1569501393/restful-api-specification",
+                        "createdAt": "2021-06-23T12:35:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "maxid/restful-api-specification",
+                        "url": "https://github.com/maxid/restful-api-specification",
+                        "createdAt": "2021-06-25T03:42:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "neakni/restful-api-specification",
+                        "url": "https://github.com/neakni/restful-api-specification",
+                        "createdAt": "2021-06-29T10:06:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jinmiaoluo/restful-api-specification",
+                        "url": "https://github.com/jinmiaoluo/restful-api-specification",
+                        "createdAt": "2021-06-30T23:52:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "T-MTC/restful-api-specification",
+                        "url": "https://github.com/T-MTC/restful-api-specification",
+                        "createdAt": "2021-07-07T09:13:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "saber2pr-forks/restful-api-specification",
+                        "url": "https://github.com/saber2pr-forks/restful-api-specification",
+                        "createdAt": "2021-07-27T11:55:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "baxiang/restful-api-specification",
+                        "url": "https://github.com/baxiang/restful-api-specification",
+                        "createdAt": "2021-08-05T03:31:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "huangsong/restful-api-specification",
+                        "url": "https://github.com/huangsong/restful-api-specification",
+                        "createdAt": "2021-09-27T02:38:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jzefan/restful-api-specification",
+                        "url": "https://github.com/jzefan/restful-api-specification",
+                        "createdAt": "2021-09-30T06:20:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wanbaozhao/restful-api-specification",
+                        "url": "https://github.com/wanbaozhao/restful-api-specification",
+                        "createdAt": "2021-10-02T06:53:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MoshiCoCo/restful-api-specification",
+                        "url": "https://github.com/MoshiCoCo/restful-api-specification",
+                        "createdAt": "2021-11-03T12:57:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kang-chiajung/restful-api-specification",
+                        "url": "https://github.com/kang-chiajung/restful-api-specification",
+                        "createdAt": "2021-11-30T02:08:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "charygao/restful-api-specification",
+                        "url": "https://github.com/charygao/restful-api-specification",
+                        "createdAt": "2021-12-19T03:07:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ccxwhy/restful-api-specification",
+                        "url": "https://github.com/ccxwhy/restful-api-specification",
+                        "createdAt": "2022-01-11T12:40:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ustchcl/restful-api-specification",
+                        "url": "https://github.com/ustchcl/restful-api-specification",
+                        "createdAt": "2022-02-01T05:03:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kotlin-lover/restful-api-specification",
+                        "url": "https://github.com/kotlin-lover/restful-api-specification",
+                        "createdAt": "2022-02-24T07:37:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dystudio/restful-api-specification",
+                        "url": "https://github.com/dystudio/restful-api-specification",
+                        "createdAt": "2022-03-01T03:56:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ygnice/restful-api-specification",
+                        "url": "https://github.com/ygnice/restful-api-specification",
+                        "createdAt": "2022-03-29T05:39:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dev-hyang/restful-api-specification",
+                        "url": "https://github.com/dev-hyang/restful-api-specification",
+                        "createdAt": "2022-05-08T23:38:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jiananxu/restful-api-specification",
+                        "url": "https://github.com/jiananxu/restful-api-specification",
+                        "createdAt": "2022-05-24T02:38:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ShengguoMa/restful-api-specification",
+                        "url": "https://github.com/ShengguoMa/restful-api-specification",
+                        "createdAt": "2022-06-08T13:41:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiaochunping/restful-api-specification",
+                        "url": "https://github.com/xiaochunping/restful-api-specification",
+                        "createdAt": "2022-07-26T02:33:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wangyiyang/restful-api-specification",
+                        "url": "https://github.com/wangyiyang/restful-api-specification",
+                        "createdAt": "2022-12-25T15:03:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vinsonws/restful-api-specification",
+                        "url": "https://github.com/vinsonws/restful-api-specification",
+                        "createdAt": "2023-03-09T03:05:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wsj0413/restful-api-specification",
+                        "url": "https://github.com/wsj0413/restful-api-specification",
+                        "createdAt": "2023-04-24T17:18:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-06T01:04:10Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJazcHA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

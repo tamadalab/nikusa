@@ -1,0 +1,1005 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 99,
+                "nodes": [
+                    {
+                        "nameWithOwner": "liwanchong04719/react-redux-book",
+                        "url": "https://github.com/liwanchong04719/react-redux-book",
+                        "createdAt": "2016-10-18T03:23:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-17T04:14:58Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "davidfang/react-redux-book",
+                        "url": "https://github.com/davidfang/react-redux-book",
+                        "createdAt": "2016-12-06T08:32:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-30T21:03:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zxfjd3g/react-redux-book",
+                        "url": "https://github.com/zxfjd3g/react-redux-book",
+                        "createdAt": "2016-12-08T00:07:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-30T21:03:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chenbinqun/react-redux-book",
+                        "url": "https://github.com/chenbinqun/react-redux-book",
+                        "createdAt": "2016-12-08T09:13:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-30T21:03:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Mis-tian/react-redux-book",
+                        "url": "https://github.com/Mis-tian/react-redux-book",
+                        "createdAt": "2016-12-10T06:16:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-30T21:03:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hatedMe/react-redux-book",
+                        "url": "https://github.com/hatedMe/react-redux-book",
+                        "createdAt": "2016-12-26T07:43:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-12-24T02:39:36Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sqtihxy/react-redux-book",
+                        "url": "https://github.com/sqtihxy/react-redux-book",
+                        "createdAt": "2017-01-01T14:56:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-12-24T02:39:36Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luoshaohua/react-redux-book",
+                        "url": "https://github.com/luoshaohua/react-redux-book",
+                        "createdAt": "2017-01-09T05:08:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-06T13:56:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "HaiderMalik12/react-redux-book",
+                        "url": "https://github.com/HaiderMalik12/react-redux-book",
+                        "createdAt": "2017-01-09T08:48:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-06T13:56:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lixiaojian/react-redux-book",
+                        "url": "https://github.com/lixiaojian/react-redux-book",
+                        "createdAt": "2017-01-11T08:52:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T09:48:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chimywang/react-redux-book",
+                        "url": "https://github.com/chimywang/react-redux-book",
+                        "createdAt": "2017-01-16T02:08:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T09:48:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Yundianjia/react-redux-book",
+                        "url": "https://github.com/Yundianjia/react-redux-book",
+                        "createdAt": "2017-01-22T09:39:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-19T01:56:36Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gitzhumao/react-redux-book",
+                        "url": "https://github.com/gitzhumao/react-redux-book",
+                        "createdAt": "2017-01-25T08:30:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-19T01:56:36Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "TungYing/react-redux-book",
+                        "url": "https://github.com/TungYing/react-redux-book",
+                        "createdAt": "2017-01-25T21:57:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-19T01:56:36Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "etc1208/react-redux-book",
+                        "url": "https://github.com/etc1208/react-redux-book",
+                        "createdAt": "2017-01-30T10:10:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-19T01:56:36Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nalantianyi/react-redux-book",
+                        "url": "https://github.com/nalantianyi/react-redux-book",
+                        "createdAt": "2017-02-10T07:34:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-19T01:56:36Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Ethan810/react-redux-book",
+                        "url": "https://github.com/Ethan810/react-redux-book",
+                        "createdAt": "2017-02-23T05:40:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-21T07:25:24Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Jafeney/react-redux-book",
+                        "url": "https://github.com/Jafeney/react-redux-book",
+                        "createdAt": "2017-03-02T14:47:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-02T05:26:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leesx/react-redux-book",
+                        "url": "https://github.com/leesx/react-redux-book",
+                        "createdAt": "2017-03-08T08:47:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-02T05:26:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "harrifeng/react-redux-book",
+                        "url": "https://github.com/harrifeng/react-redux-book",
+                        "createdAt": "2017-03-14T04:09:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-02T05:26:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rayzhng/react-redux-book",
+                        "url": "https://github.com/rayzhng/react-redux-book",
+                        "createdAt": "2017-03-21T05:00:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-02T05:26:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hdfs010/react-redux-book",
+                        "url": "https://github.com/hdfs010/react-redux-book",
+                        "createdAt": "2017-03-21T15:18:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-02T05:26:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yubfan/react-redux-book",
+                        "url": "https://github.com/yubfan/react-redux-book",
+                        "createdAt": "2017-03-28T01:53:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-02T05:26:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yu520zhong/react-redux-book",
+                        "url": "https://github.com/yu520zhong/react-redux-book",
+                        "createdAt": "2017-03-31T07:39:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-02T05:26:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lijun820/react-redux-book",
+                        "url": "https://github.com/lijun820/react-redux-book",
+                        "createdAt": "2017-04-06T10:36:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-02T05:26:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rockReact/react-redux-book",
+                        "url": "https://github.com/rockReact/react-redux-book",
+                        "createdAt": "2017-04-11T11:11:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-16T12:40:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chenermeng/react-redux-book",
+                        "url": "https://github.com/chenermeng/react-redux-book",
+                        "createdAt": "2017-04-23T15:41:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jessefeng/react-redux-book",
+                        "url": "https://github.com/jessefeng/react-redux-book",
+                        "createdAt": "2017-04-27T01:20:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "minggxu9/react-redux-book",
+                        "url": "https://github.com/minggxu9/react-redux-book",
+                        "createdAt": "2017-05-07T12:18:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qwlong/react-redux-book",
+                        "url": "https://github.com/qwlong/react-redux-book",
+                        "createdAt": "2017-05-10T02:09:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "i3web/react-redux-book",
+                        "url": "https://github.com/i3web/react-redux-book",
+                        "createdAt": "2017-05-18T01:49:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shengxinjing/react-redux-book",
+                        "url": "https://github.com/shengxinjing/react-redux-book",
+                        "createdAt": "2017-05-20T12:33:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "diguanianzhu/react-redux-book",
+                        "url": "https://github.com/diguanianzhu/react-redux-book",
+                        "createdAt": "2017-06-14T08:52:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fergusKe/react-redux-book",
+                        "url": "https://github.com/fergusKe/react-redux-book",
+                        "createdAt": "2017-06-20T03:12:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qq710245114/react-redux-book",
+                        "url": "https://github.com/qq710245114/react-redux-book",
+                        "createdAt": "2017-06-20T06:17:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JinlonZhang/react-redux-book",
+                        "url": "https://github.com/JinlonZhang/react-redux-book",
+                        "createdAt": "2017-06-24T00:42:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "eastxiang/react-redux-book",
+                        "url": "https://github.com/eastxiang/react-redux-book",
+                        "createdAt": "2017-07-06T00:10:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LC-shao/react-redux-book",
+                        "url": "https://github.com/LC-shao/react-redux-book",
+                        "createdAt": "2017-07-12T07:02:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jackli7758/react-redux-book",
+                        "url": "https://github.com/jackli7758/react-redux-book",
+                        "createdAt": "2017-07-24T07:00:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "linushao/react-redux-book",
+                        "url": "https://github.com/linushao/react-redux-book",
+                        "createdAt": "2017-08-02T07:56:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AnthonyTsaiTM/react-redux-book",
+                        "url": "https://github.com/AnthonyTsaiTM/react-redux-book",
+                        "createdAt": "2017-08-03T10:15:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "huanjia/react-redux-book",
+                        "url": "https://github.com/huanjia/react-redux-book",
+                        "createdAt": "2017-08-10T12:37:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luoyumei/react-redux-book",
+                        "url": "https://github.com/luoyumei/react-redux-book",
+                        "createdAt": "2017-08-11T14:23:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zuitanfenghuaqing/react-redux-book",
+                        "url": "https://github.com/zuitanfenghuaqing/react-redux-book",
+                        "createdAt": "2017-08-24T03:14:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Terence-Cheng/react-redux-book",
+                        "url": "https://github.com/Terence-Cheng/react-redux-book",
+                        "createdAt": "2017-08-26T03:12:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "draculavlad/react-redux-book",
+                        "url": "https://github.com/draculavlad/react-redux-book",
+                        "createdAt": "2017-09-02T05:49:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SunJingxin/react-redux-book",
+                        "url": "https://github.com/SunJingxin/react-redux-book",
+                        "createdAt": "2017-09-06T10:18:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "suwu150/react-redux-book",
+                        "url": "https://github.com/suwu150/react-redux-book",
+                        "createdAt": "2017-09-18T13:29:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shitou9999/react-redux-book",
+                        "url": "https://github.com/shitou9999/react-redux-book",
+                        "createdAt": "2017-09-19T04:20:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "1099469599/react-redux-book",
+                        "url": "https://github.com/1099469599/react-redux-book",
+                        "createdAt": "2017-10-17T05:31:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LZYlove/react-redux-book",
+                        "url": "https://github.com/LZYlove/react-redux-book",
+                        "createdAt": "2017-10-20T02:58:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Creazy-nxl/react-redux-book",
+                        "url": "https://github.com/Creazy-nxl/react-redux-book",
+                        "createdAt": "2017-10-21T15:32:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Henry-Diasa/react-redux-book",
+                        "url": "https://github.com/Henry-Diasa/react-redux-book",
+                        "createdAt": "2017-10-29T16:42:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "stevinwu/react-redux-book",
+                        "url": "https://github.com/stevinwu/react-redux-book",
+                        "createdAt": "2017-12-04T15:38:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shmilyvidian/react-redux-book",
+                        "url": "https://github.com/shmilyvidian/react-redux-book",
+                        "createdAt": "2017-12-27T06:03:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tanyue116/react-redux-book",
+                        "url": "https://github.com/tanyue116/react-redux-book",
+                        "createdAt": "2017-12-27T10:13:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wuyitao/react-redux-book",
+                        "url": "https://github.com/wuyitao/react-redux-book",
+                        "createdAt": "2018-01-12T07:44:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BLTNever/react-redux-book",
+                        "url": "https://github.com/BLTNever/react-redux-book",
+                        "createdAt": "2018-01-15T03:44:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "happyudc/react-redux-book",
+                        "url": "https://github.com/happyudc/react-redux-book",
+                        "createdAt": "2018-01-19T07:32:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yujuenianbei/react-redux-book",
+                        "url": "https://github.com/yujuenianbei/react-redux-book",
+                        "createdAt": "2018-02-09T09:28:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-09T09:37:51Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dean20160218/react-redux-book",
+                        "url": "https://github.com/dean20160218/react-redux-book",
+                        "createdAt": "2018-03-01T01:16:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ludgoole/react-redux-book",
+                        "url": "https://github.com/ludgoole/react-redux-book",
+                        "createdAt": "2018-03-21T11:39:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xingtongju/react-redux-book",
+                        "url": "https://github.com/xingtongju/react-redux-book",
+                        "createdAt": "2018-03-21T15:04:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "CaterpillarPower/react-redux-book",
+                        "url": "https://github.com/CaterpillarPower/react-redux-book",
+                        "createdAt": "2018-03-29T15:46:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "2892931976/react-redux-book-1",
+                        "url": "https://github.com/2892931976/react-redux-book-1",
+                        "createdAt": "2018-04-08T15:23:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sunhaokk/react-redux-book",
+                        "url": "https://github.com/sunhaokk/react-redux-book",
+                        "createdAt": "2018-04-16T01:09:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qaseven/react-redux-book",
+                        "url": "https://github.com/qaseven/react-redux-book",
+                        "createdAt": "2018-04-16T07:15:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kingfive555/react-redux-book",
+                        "url": "https://github.com/kingfive555/react-redux-book",
+                        "createdAt": "2018-04-18T08:19:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xailocker/react-redux-book",
+                        "url": "https://github.com/xailocker/react-redux-book",
+                        "createdAt": "2018-04-21T15:52:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Jzhao520/react-redux-book",
+                        "url": "https://github.com/Jzhao520/react-redux-book",
+                        "createdAt": "2018-04-27T08:43:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "llp0114/react-redux-book",
+                        "url": "https://github.com/llp0114/react-redux-book",
+                        "createdAt": "2018-05-12T13:19:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jiangnanguying/react-redux-book",
+                        "url": "https://github.com/jiangnanguying/react-redux-book",
+                        "createdAt": "2018-05-25T16:09:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "btzdnsn/react-redux-book",
+                        "url": "https://github.com/btzdnsn/react-redux-book",
+                        "createdAt": "2018-05-28T08:09:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ljt1469/react-redux-book",
+                        "url": "https://github.com/ljt1469/react-redux-book",
+                        "createdAt": "2018-05-31T06:09:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yunbaoyuan/react-redux-book",
+                        "url": "https://github.com/yunbaoyuan/react-redux-book",
+                        "createdAt": "2018-06-21T02:25:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "baobei/react-redux-book",
+                        "url": "https://github.com/baobei/react-redux-book",
+                        "createdAt": "2018-07-16T00:09:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cuihuale/react-redux-book",
+                        "url": "https://github.com/cuihuale/react-redux-book",
+                        "createdAt": "2018-08-02T11:36:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zlyzzy/react-redux-book",
+                        "url": "https://github.com/zlyzzy/react-redux-book",
+                        "createdAt": "2018-08-13T12:01:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "icmgy/react-redux-book",
+                        "url": "https://github.com/icmgy/react-redux-book",
+                        "createdAt": "2018-09-21T17:42:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "54ted222/react-redux-book",
+                        "url": "https://github.com/54ted222/react-redux-book",
+                        "createdAt": "2018-12-18T09:53:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Neumann789/react-redux-book",
+                        "url": "https://github.com/Neumann789/react-redux-book",
+                        "createdAt": "2018-12-25T04:31:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "trust2065/react-redux-book",
+                        "url": "https://github.com/trust2065/react-redux-book",
+                        "createdAt": "2019-01-07T10:49:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "equalll/react-redux-book",
+                        "url": "https://github.com/equalll/react-redux-book",
+                        "createdAt": "2019-02-09T13:48:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mangoZT/react-redux-book",
+                        "url": "https://github.com/mangoZT/react-redux-book",
+                        "createdAt": "2019-03-11T06:34:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "reactstackkit/react-redux-book",
+                        "url": "https://github.com/reactstackkit/react-redux-book",
+                        "createdAt": "2019-03-31T02:55:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "suoling/react-redux-book",
+                        "url": "https://github.com/suoling/react-redux-book",
+                        "createdAt": "2019-04-02T01:25:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "stevekeol/react-redux-book",
+                        "url": "https://github.com/stevekeol/react-redux-book",
+                        "createdAt": "2019-04-13T18:54:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JserJser/react-redux-book",
+                        "url": "https://github.com/JserJser/react-redux-book",
+                        "createdAt": "2019-04-22T01:28:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "G-zora/react-redux-book",
+                        "url": "https://github.com/G-zora/react-redux-book",
+                        "createdAt": "2019-08-23T01:43:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Tasarinan/react-redux-book",
+                        "url": "https://github.com/Tasarinan/react-redux-book",
+                        "createdAt": "2019-10-12T07:09:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liketowalk/react-redux-book",
+                        "url": "https://github.com/liketowalk/react-redux-book",
+                        "createdAt": "2019-11-21T03:41:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zjuiuczy/react-redux-book",
+                        "url": "https://github.com/zjuiuczy/react-redux-book",
+                        "createdAt": "2020-03-23T04:05:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhuchunhui/react-redux-book",
+                        "url": "https://github.com/zhuchunhui/react-redux-book",
+                        "createdAt": "2020-05-12T05:27:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wenshuodev/react-redux-book",
+                        "url": "https://github.com/wenshuodev/react-redux-book",
+                        "createdAt": "2020-07-23T11:18:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "alwinlee/react-redux-book",
+                        "url": "https://github.com/alwinlee/react-redux-book",
+                        "createdAt": "2020-10-12T11:05:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/react-redux-book",
+                        "url": "https://github.com/hhy5277/react-redux-book",
+                        "createdAt": "2021-05-07T02:43:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mosoft521/react-redux-book",
+                        "url": "https://github.com/mosoft521/react-redux-book",
+                        "createdAt": "2021-08-27T02:23:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "stephen-net/react-redux-book",
+                        "url": "https://github.com/stephen-net/react-redux-book",
+                        "createdAt": "2022-03-17T02:35:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tianqiqiu/react-redux-book",
+                        "url": "https://github.com/tianqiqiu/react-redux-book",
+                        "createdAt": "2022-09-23T08:54:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T09:46:48Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOIDUu5Q==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

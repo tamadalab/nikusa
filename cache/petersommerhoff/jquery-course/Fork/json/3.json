@@ -1,0 +1,45 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 203,
+                "nodes": [
+                    {
+                        "nameWithOwner": "Shashivardhan2002/jquery-course",
+                        "url": "https://github.com/Shashivardhan2002/jquery-course",
+                        "createdAt": "2023-11-08T18:47:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-07T15:47:19Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pavanDeveloperkr/jquery-course",
+                        "url": "https://github.com/pavanDeveloperkr/jquery-course",
+                        "createdAt": "2023-11-09T06:12:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-07T15:47:19Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ahairshi/jquery-course",
+                        "url": "https://github.com/ahairshi/jquery-course",
+                        "createdAt": "2023-11-19T18:58:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-07T15:47:19Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKvcomg==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

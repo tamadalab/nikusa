@@ -1,0 +1,1015 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 671,
+                "nodes": [
+                    {
+                        "nameWithOwner": "austinhollenbaugh/redux-counter",
+                        "url": "https://github.com/austinhollenbaugh/redux-counter",
+                        "createdAt": "2017-02-09T23:10:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-09T23:00:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "marcus1023/redux-counter",
+                        "url": "https://github.com/marcus1023/redux-counter",
+                        "createdAt": "2017-02-15T22:58:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-10T17:27:50Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "juliecoding/redux-counter",
+                        "url": "https://github.com/juliecoding/redux-counter",
+                        "createdAt": "2017-04-06T00:34:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-06T00:24:37Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rnoelle/redux-counter",
+                        "url": "https://github.com/rnoelle/redux-counter",
+                        "createdAt": "2017-04-06T00:36:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-06T03:01:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bbbily/redux-counter",
+                        "url": "https://github.com/bbbily/redux-counter",
+                        "createdAt": "2017-04-06T00:37:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-14T22:10:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "brianjhudson/redux-counter",
+                        "url": "https://github.com/brianjhudson/redux-counter",
+                        "createdAt": "2017-04-11T15:12:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-14T22:10:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qais11/redux-counter",
+                        "url": "https://github.com/qais11/redux-counter",
+                        "createdAt": "2017-04-11T18:28:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T19:29:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mrgaud/redux-counter",
+                        "url": "https://github.com/mrgaud/redux-counter",
+                        "createdAt": "2017-04-11T18:30:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-12T00:31:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tobyfarm/redux-counter",
+                        "url": "https://github.com/tobyfarm/redux-counter",
+                        "createdAt": "2017-04-11T18:31:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-14T22:10:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jonathanrcrook/redux-counter",
+                        "url": "https://github.com/jonathanrcrook/redux-counter",
+                        "createdAt": "2017-04-11T18:31:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-14T22:10:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "agkm10/redux-counter",
+                        "url": "https://github.com/agkm10/redux-counter",
+                        "createdAt": "2017-04-11T18:31:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-14T22:10:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "daanishnasir/redux-counter",
+                        "url": "https://github.com/daanishnasir/redux-counter",
+                        "createdAt": "2017-04-11T18:31:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-14T22:10:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bfletcherbiggs/redux-counter",
+                        "url": "https://github.com/bfletcherbiggs/redux-counter",
+                        "createdAt": "2017-04-11T18:31:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-14T22:10:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jmitchell0528/redux-counter",
+                        "url": "https://github.com/jmitchell0528/redux-counter",
+                        "createdAt": "2017-04-11T18:31:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-14T02:53:37Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SheaClose/redux-counter",
+                        "url": "https://github.com/SheaClose/redux-counter",
+                        "createdAt": "2017-04-11T19:01:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-19T00:55:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JameshNelson/redux-counter",
+                        "url": "https://github.com/JameshNelson/redux-counter",
+                        "createdAt": "2017-04-27T16:42:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T18:43:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Peridigital/redux-counter",
+                        "url": "https://github.com/Peridigital/redux-counter",
+                        "createdAt": "2017-04-27T16:42:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T18:43:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MatthewLangford/redux-counter",
+                        "url": "https://github.com/MatthewLangford/redux-counter",
+                        "createdAt": "2017-04-27T16:42:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T18:43:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "timothydm42/redux-counter",
+                        "url": "https://github.com/timothydm42/redux-counter",
+                        "createdAt": "2017-04-27T16:42:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T18:43:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sbrycebarker/redux-counter",
+                        "url": "https://github.com/sbrycebarker/redux-counter",
+                        "createdAt": "2017-04-27T16:42:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T18:43:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "coreymcgarr4/redux-counter",
+                        "url": "https://github.com/coreymcgarr4/redux-counter",
+                        "createdAt": "2017-04-27T16:42:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-27T20:18:04Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Tethi5/redux-counter",
+                        "url": "https://github.com/Tethi5/redux-counter",
+                        "createdAt": "2017-04-27T16:42:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T18:43:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Nathaniel-j-s/redux-counter",
+                        "url": "https://github.com/Nathaniel-j-s/redux-counter",
+                        "createdAt": "2017-04-27T16:43:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T18:43:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kyleryker/redux-counter",
+                        "url": "https://github.com/kyleryker/redux-counter",
+                        "createdAt": "2017-04-27T16:43:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-11T18:43:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ZMcClung88/redux-counter",
+                        "url": "https://github.com/ZMcClung88/redux-counter",
+                        "createdAt": "2017-05-18T05:23:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-18T18:13:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Sambrewer/redux-counter",
+                        "url": "https://github.com/Sambrewer/redux-counter",
+                        "createdAt": "2017-05-18T17:26:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jakeheadley/redux-counter",
+                        "url": "https://github.com/jakeheadley/redux-counter",
+                        "createdAt": "2017-05-18T17:26:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-18T21:37:37Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jessenboone/redux-counter",
+                        "url": "https://github.com/jessenboone/redux-counter",
+                        "createdAt": "2017-05-18T17:26:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "codingplumber/redux-counter",
+                        "url": "https://github.com/codingplumber/redux-counter",
+                        "createdAt": "2017-05-18T17:26:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Carlos118920/redux-counter",
+                        "url": "https://github.com/Carlos118920/redux-counter",
+                        "createdAt": "2017-05-18T17:26:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ccoburn/redux-counter",
+                        "url": "https://github.com/ccoburn/redux-counter",
+                        "createdAt": "2017-05-18T17:26:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "TheSeventhLion/redux-counter",
+                        "url": "https://github.com/TheSeventhLion/redux-counter",
+                        "createdAt": "2017-05-18T17:26:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yohannisberg/redux-counter",
+                        "url": "https://github.com/yohannisberg/redux-counter",
+                        "createdAt": "2017-05-18T17:26:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-18T21:36:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NickCelaya/redux-counter",
+                        "url": "https://github.com/NickCelaya/redux-counter",
+                        "createdAt": "2017-05-18T17:26:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-19T20:03:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "domd0101/redux-counter",
+                        "url": "https://github.com/domd0101/redux-counter",
+                        "createdAt": "2017-05-18T17:26:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aceington/redux-counter",
+                        "url": "https://github.com/aceington/redux-counter",
+                        "createdAt": "2017-05-18T17:26:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "drewelizabeth/redux-counter",
+                        "url": "https://github.com/drewelizabeth/redux-counter",
+                        "createdAt": "2017-05-18T17:27:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Sarudin/redux-counter",
+                        "url": "https://github.com/Sarudin/redux-counter",
+                        "createdAt": "2017-05-18T17:27:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nkaleigh/redux-counter",
+                        "url": "https://github.com/nkaleigh/redux-counter",
+                        "createdAt": "2017-05-18T17:28:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "srumbaugh20/redux-counter",
+                        "url": "https://github.com/srumbaugh20/redux-counter",
+                        "createdAt": "2017-05-18T17:31:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gnordstrom/redux-counter",
+                        "url": "https://github.com/gnordstrom/redux-counter",
+                        "createdAt": "2017-06-08T22:50:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bluecherryme/redux-counter",
+                        "url": "https://github.com/bluecherryme/redux-counter",
+                        "createdAt": "2017-06-14T02:55:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-19T14:11:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Justiceleeg/redux-counter",
+                        "url": "https://github.com/Justiceleeg/redux-counter",
+                        "createdAt": "2017-06-14T04:10:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T19:55:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dontimoteo21/redux-counter",
+                        "url": "https://github.com/dontimoteo21/redux-counter",
+                        "createdAt": "2017-06-14T14:45:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T19:59:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "eliKeetch/redux-counter",
+                        "url": "https://github.com/eliKeetch/redux-counter",
+                        "createdAt": "2017-06-14T14:52:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jesspoemape/redux-counter",
+                        "url": "https://github.com/jesspoemape/redux-counter",
+                        "createdAt": "2017-06-14T14:54:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T18:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "TBosh/redux-counter",
+                        "url": "https://github.com/TBosh/redux-counter",
+                        "createdAt": "2017-06-14T15:05:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mitch-foster/redux-counter",
+                        "url": "https://github.com/mitch-foster/redux-counter",
+                        "createdAt": "2017-06-14T15:06:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T20:36:40Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "erpatterson11/redux-counter",
+                        "url": "https://github.com/erpatterson11/redux-counter",
+                        "createdAt": "2017-06-14T15:58:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-15T21:41:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "davidtagholmes/redux-counter",
+                        "url": "https://github.com/davidtagholmes/redux-counter",
+                        "createdAt": "2017-06-14T15:59:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NDMueller/redux-counter",
+                        "url": "https://github.com/NDMueller/redux-counter",
+                        "createdAt": "2017-06-14T15:59:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T20:11:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jesse10e/redux-counter",
+                        "url": "https://github.com/jesse10e/redux-counter",
+                        "createdAt": "2017-06-14T16:00:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rustonrr/redux-counter",
+                        "url": "https://github.com/rustonrr/redux-counter",
+                        "createdAt": "2017-06-14T16:02:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "adamfigg/redux-counter",
+                        "url": "https://github.com/adamfigg/redux-counter",
+                        "createdAt": "2017-06-14T16:03:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AlexHill5/redux-counter",
+                        "url": "https://github.com/AlexHill5/redux-counter",
+                        "createdAt": "2017-06-14T16:04:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lpabst/redux-counter",
+                        "url": "https://github.com/lpabst/redux-counter",
+                        "createdAt": "2017-06-14T16:04:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T18:46:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "briandinhtran/redux-counter",
+                        "url": "https://github.com/briandinhtran/redux-counter",
+                        "createdAt": "2017-06-14T16:04:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gswensen/redux-counter",
+                        "url": "https://github.com/gswensen/redux-counter",
+                        "createdAt": "2017-06-14T16:04:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mahburg/redux-counter",
+                        "url": "https://github.com/mahburg/redux-counter",
+                        "createdAt": "2017-06-14T16:05:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-11T22:17:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Vicki1/redux-counter",
+                        "url": "https://github.com/Vicki1/redux-counter",
+                        "createdAt": "2017-06-14T16:05:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T18:20:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bethtelford/redux-counter",
+                        "url": "https://github.com/bethtelford/redux-counter",
+                        "createdAt": "2017-06-14T16:05:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-15T16:11:04Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jdpabst/redux-counter",
+                        "url": "https://github.com/jdpabst/redux-counter",
+                        "createdAt": "2017-06-14T16:05:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T19:15:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "robinsonnathan/redux-counter",
+                        "url": "https://github.com/robinsonnathan/redux-counter",
+                        "createdAt": "2017-06-14T16:07:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Nephaelin/redux-counter",
+                        "url": "https://github.com/Nephaelin/redux-counter",
+                        "createdAt": "2017-06-14T16:07:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jaygraygray/redux-counter",
+                        "url": "https://github.com/jaygraygray/redux-counter",
+                        "createdAt": "2017-06-14T16:07:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:00:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "black-penguin/redux-counter",
+                        "url": "https://github.com/black-penguin/redux-counter",
+                        "createdAt": "2017-06-14T16:07:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T19:08:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pchiarato/redux-counter",
+                        "url": "https://github.com/pchiarato/redux-counter",
+                        "createdAt": "2017-06-14T16:38:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T22:03:03Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ivorjanderson/redux-counter",
+                        "url": "https://github.com/ivorjanderson/redux-counter",
+                        "createdAt": "2017-06-14T16:38:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "iAmYeko/redux-counter",
+                        "url": "https://github.com/iAmYeko/redux-counter",
+                        "createdAt": "2017-06-14T16:38:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "joej326/redux-counter",
+                        "url": "https://github.com/joej326/redux-counter",
+                        "createdAt": "2017-06-14T16:38:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T21:59:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ashlyndanielle/redux-counter",
+                        "url": "https://github.com/ashlyndanielle/redux-counter",
+                        "createdAt": "2017-06-14T16:38:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Alan-Miller/redux-counter",
+                        "url": "https://github.com/Alan-Miller/redux-counter",
+                        "createdAt": "2017-06-14T16:38:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-08T19:23:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jordanfuzz/redux-counter",
+                        "url": "https://github.com/jordanfuzz/redux-counter",
+                        "createdAt": "2017-06-14T16:38:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T18:26:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nturner5/redux-counter",
+                        "url": "https://github.com/nturner5/redux-counter",
+                        "createdAt": "2017-06-14T16:38:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-13T18:17:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ehuntsman/redux-counter",
+                        "url": "https://github.com/ehuntsman/redux-counter",
+                        "createdAt": "2017-06-14T16:38:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ricco1337/redux-counter",
+                        "url": "https://github.com/ricco1337/redux-counter",
+                        "createdAt": "2017-06-14T16:38:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "actualchandler/redux-counter",
+                        "url": "https://github.com/actualchandler/redux-counter",
+                        "createdAt": "2017-06-14T16:39:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "brandons9062/redux-counter",
+                        "url": "https://github.com/brandons9062/redux-counter",
+                        "createdAt": "2017-06-14T16:42:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "GL-A/redux-counter",
+                        "url": "https://github.com/GL-A/redux-counter",
+                        "createdAt": "2017-06-14T18:41:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-10T17:03:14Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chrnzhng/redux-counter",
+                        "url": "https://github.com/chrnzhng/redux-counter",
+                        "createdAt": "2017-06-17T18:35:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-17T19:13:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tehHackerz/redux-counter",
+                        "url": "https://github.com/tehHackerz/redux-counter",
+                        "createdAt": "2017-06-27T00:30:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-27T03:40:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jaydray1/redux-counter",
+                        "url": "https://github.com/jaydray1/redux-counter",
+                        "createdAt": "2017-06-27T22:21:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Yzhou2/redux-counter",
+                        "url": "https://github.com/Yzhou2/redux-counter",
+                        "createdAt": "2017-07-08T22:33:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-10T20:14:04Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "daveguymon/redux-counter",
+                        "url": "https://github.com/daveguymon/redux-counter",
+                        "createdAt": "2017-07-10T00:49:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-10T02:16:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sargent88/redux-counter",
+                        "url": "https://github.com/sargent88/redux-counter",
+                        "createdAt": "2017-07-10T05:49:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fieldsmatt86/redux-counter",
+                        "url": "https://github.com/fieldsmatt86/redux-counter",
+                        "createdAt": "2017-07-10T14:56:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ttluan411-zz/redux-counter",
+                        "url": "https://github.com/ttluan411-zz/redux-counter",
+                        "createdAt": "2017-07-10T18:57:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-10T20:52:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ikhem/redux-counter",
+                        "url": "https://github.com/ikhem/redux-counter",
+                        "createdAt": "2017-07-10T19:21:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-10T21:09:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cmwilson88/redux-counter",
+                        "url": "https://github.com/cmwilson88/redux-counter",
+                        "createdAt": "2017-07-10T19:32:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "missyjeanbeutler/redux-counter",
+                        "url": "https://github.com/missyjeanbeutler/redux-counter",
+                        "createdAt": "2017-07-10T19:40:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "carter-t/redux-counter",
+                        "url": "https://github.com/carter-t/redux-counter",
+                        "createdAt": "2017-07-10T19:43:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "KScarabello/redux-counter",
+                        "url": "https://github.com/KScarabello/redux-counter",
+                        "createdAt": "2017-07-10T19:43:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kellaisene/redux-counter",
+                        "url": "https://github.com/kellaisene/redux-counter",
+                        "createdAt": "2017-07-10T19:44:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ashleyschuette/redux-counter",
+                        "url": "https://github.com/ashleyschuette/redux-counter",
+                        "createdAt": "2017-07-10T19:46:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-10T22:01:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "huyqdang/redux-counter",
+                        "url": "https://github.com/huyqdang/redux-counter",
+                        "createdAt": "2017-07-10T19:49:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "murffious/redux-counter",
+                        "url": "https://github.com/murffious/redux-counter",
+                        "createdAt": "2017-07-11T15:22:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "janises/redux-counter",
+                        "url": "https://github.com/janises/redux-counter",
+                        "createdAt": "2017-08-07T23:15:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-08T21:35:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Johnivie141/redux-counter",
+                        "url": "https://github.com/Johnivie141/redux-counter",
+                        "createdAt": "2017-08-08T17:47:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "andiplatter/redux-counter",
+                        "url": "https://github.com/andiplatter/redux-counter",
+                        "createdAt": "2017-08-08T17:47:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "FreeFlight-Code/redux-counter",
+                        "url": "https://github.com/FreeFlight-Code/redux-counter",
+                        "createdAt": "2017-08-08T17:47:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-09T14:58:32Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOBfGd2Q==",
+                    "hasNextPage": true
+                }
+            }
+        }
+    }
+}

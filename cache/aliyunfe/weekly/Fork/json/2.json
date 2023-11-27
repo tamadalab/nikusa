@@ -1,0 +1,35 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 102,
+                "nodes": [
+                    {
+                        "nameWithOwner": "MonicaZhou/weekly-2",
+                        "url": "https://github.com/MonicaZhou/weekly-2",
+                        "createdAt": "2022-01-24T08:18:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-23T01:59:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lc19990308/weekly",
+                        "url": "https://github.com/lc19990308/weekly",
+                        "createdAt": "2023-11-01T08:18:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-23T01:59:06Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKnx9NA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 302,
+                "nodes": [
+                    {
+                        "nameWithOwner": "PhillipRose/react-animations-mini",
+                        "url": "https://github.com/PhillipRose/react-animations-mini",
+                        "createdAt": "2020-11-25T03:32:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-02T16:44:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "klesueur/react-animations-mini",
+                        "url": "https://github.com/klesueur/react-animations-mini",
+                        "createdAt": "2021-07-30T01:37:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-02T16:44:41Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOF0yWnQ==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

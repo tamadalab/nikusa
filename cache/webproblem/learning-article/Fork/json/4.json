@@ -1,0 +1,965 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 395,
+                "nodes": [
+                    {
+                        "nameWithOwner": "qubin1024/learning-article",
+                        "url": "https://github.com/qubin1024/learning-article",
+                        "createdAt": "2019-08-01T14:28:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "garyhuangdev/learning-article",
+                        "url": "https://github.com/garyhuangdev/learning-article",
+                        "createdAt": "2019-08-03T11:27:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zcySmile/learning-article",
+                        "url": "https://github.com/zcySmile/learning-article",
+                        "createdAt": "2019-08-19T09:37:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "milkkk/learning-article",
+                        "url": "https://github.com/milkkk/learning-article",
+                        "createdAt": "2019-08-22T01:18:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Howard0207/learning-article",
+                        "url": "https://github.com/Howard0207/learning-article",
+                        "createdAt": "2019-08-22T01:50:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "loopwang/learning-article",
+                        "url": "https://github.com/loopwang/learning-article",
+                        "createdAt": "2019-08-27T13:23:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kerry0955/learning-article",
+                        "url": "https://github.com/kerry0955/learning-article",
+                        "createdAt": "2019-08-28T07:18:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-11-09T06:41:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pythonfirst/learning-article",
+                        "url": "https://github.com/pythonfirst/learning-article",
+                        "createdAt": "2019-09-17T11:27:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jeaninening/learning-article",
+                        "url": "https://github.com/jeaninening/learning-article",
+                        "createdAt": "2019-09-23T03:32:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DragonFCL/learning-article",
+                        "url": "https://github.com/DragonFCL/learning-article",
+                        "createdAt": "2019-09-25T09:34:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liruiqi001/learning-article",
+                        "url": "https://github.com/liruiqi001/learning-article",
+                        "createdAt": "2019-10-09T05:15:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhhcommon/learning-article",
+                        "url": "https://github.com/hhhcommon/learning-article",
+                        "createdAt": "2019-10-09T08:54:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "linshihang/learning-article",
+                        "url": "https://github.com/linshihang/learning-article",
+                        "createdAt": "2019-10-11T08:42:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liutianzeng/learning-article",
+                        "url": "https://github.com/liutianzeng/learning-article",
+                        "createdAt": "2019-10-11T08:56:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "embaobao/learning-article",
+                        "url": "https://github.com/embaobao/learning-article",
+                        "createdAt": "2019-10-15T02:50:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DivaLotus/learning-article",
+                        "url": "https://github.com/DivaLotus/learning-article",
+                        "createdAt": "2019-10-16T15:04:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fqydyy/learning-article",
+                        "url": "https://github.com/fqydyy/learning-article",
+                        "createdAt": "2019-10-29T02:47:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "YoungZIC/learning-article",
+                        "url": "https://github.com/YoungZIC/learning-article",
+                        "createdAt": "2019-11-15T07:14:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "flymejie/learning-article",
+                        "url": "https://github.com/flymejie/learning-article",
+                        "createdAt": "2019-11-18T06:46:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "algesthesiah/learning-article",
+                        "url": "https://github.com/algesthesiah/learning-article",
+                        "createdAt": "2019-11-23T14:14:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "XZYCR7/learning-article",
+                        "url": "https://github.com/XZYCR7/learning-article",
+                        "createdAt": "2019-11-28T00:24:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "codingpianist/learning-article",
+                        "url": "https://github.com/codingpianist/learning-article",
+                        "createdAt": "2019-12-10T07:04:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "FELBC/learning-article",
+                        "url": "https://github.com/FELBC/learning-article",
+                        "createdAt": "2019-12-20T13:50:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hyqapple/learning-article",
+                        "url": "https://github.com/hyqapple/learning-article",
+                        "createdAt": "2019-12-24T07:23:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Lhasa23/learning-article",
+                        "url": "https://github.com/Lhasa23/learning-article",
+                        "createdAt": "2020-01-02T02:21:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vuexiaob/learning-article",
+                        "url": "https://github.com/vuexiaob/learning-article",
+                        "createdAt": "2020-02-27T14:03:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liwanchong04719/learning-article",
+                        "url": "https://github.com/liwanchong04719/learning-article",
+                        "createdAt": "2020-03-09T09:56:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "coding-ax/learning-article",
+                        "url": "https://github.com/coding-ax/learning-article",
+                        "createdAt": "2020-03-11T03:39:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jun0083/learning-article",
+                        "url": "https://github.com/jun0083/learning-article",
+                        "createdAt": "2020-03-12T16:40:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhiguoliang/learning-article",
+                        "url": "https://github.com/zhiguoliang/learning-article",
+                        "createdAt": "2020-03-18T01:54:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "YaohuiHou/learning-article",
+                        "url": "https://github.com/YaohuiHou/learning-article",
+                        "createdAt": "2020-04-19T02:43:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DuShuLiang/learning-article",
+                        "url": "https://github.com/DuShuLiang/learning-article",
+                        "createdAt": "2020-04-21T13:09:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JieJw/learning-article",
+                        "url": "https://github.com/JieJw/learning-article",
+                        "createdAt": "2020-05-06T11:48:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ComLife/learning-article",
+                        "url": "https://github.com/ComLife/learning-article",
+                        "createdAt": "2020-05-10T15:05:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ryan1000/learning-article",
+                        "url": "https://github.com/ryan1000/learning-article",
+                        "createdAt": "2020-05-19T11:50:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gulugulugun/learning-article",
+                        "url": "https://github.com/gulugulugun/learning-article",
+                        "createdAt": "2020-05-21T18:47:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "1562446286ZhengXiaoqi/learning-article",
+                        "url": "https://github.com/1562446286ZhengXiaoqi/learning-article",
+                        "createdAt": "2020-05-27T13:30:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Vairsly/learning-article",
+                        "url": "https://github.com/Vairsly/learning-article",
+                        "createdAt": "2020-06-03T15:22:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pipimiao/learning-article",
+                        "url": "https://github.com/pipimiao/learning-article",
+                        "createdAt": "2020-06-05T07:58:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yymfp/learning-article",
+                        "url": "https://github.com/yymfp/learning-article",
+                        "createdAt": "2020-06-09T09:12:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Dexter-C/learning-article",
+                        "url": "https://github.com/Dexter-C/learning-article",
+                        "createdAt": "2020-06-16T07:58:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wangleidegithub/learning-article",
+                        "url": "https://github.com/wangleidegithub/learning-article",
+                        "createdAt": "2020-06-23T13:24:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MaydayFive/learning-article",
+                        "url": "https://github.com/MaydayFive/learning-article",
+                        "createdAt": "2020-07-16T08:37:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "TangoMilesAway/learning-article",
+                        "url": "https://github.com/TangoMilesAway/learning-article",
+                        "createdAt": "2020-07-27T03:07:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "weichengfu/learning-article",
+                        "url": "https://github.com/weichengfu/learning-article",
+                        "createdAt": "2020-09-03T15:52:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "q569608465/learning-article",
+                        "url": "https://github.com/q569608465/learning-article",
+                        "createdAt": "2020-09-04T00:51:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LeoIris/learning-article",
+                        "url": "https://github.com/LeoIris/learning-article",
+                        "createdAt": "2020-09-19T02:40:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aess-a/learning-article",
+                        "url": "https://github.com/aess-a/learning-article",
+                        "createdAt": "2020-09-20T13:10:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xuege-cn/learning-article",
+                        "url": "https://github.com/xuege-cn/learning-article",
+                        "createdAt": "2020-09-22T06:51:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JinYeChao/learning-article",
+                        "url": "https://github.com/JinYeChao/learning-article",
+                        "createdAt": "2020-09-24T03:23:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ifency/learning-article",
+                        "url": "https://github.com/ifency/learning-article",
+                        "createdAt": "2020-09-26T09:58:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "TCXiaoming/learning-article",
+                        "url": "https://github.com/TCXiaoming/learning-article",
+                        "createdAt": "2020-09-27T13:56:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chenfancy/learning-article",
+                        "url": "https://github.com/chenfancy/learning-article",
+                        "createdAt": "2020-10-02T10:56:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yiqing2020/learning-article",
+                        "url": "https://github.com/yiqing2020/learning-article",
+                        "createdAt": "2020-10-11T11:23:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JackerSun/learning-article",
+                        "url": "https://github.com/JackerSun/learning-article",
+                        "createdAt": "2020-10-27T08:47:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hu-zhangping/learning-article",
+                        "url": "https://github.com/hu-zhangping/learning-article",
+                        "createdAt": "2020-11-13T08:45:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JackLeeMing/learning-article",
+                        "url": "https://github.com/JackLeeMing/learning-article",
+                        "createdAt": "2020-11-14T11:06:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "guochaowei/learning-article",
+                        "url": "https://github.com/guochaowei/learning-article",
+                        "createdAt": "2020-11-17T08:51:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lovenets/learning-article",
+                        "url": "https://github.com/lovenets/learning-article",
+                        "createdAt": "2020-11-22T04:45:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "antonizhubar/learning-article",
+                        "url": "https://github.com/antonizhubar/learning-article",
+                        "createdAt": "2020-12-09T03:07:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "saul-c/learning-article",
+                        "url": "https://github.com/saul-c/learning-article",
+                        "createdAt": "2020-12-09T06:08:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xinhua6/learning-article",
+                        "url": "https://github.com/xinhua6/learning-article",
+                        "createdAt": "2020-12-22T07:31:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "6rz/learning-article",
+                        "url": "https://github.com/6rz/learning-article",
+                        "createdAt": "2020-12-23T06:03:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Sllivery/learning-article",
+                        "url": "https://github.com/Sllivery/learning-article",
+                        "createdAt": "2020-12-31T02:41:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kucorei/learning-article",
+                        "url": "https://github.com/kucorei/learning-article",
+                        "createdAt": "2021-01-28T11:44:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shfzhangjian/learning-article",
+                        "url": "https://github.com/shfzhangjian/learning-article",
+                        "createdAt": "2021-01-29T00:38:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yangxin1994/learning-article",
+                        "url": "https://github.com/yangxin1994/learning-article",
+                        "createdAt": "2021-02-10T14:44:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JoyceRao/learning-article",
+                        "url": "https://github.com/JoyceRao/learning-article",
+                        "createdAt": "2021-03-14T04:51:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dizuncainiao/learning-article",
+                        "url": "https://github.com/dizuncainiao/learning-article",
+                        "createdAt": "2021-03-16T02:35:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yijiangwen/learning-article",
+                        "url": "https://github.com/yijiangwen/learning-article",
+                        "createdAt": "2021-04-19T04:31:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "maofuling/learning-article",
+                        "url": "https://github.com/maofuling/learning-article",
+                        "createdAt": "2021-05-01T09:14:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lszxiao/learning-article",
+                        "url": "https://github.com/lszxiao/learning-article",
+                        "createdAt": "2021-06-10T12:11:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tsdk/learning-article",
+                        "url": "https://github.com/tsdk/learning-article",
+                        "createdAt": "2021-06-23T06:33:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cherishing-web/learning-article",
+                        "url": "https://github.com/cherishing-web/learning-article",
+                        "createdAt": "2021-06-24T02:31:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "primitiver/learning-article",
+                        "url": "https://github.com/primitiver/learning-article",
+                        "createdAt": "2021-06-28T09:05:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Angel-guo/learning-article",
+                        "url": "https://github.com/Angel-guo/learning-article",
+                        "createdAt": "2021-07-09T07:04:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kekewind/learning-article",
+                        "url": "https://github.com/kekewind/learning-article",
+                        "createdAt": "2021-07-22T06:04:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangyiabc/learning-article",
+                        "url": "https://github.com/zhangyiabc/learning-article",
+                        "createdAt": "2021-09-16T07:48:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LGDHuaOPER/learning-article",
+                        "url": "https://github.com/LGDHuaOPER/learning-article",
+                        "createdAt": "2021-09-30T08:17:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "haoming-xm/learning-article",
+                        "url": "https://github.com/haoming-xm/learning-article",
+                        "createdAt": "2021-11-23T08:00:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LiyumingBen/learning-article",
+                        "url": "https://github.com/LiyumingBen/learning-article",
+                        "createdAt": "2022-01-13T05:55:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jamesyu89/learning-article",
+                        "url": "https://github.com/jamesyu89/learning-article",
+                        "createdAt": "2022-02-07T16:28:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bbb4396/learning-article",
+                        "url": "https://github.com/bbb4396/learning-article",
+                        "createdAt": "2022-02-21T08:56:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lan212/learning-article",
+                        "url": "https://github.com/lan212/learning-article",
+                        "createdAt": "2022-02-24T08:56:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "skypillr/learning-article",
+                        "url": "https://github.com/skypillr/learning-article",
+                        "createdAt": "2022-03-18T12:56:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mappleable/learning-article",
+                        "url": "https://github.com/mappleable/learning-article",
+                        "createdAt": "2022-05-30T20:00:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tortoisesmith/learning-article",
+                        "url": "https://github.com/tortoisesmith/learning-article",
+                        "createdAt": "2022-07-24T10:27:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Anetin/learning-article",
+                        "url": "https://github.com/Anetin/learning-article",
+                        "createdAt": "2022-08-01T11:45:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zqgogo/learning-article",
+                        "url": "https://github.com/zqgogo/learning-article",
+                        "createdAt": "2022-08-24T08:26:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "EmityJ/learning-article",
+                        "url": "https://github.com/EmityJ/learning-article",
+                        "createdAt": "2022-08-29T06:45:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "GitHubWangTwo/learning-article",
+                        "url": "https://github.com/GitHubWangTwo/learning-article",
+                        "createdAt": "2022-11-02T07:42:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jkyyang/learning-article",
+                        "url": "https://github.com/jkyyang/learning-article",
+                        "createdAt": "2023-02-26T16:19:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sylvanus9/learning-article",
+                        "url": "https://github.com/sylvanus9/learning-article",
+                        "createdAt": "2023-04-09T10:46:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "louis-chiu/learning-article",
+                        "url": "https://github.com/louis-chiu/learning-article",
+                        "createdAt": "2023-08-27T16:40:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "154305/learning-article",
+                        "url": "https://github.com/154305/learning-article",
+                        "createdAt": "2023-09-19T08:58:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-15T02:39:42Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKVbLRA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

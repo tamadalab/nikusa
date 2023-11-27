@@ -1,0 +1,1015 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 133,
+                "nodes": [
+                    {
+                        "nameWithOwner": "shivamchoudhary/slack-starterbot",
+                        "url": "https://github.com/shivamchoudhary/slack-starterbot",
+                        "createdAt": "2016-06-06T21:36:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T22:42:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cdfpaz/slack-starterbot",
+                        "url": "https://github.com/cdfpaz/slack-starterbot",
+                        "createdAt": "2016-06-08T12:01:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "benjf/slack-starterbot",
+                        "url": "https://github.com/benjf/slack-starterbot",
+                        "createdAt": "2016-06-16T19:23:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-02-26T23:13:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "taizo/slack-starterbot",
+                        "url": "https://github.com/taizo/slack-starterbot",
+                        "createdAt": "2016-07-06T08:27:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zkan/slack-starterbot",
+                        "url": "https://github.com/zkan/slack-starterbot",
+                        "createdAt": "2016-07-26T01:37:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ghoshtapo/slack-starterbot",
+                        "url": "https://github.com/ghoshtapo/slack-starterbot",
+                        "createdAt": "2016-08-13T21:32:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mikeder/slack-starterbot",
+                        "url": "https://github.com/mikeder/slack-starterbot",
+                        "createdAt": "2016-08-24T13:23:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pombredanne/slack-starterbot",
+                        "url": "https://github.com/pombredanne/slack-starterbot",
+                        "createdAt": "2016-09-14T13:59:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jasand-pereza/slack-starterbot",
+                        "url": "https://github.com/jasand-pereza/slack-starterbot",
+                        "createdAt": "2016-10-25T03:33:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BlonDev/slack-starterbot",
+                        "url": "https://github.com/BlonDev/slack-starterbot",
+                        "createdAt": "2016-10-25T20:43:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sharonzhou/slack-starterbot",
+                        "url": "https://github.com/sharonzhou/slack-starterbot",
+                        "createdAt": "2016-10-26T21:47:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-06T19:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mboersma/slack-snarkbot",
+                        "url": "https://github.com/mboersma/slack-snarkbot",
+                        "createdAt": "2016-11-03T18:27:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "khoi-fish/slack-starterbot",
+                        "url": "https://github.com/khoi-fish/slack-starterbot",
+                        "createdAt": "2016-12-02T02:41:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "exemartinez/slack-starterbot",
+                        "url": "https://github.com/exemartinez/slack-starterbot",
+                        "createdAt": "2016-12-12T20:38:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-12-29T19:27:19Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "samkos/slack-starterbot",
+                        "url": "https://github.com/samkos/slack-starterbot",
+                        "createdAt": "2016-12-27T07:04:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vashrei/slack-starterbot",
+                        "url": "https://github.com/vashrei/slack-starterbot",
+                        "createdAt": "2017-01-21T14:46:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "olirowlands/slack-starterbot",
+                        "url": "https://github.com/olirowlands/slack-starterbot",
+                        "createdAt": "2017-02-12T15:16:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "grab76/slack-starterbot",
+                        "url": "https://github.com/grab76/slack-starterbot",
+                        "createdAt": "2017-02-18T20:14:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ShevCharko/slack-starterbot",
+                        "url": "https://github.com/ShevCharko/slack-starterbot",
+                        "createdAt": "2017-02-25T02:47:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "digitalWestie/curlybot",
+                        "url": "https://github.com/digitalWestie/curlybot",
+                        "createdAt": "2017-02-26T22:54:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-27T15:02:19Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ie-junky/slack-starterbot",
+                        "url": "https://github.com/ie-junky/slack-starterbot",
+                        "createdAt": "2017-03-08T03:31:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cwaldbieser/slack-starterbot",
+                        "url": "https://github.com/cwaldbieser/slack-starterbot",
+                        "createdAt": "2017-03-08T21:41:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qkrsky/slack-starterbot",
+                        "url": "https://github.com/qkrsky/slack-starterbot",
+                        "createdAt": "2017-04-05T06:21:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RaphP/slack-starterbot",
+                        "url": "https://github.com/RaphP/slack-starterbot",
+                        "createdAt": "2017-04-07T14:46:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hvanbelle/slack-starterbot",
+                        "url": "https://github.com/hvanbelle/slack-starterbot",
+                        "createdAt": "2017-04-11T10:57:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "netwrkspider/slack-starterbot",
+                        "url": "https://github.com/netwrkspider/slack-starterbot",
+                        "createdAt": "2017-04-26T13:22:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "heaun/slack-starterbot",
+                        "url": "https://github.com/heaun/slack-starterbot",
+                        "createdAt": "2017-05-24T02:06:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kongfujianlong/slack-starterbot",
+                        "url": "https://github.com/kongfujianlong/slack-starterbot",
+                        "createdAt": "2017-07-16T19:03:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "flywhale/slack-starterbot",
+                        "url": "https://github.com/flywhale/slack-starterbot",
+                        "createdAt": "2017-08-10T15:05:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "c-meek/smashbot",
+                        "url": "https://github.com/c-meek/smashbot",
+                        "createdAt": "2017-08-11T01:01:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-11T03:14:12Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Nate-278/slack-starterbot",
+                        "url": "https://github.com/Nate-278/slack-starterbot",
+                        "createdAt": "2017-09-12T21:00:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "prav10194/slack-starterbot",
+                        "url": "https://github.com/prav10194/slack-starterbot",
+                        "createdAt": "2017-09-26T14:19:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Cwickniss/slack-starterbot",
+                        "url": "https://github.com/Cwickniss/slack-starterbot",
+                        "createdAt": "2017-10-14T13:12:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shants/slack-starterbot",
+                        "url": "https://github.com/shants/slack-starterbot",
+                        "createdAt": "2017-10-18T15:39:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-18T18:31:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "springhalu0319/slack-starterbot",
+                        "url": "https://github.com/springhalu0319/slack-starterbot",
+                        "createdAt": "2017-10-30T05:22:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cityeremite/slack-starterbot",
+                        "url": "https://github.com/cityeremite/slack-starterbot",
+                        "createdAt": "2017-11-07T09:17:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "opensourceP/slack-starterbot",
+                        "url": "https://github.com/opensourceP/slack-starterbot",
+                        "createdAt": "2017-12-01T07:00:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-07T00:11:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lgp702/slack-starterbot",
+                        "url": "https://github.com/lgp702/slack-starterbot",
+                        "createdAt": "2017-12-07T13:18:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aoberoi/slack-starterbot",
+                        "url": "https://github.com/aoberoi/slack-starterbot",
+                        "createdAt": "2017-12-13T02:37:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-27T20:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sayr777/slack-starterbot",
+                        "url": "https://github.com/sayr777/slack-starterbot",
+                        "createdAt": "2018-02-07T20:34:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dl-outcomehealth/slack-starterbot",
+                        "url": "https://github.com/dl-outcomehealth/slack-starterbot",
+                        "createdAt": "2018-02-16T19:39:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "netzo92/slack-starterbot",
+                        "url": "https://github.com/netzo92/slack-starterbot",
+                        "createdAt": "2018-02-20T04:26:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "diegosuarez/slack-starterbot",
+                        "url": "https://github.com/diegosuarez/slack-starterbot",
+                        "createdAt": "2018-02-26T10:38:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-26T10:43:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "underrtow/slack-starterbot",
+                        "url": "https://github.com/underrtow/slack-starterbot",
+                        "createdAt": "2018-03-06T07:10:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NoelKocheril/slack-starterbot",
+                        "url": "https://github.com/NoelKocheril/slack-starterbot",
+                        "createdAt": "2018-03-06T16:22:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gregSchwartz18/slack-starterbot",
+                        "url": "https://github.com/gregSchwartz18/slack-starterbot",
+                        "createdAt": "2018-03-06T19:08:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-05-22T20:49:24Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fbalestra/slack-starterbot",
+                        "url": "https://github.com/fbalestra/slack-starterbot",
+                        "createdAt": "2018-03-13T21:08:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "davidxiao93/regexbot",
+                        "url": "https://github.com/davidxiao93/regexbot",
+                        "createdAt": "2018-03-18T16:12:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-18T22:01:23Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "optionalg/slack-starterbot",
+                        "url": "https://github.com/optionalg/slack-starterbot",
+                        "createdAt": "2018-03-21T17:18:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "skrcode/chokolate-bot",
+                        "url": "https://github.com/skrcode/chokolate-bot",
+                        "createdAt": "2018-03-24T08:52:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-03-24T15:09:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "spacepajamas/slack-starterbot",
+                        "url": "https://github.com/spacepajamas/slack-starterbot",
+                        "createdAt": "2018-03-26T08:20:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JeongChanwoo/slack-starterbot",
+                        "url": "https://github.com/JeongChanwoo/slack-starterbot",
+                        "createdAt": "2018-04-03T17:34:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ukwatte/slack-starterbot",
+                        "url": "https://github.com/ukwatte/slack-starterbot",
+                        "createdAt": "2018-04-06T20:29:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tonykurya/slack-starterbot",
+                        "url": "https://github.com/tonykurya/slack-starterbot",
+                        "createdAt": "2018-04-16T10:41:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chgosportsfan/slack-starterbot",
+                        "url": "https://github.com/chgosportsfan/slack-starterbot",
+                        "createdAt": "2018-04-18T22:39:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NickRoss/slack-starterbot",
+                        "url": "https://github.com/NickRoss/slack-starterbot",
+                        "createdAt": "2018-04-19T22:27:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "guptam/slack-starterbot",
+                        "url": "https://github.com/guptam/slack-starterbot",
+                        "createdAt": "2018-04-20T07:42:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "domagojeklic/lunchbot",
+                        "url": "https://github.com/domagojeklic/lunchbot",
+                        "createdAt": "2018-05-13T10:00:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-25T11:57:40Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "equalily/slack-starterbot",
+                        "url": "https://github.com/equalily/slack-starterbot",
+                        "createdAt": "2018-05-15T03:46:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "thermaltp/slack-starterbot",
+                        "url": "https://github.com/thermaltp/slack-starterbot",
+                        "createdAt": "2018-05-29T14:49:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-20T02:37:40Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "the-cc-dev/slack-starterbot",
+                        "url": "https://github.com/the-cc-dev/slack-starterbot",
+                        "createdAt": "2018-06-07T05:50:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cjamadagni/slack-starterbot",
+                        "url": "https://github.com/cjamadagni/slack-starterbot",
+                        "createdAt": "2018-06-11T21:42:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "acediallo/slack-starterbot",
+                        "url": "https://github.com/acediallo/slack-starterbot",
+                        "createdAt": "2018-07-23T18:21:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "quoc-dev/slack-starterbot",
+                        "url": "https://github.com/quoc-dev/slack-starterbot",
+                        "createdAt": "2018-08-01T03:03:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "artipatel96/slack-starterbot",
+                        "url": "https://github.com/artipatel96/slack-starterbot",
+                        "createdAt": "2018-08-08T17:29:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cvalaas/slack-starterbot",
+                        "url": "https://github.com/cvalaas/slack-starterbot",
+                        "createdAt": "2018-08-09T22:28:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "manifoldco/tillmobile-demo",
+                        "url": "https://github.com/manifoldco/tillmobile-demo",
+                        "createdAt": "2018-08-28T17:22:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-09-10T17:03:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DucChau/slack-starterbot",
+                        "url": "https://github.com/DucChau/slack-starterbot",
+                        "createdAt": "2018-09-28T19:06:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "anotherwally/slack-starterbot",
+                        "url": "https://github.com/anotherwally/slack-starterbot",
+                        "createdAt": "2018-10-01T03:09:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "condor723/slack-starterbot",
+                        "url": "https://github.com/condor723/slack-starterbot",
+                        "createdAt": "2018-10-14T02:49:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "williampietro/slack-starterbot",
+                        "url": "https://github.com/williampietro/slack-starterbot",
+                        "createdAt": "2018-10-17T20:10:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SaltyLeo/Slack-chatbot",
+                        "url": "https://github.com/SaltyLeo/Slack-chatbot",
+                        "createdAt": "2018-10-23T08:07:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-10-26T06:04:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leewalter/slack-starterbot",
+                        "url": "https://github.com/leewalter/slack-starterbot",
+                        "createdAt": "2018-10-25T02:58:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mschellenger96/slack-starterbot",
+                        "url": "https://github.com/mschellenger96/slack-starterbot",
+                        "createdAt": "2018-10-26T22:32:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jbccollins/slack-git-image-link-bot",
+                        "url": "https://github.com/jbccollins/slack-git-image-link-bot",
+                        "createdAt": "2018-11-14T18:10:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-01-15T20:02:01Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Yi-Hu-Yueh/slack-starterbot",
+                        "url": "https://github.com/Yi-Hu-Yueh/slack-starterbot",
+                        "createdAt": "2018-12-02T03:28:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ainouche/slack-starterbot",
+                        "url": "https://github.com/ainouche/slack-starterbot",
+                        "createdAt": "2018-12-16T10:23:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "snjna/slack-starterbot",
+                        "url": "https://github.com/snjna/slack-starterbot",
+                        "createdAt": "2018-12-22T07:20:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hardaker/slack-starterbot",
+                        "url": "https://github.com/hardaker/slack-starterbot",
+                        "createdAt": "2018-12-22T16:45:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dzd/slack-starterbot",
+                        "url": "https://github.com/dzd/slack-starterbot",
+                        "createdAt": "2018-12-23T12:16:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-01-09T15:14:40Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tusharulhare/slack-starterbot",
+                        "url": "https://github.com/tusharulhare/slack-starterbot",
+                        "createdAt": "2018-12-27T09:33:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kmmanoj/slack-starterbot",
+                        "url": "https://github.com/kmmanoj/slack-starterbot",
+                        "createdAt": "2019-01-11T16:37:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sigino/slack-starterbot",
+                        "url": "https://github.com/sigino/slack-starterbot",
+                        "createdAt": "2019-02-05T05:37:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "edwhu/slack-gpt2",
+                        "url": "https://github.com/edwhu/slack-gpt2",
+                        "createdAt": "2019-03-22T09:26:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-27T01:42:52Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sn-donbenjamin/slack-starterbot",
+                        "url": "https://github.com/sn-donbenjamin/slack-starterbot",
+                        "createdAt": "2019-03-22T15:34:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bechob/slack-starterbot",
+                        "url": "https://github.com/bechob/slack-starterbot",
+                        "createdAt": "2019-04-10T20:38:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "barentsen/slack-starterbot",
+                        "url": "https://github.com/barentsen/slack-starterbot",
+                        "createdAt": "2019-04-18T19:16:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "neigungsgruppe/slack-starterbot",
+                        "url": "https://github.com/neigungsgruppe/slack-starterbot",
+                        "createdAt": "2019-04-24T17:38:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "greenmind-sec/slack-starterbot",
+                        "url": "https://github.com/greenmind-sec/slack-starterbot",
+                        "createdAt": "2019-04-25T15:41:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ankitharamadas/slack-starterbot",
+                        "url": "https://github.com/ankitharamadas/slack-starterbot",
+                        "createdAt": "2019-06-17T11:22:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mb-0/slack-starterbot",
+                        "url": "https://github.com/mb-0/slack-starterbot",
+                        "createdAt": "2019-06-20T12:17:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AdyKalra/slack-starterbot",
+                        "url": "https://github.com/AdyKalra/slack-starterbot",
+                        "createdAt": "2019-06-27T06:22:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "matt-desmarais/slack-acbot",
+                        "url": "https://github.com/matt-desmarais/slack-acbot",
+                        "createdAt": "2019-07-01T19:46:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-02T00:59:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jtibaquira/slack-starterbot",
+                        "url": "https://github.com/jtibaquira/slack-starterbot",
+                        "createdAt": "2019-07-17T23:17:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "martin-martin/slack-starterbot",
+                        "url": "https://github.com/martin-martin/slack-starterbot",
+                        "createdAt": "2019-07-20T03:08:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kishoredpt/slack-starterbot",
+                        "url": "https://github.com/kishoredpt/slack-starterbot",
+                        "createdAt": "2019-07-20T15:32:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "danielpops/slack-starterbot",
+                        "url": "https://github.com/danielpops/slack-starterbot",
+                        "createdAt": "2019-08-02T06:17:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-02T06:51:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "danelige/slack-starterbot",
+                        "url": "https://github.com/danelige/slack-starterbot",
+                        "createdAt": "2019-08-17T21:02:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "paragbaxi/slack-stop-qualys-scans-bot",
+                        "url": "https://github.com/paragbaxi/slack-stop-qualys-scans-bot",
+                        "createdAt": "2019-08-28T02:57:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-28T03:16:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pythonthings/slack-starterbot",
+                        "url": "https://github.com/pythonthings/slack-starterbot",
+                        "createdAt": "2019-09-13T19:44:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-30T12:03:46Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHODGrwzg==",
+                    "hasNextPage": true
+                }
+            }
+        }
+    }
+}

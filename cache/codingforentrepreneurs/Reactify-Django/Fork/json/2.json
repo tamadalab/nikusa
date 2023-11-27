@@ -1,0 +1,45 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 103,
+                "nodes": [
+                    {
+                        "nameWithOwner": "laurorh/Django",
+                        "url": "https://github.com/laurorh/Django",
+                        "createdAt": "2022-07-10T18:31:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-06T22:14:26Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AllenPengK/Reactify-Django",
+                        "url": "https://github.com/AllenPengK/Reactify-Django",
+                        "createdAt": "2023-01-30T10:02:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-06T22:14:26Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "PARTHIB-DEB/Reactify-Django",
+                        "url": "https://github.com/PARTHIB-DEB/Reactify-Django",
+                        "createdAt": "2023-03-26T19:27:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-06T22:14:26Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJOl2fg==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

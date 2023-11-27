@@ -1,0 +1,25 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 101,
+                "nodes": [
+                    {
+                        "nameWithOwner": "defiAnalysis/devops-api",
+                        "url": "https://github.com/defiAnalysis/devops-api",
+                        "createdAt": "2023-08-09T01:57:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-02T01:58:12Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKFAtUA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

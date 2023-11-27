@@ -1,0 +1,45 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 103,
+                "nodes": [
+                    {
+                        "nameWithOwner": "ajunlonglive/micron",
+                        "url": "https://github.com/ajunlonglive/micron",
+                        "createdAt": "2022-09-28T06:04:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-04T13:59:51Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AlexRogalskiy/micron",
+                        "url": "https://github.com/AlexRogalskiy/micron",
+                        "createdAt": "2022-11-06T00:42:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-04T13:59:51Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "theecodrdj/micron",
+                        "url": "https://github.com/theecodrdj/micron",
+                        "createdAt": "2023-10-30T06:38:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-04T13:59:51Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKmzSqw==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

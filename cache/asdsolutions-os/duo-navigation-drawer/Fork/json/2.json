@@ -1,0 +1,915 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 190,
+                "nodes": [
+                    {
+                        "nameWithOwner": "mohammadt3anii/duo-navigation-drawer",
+                        "url": "https://github.com/mohammadt3anii/duo-navigation-drawer",
+                        "createdAt": "2018-10-30T22:18:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "eorhan/duo-navigation-drawer",
+                        "url": "https://github.com/eorhan/duo-navigation-drawer",
+                        "createdAt": "2018-11-01T15:02:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "deviche/duo-navigation-drawer",
+                        "url": "https://github.com/deviche/duo-navigation-drawer",
+                        "createdAt": "2018-11-09T08:24:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "eslamfaisal/duo-navigation-drawer",
+                        "url": "https://github.com/eslamfaisal/duo-navigation-drawer",
+                        "createdAt": "2018-11-09T18:25:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lhwaizhu/duo-navigation-drawer",
+                        "url": "https://github.com/lhwaizhu/duo-navigation-drawer",
+                        "createdAt": "2018-11-10T14:31:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "thomasponzo/duo-navigation-drawer",
+                        "url": "https://github.com/thomasponzo/duo-navigation-drawer",
+                        "createdAt": "2018-11-29T12:06:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MahmoudiOussama/duo-navigation-drawer",
+                        "url": "https://github.com/MahmoudiOussama/duo-navigation-drawer",
+                        "createdAt": "2018-12-04T11:34:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chiheb-ben-jamaa/duo-navigation-drawer",
+                        "url": "https://github.com/chiheb-ben-jamaa/duo-navigation-drawer",
+                        "createdAt": "2018-12-25T04:52:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nagendrababu143/duo-navigation-drawer",
+                        "url": "https://github.com/nagendrababu143/duo-navigation-drawer",
+                        "createdAt": "2018-12-30T16:56:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pratikbutani/duo-navigation-drawer",
+                        "url": "https://github.com/pratikbutani/duo-navigation-drawer",
+                        "createdAt": "2019-01-04T05:44:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mgrmaxi/duo-navigation-drawer",
+                        "url": "https://github.com/mgrmaxi/duo-navigation-drawer",
+                        "createdAt": "2019-02-16T16:17:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BashirAltereh/duo-navigation-drawer",
+                        "url": "https://github.com/BashirAltereh/duo-navigation-drawer",
+                        "createdAt": "2019-02-25T10:20:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-19T15:57:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bvdaakster/duo-navigation-drawer",
+                        "url": "https://github.com/bvdaakster/duo-navigation-drawer",
+                        "createdAt": "2019-02-27T13:00:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-27T13:15:50Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tanvir-durlove/duo-navigation-drawer",
+                        "url": "https://github.com/tanvir-durlove/duo-navigation-drawer",
+                        "createdAt": "2019-03-04T05:50:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Ryggs/duo-navigation-drawer",
+                        "url": "https://github.com/Ryggs/duo-navigation-drawer",
+                        "createdAt": "2019-03-06T17:04:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhukunpeng0503/duo-navigation-drawer",
+                        "url": "https://github.com/zhukunpeng0503/duo-navigation-drawer",
+                        "createdAt": "2019-03-08T06:26:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "iamnaran/duo-navigation-drawer",
+                        "url": "https://github.com/iamnaran/duo-navigation-drawer",
+                        "createdAt": "2019-03-10T05:32:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "HEMAL-PATEL/duo-navigation-drawer",
+                        "url": "https://github.com/HEMAL-PATEL/duo-navigation-drawer",
+                        "createdAt": "2019-03-18T06:13:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Ramstein/duo-navigation-drawer",
+                        "url": "https://github.com/Ramstein/duo-navigation-drawer",
+                        "createdAt": "2019-03-18T18:07:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "adilo/duo-navigation-drawer",
+                        "url": "https://github.com/adilo/duo-navigation-drawer",
+                        "createdAt": "2019-03-19T16:09:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ladroshan/duo-navigation-drawer",
+                        "url": "https://github.com/ladroshan/duo-navigation-drawer",
+                        "createdAt": "2019-04-06T14:15:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MuhammedElsheikh/duo-navigation-drawer",
+                        "url": "https://github.com/MuhammedElsheikh/duo-navigation-drawer",
+                        "createdAt": "2019-04-27T11:08:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "senakurdestan/duo-navigation-drawer",
+                        "url": "https://github.com/senakurdestan/duo-navigation-drawer",
+                        "createdAt": "2019-05-19T06:08:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SuhasTS/duo-navigation-drawer",
+                        "url": "https://github.com/SuhasTS/duo-navigation-drawer",
+                        "createdAt": "2019-05-19T13:11:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sivapraka/duo-navigation-drawer",
+                        "url": "https://github.com/sivapraka/duo-navigation-drawer",
+                        "createdAt": "2019-06-04T17:15:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yb1994917/duo-navigation-drawer",
+                        "url": "https://github.com/yb1994917/duo-navigation-drawer",
+                        "createdAt": "2019-06-25T03:58:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jimmyinterview/duo-navigation-drawer",
+                        "url": "https://github.com/jimmyinterview/duo-navigation-drawer",
+                        "createdAt": "2019-07-03T02:38:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chaitanya444/duo-navigation-drawer",
+                        "url": "https://github.com/chaitanya444/duo-navigation-drawer",
+                        "createdAt": "2019-07-16T14:04:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "silexcorp/duo-navigation-drawer",
+                        "url": "https://github.com/silexcorp/duo-navigation-drawer",
+                        "createdAt": "2019-07-23T04:02:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AshHasib/duo-navigation-drawer",
+                        "url": "https://github.com/AshHasib/duo-navigation-drawer",
+                        "createdAt": "2019-08-14T10:50:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xxzghxx/duo-navigation-drawer",
+                        "url": "https://github.com/xxzghxx/duo-navigation-drawer",
+                        "createdAt": "2019-08-18T07:08:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Hendriyawan/duo-navigation-drawer",
+                        "url": "https://github.com/Hendriyawan/duo-navigation-drawer",
+                        "createdAt": "2019-08-21T02:47:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "morelotion/duo-navigation-drawer",
+                        "url": "https://github.com/morelotion/duo-navigation-drawer",
+                        "createdAt": "2019-08-28T18:38:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "oguzhangedik/duo-navigation-drawer",
+                        "url": "https://github.com/oguzhangedik/duo-navigation-drawer",
+                        "createdAt": "2019-09-23T13:49:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mousahashisho/duo-navigation-drawer",
+                        "url": "https://github.com/mousahashisho/duo-navigation-drawer",
+                        "createdAt": "2019-09-24T12:15:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shahidghafoor00/duo-navigation-drawer",
+                        "url": "https://github.com/shahidghafoor00/duo-navigation-drawer",
+                        "createdAt": "2019-10-02T03:12:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "phanuelmutuma/duo-navigation-drawer",
+                        "url": "https://github.com/phanuelmutuma/duo-navigation-drawer",
+                        "createdAt": "2019-10-30T08:46:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fatememir/duo-navigation-drawer",
+                        "url": "https://github.com/fatememir/duo-navigation-drawer",
+                        "createdAt": "2019-11-13T09:19:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "divanova123456/duo-navigation-drawer",
+                        "url": "https://github.com/divanova123456/duo-navigation-drawer",
+                        "createdAt": "2019-12-03T13:27:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NewtonRono/duo-navigation-drawer",
+                        "url": "https://github.com/NewtonRono/duo-navigation-drawer",
+                        "createdAt": "2020-01-14T23:21:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "CryoBlazeGames/duo-navigation-drawer",
+                        "url": "https://github.com/CryoBlazeGames/duo-navigation-drawer",
+                        "createdAt": "2020-02-04T05:44:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mohamedOsama2929/duo-navigation-drawer",
+                        "url": "https://github.com/mohamedOsama2929/duo-navigation-drawer",
+                        "createdAt": "2020-02-04T10:59:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dandycheung/duo-navigation-drawer",
+                        "url": "https://github.com/dandycheung/duo-navigation-drawer",
+                        "createdAt": "2020-02-08T15:09:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "erolerme/duo-navigation-drawer",
+                        "url": "https://github.com/erolerme/duo-navigation-drawer",
+                        "createdAt": "2020-02-20T14:41:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "p-vincen-t/duo-navigation-drawer",
+                        "url": "https://github.com/p-vincen-t/duo-navigation-drawer",
+                        "createdAt": "2020-03-01T14:29:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luciogj/duo-navigation-drawer",
+                        "url": "https://github.com/luciogj/duo-navigation-drawer",
+                        "createdAt": "2020-03-04T21:30:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "virendersran01/duo-navigation-drawer",
+                        "url": "https://github.com/virendersran01/duo-navigation-drawer",
+                        "createdAt": "2020-03-08T16:11:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yemmystified/duo-navigation-drawer",
+                        "url": "https://github.com/yemmystified/duo-navigation-drawer",
+                        "createdAt": "2020-03-20T11:07:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "muhammedkhaled/duo-navigation-drawer",
+                        "url": "https://github.com/muhammedkhaled/duo-navigation-drawer",
+                        "createdAt": "2020-04-10T17:32:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cpinedae001/duo-navigation-drawer",
+                        "url": "https://github.com/cpinedae001/duo-navigation-drawer",
+                        "createdAt": "2020-04-11T03:57:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-05-07T00:11:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wagaana/duo-navigation-drawer",
+                        "url": "https://github.com/wagaana/duo-navigation-drawer",
+                        "createdAt": "2020-04-22T11:21:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yellowbirdug/duo-navigation-drawer",
+                        "url": "https://github.com/yellowbirdug/duo-navigation-drawer",
+                        "createdAt": "2020-04-27T11:10:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pratikkumaar/duo-navigation-drawer",
+                        "url": "https://github.com/pratikkumaar/duo-navigation-drawer",
+                        "createdAt": "2020-04-29T15:36:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "asuhasoft/duo-navigation-drawer",
+                        "url": "https://github.com/asuhasoft/duo-navigation-drawer",
+                        "createdAt": "2020-05-06T18:35:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rvenky125/duo-navigation-drawer",
+                        "url": "https://github.com/rvenky125/duo-navigation-drawer",
+                        "createdAt": "2020-05-09T14:47:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SajjadAbbasi/duo-navigation-drawer",
+                        "url": "https://github.com/SajjadAbbasi/duo-navigation-drawer",
+                        "createdAt": "2020-05-10T22:36:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AydroidDev/duo-navigation-drawer",
+                        "url": "https://github.com/AydroidDev/duo-navigation-drawer",
+                        "createdAt": "2020-05-31T10:05:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Iyasu-Edo/duo-navigation-drawer",
+                        "url": "https://github.com/Iyasu-Edo/duo-navigation-drawer",
+                        "createdAt": "2020-06-02T14:56:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luisg122/duo-navigation-drawer",
+                        "url": "https://github.com/luisg122/duo-navigation-drawer",
+                        "createdAt": "2020-06-04T21:23:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "manahos/duo-navigation-drawer",
+                        "url": "https://github.com/manahos/duo-navigation-drawer",
+                        "createdAt": "2020-06-26T12:59:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mohammedragabmohammedborik/duo-navigation-drawer",
+                        "url": "https://github.com/mohammedragabmohammedborik/duo-navigation-drawer",
+                        "createdAt": "2020-08-17T17:58:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mga47/duo-navigation-drawer",
+                        "url": "https://github.com/mga47/duo-navigation-drawer",
+                        "createdAt": "2020-09-14T14:01:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lucidre/duo-navigation-drawer",
+                        "url": "https://github.com/lucidre/duo-navigation-drawer",
+                        "createdAt": "2020-09-16T08:58:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fatmahmubarak/duo-navigation-drawer",
+                        "url": "https://github.com/fatmahmubarak/duo-navigation-drawer",
+                        "createdAt": "2020-10-09T18:08:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Patel-Hemant/duo-navigation-drawer",
+                        "url": "https://github.com/Patel-Hemant/duo-navigation-drawer",
+                        "createdAt": "2020-10-13T18:47:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Mayur907/duo-navigation-drawer",
+                        "url": "https://github.com/Mayur907/duo-navigation-drawer",
+                        "createdAt": "2020-10-28T09:33:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "therezacuet/duo-navigation-drawer",
+                        "url": "https://github.com/therezacuet/duo-navigation-drawer",
+                        "createdAt": "2020-11-02T05:38:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "amaldz/duo-navigation-drawer",
+                        "url": "https://github.com/amaldz/duo-navigation-drawer",
+                        "createdAt": "2020-12-22T12:23:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Barai-Vivek/duo-navigation-drawer",
+                        "url": "https://github.com/Barai-Vivek/duo-navigation-drawer",
+                        "createdAt": "2021-02-22T13:52:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yudhaksatria99/duo-navigation-drawer",
+                        "url": "https://github.com/yudhaksatria99/duo-navigation-drawer",
+                        "createdAt": "2021-02-24T05:15:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RajenRanjithkumar/duo-navigation-drawer",
+                        "url": "https://github.com/RajenRanjithkumar/duo-navigation-drawer",
+                        "createdAt": "2021-03-05T14:11:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SheikhHamzaAslam/duo-navigation-drawer",
+                        "url": "https://github.com/SheikhHamzaAslam/duo-navigation-drawer",
+                        "createdAt": "2021-03-08T07:19:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NiharikaLogikoof05/duo-navigation-drawer",
+                        "url": "https://github.com/NiharikaLogikoof05/duo-navigation-drawer",
+                        "createdAt": "2021-07-09T11:42:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "UdaraWanasinghe/duo-navigation-drawer",
+                        "url": "https://github.com/UdaraWanasinghe/duo-navigation-drawer",
+                        "createdAt": "2021-07-17T17:12:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Thawtarlaminn8864/duo-navigation-drawer",
+                        "url": "https://github.com/Thawtarlaminn8864/duo-navigation-drawer",
+                        "createdAt": "2021-08-11T12:20:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Mustafa-Muhamed-Mansour/duo-navigation-drawer",
+                        "url": "https://github.com/Mustafa-Muhamed-Mansour/duo-navigation-drawer",
+                        "createdAt": "2021-09-11T13:39:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "uxhamzah/duo-navigation-drawer",
+                        "url": "https://github.com/uxhamzah/duo-navigation-drawer",
+                        "createdAt": "2022-01-13T15:30:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Jsik94/duo-navigation-drawer",
+                        "url": "https://github.com/Jsik94/duo-navigation-drawer",
+                        "createdAt": "2022-01-21T01:55:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "PINKAL2232/duo-navigation-drawer",
+                        "url": "https://github.com/PINKAL2232/duo-navigation-drawer",
+                        "createdAt": "2022-02-04T12:02:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Max4aters/duo-navigation-drawer",
+                        "url": "https://github.com/Max4aters/duo-navigation-drawer",
+                        "createdAt": "2022-02-08T01:26:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "imabhisheknath/duo-navigation-drawer",
+                        "url": "https://github.com/imabhisheknath/duo-navigation-drawer",
+                        "createdAt": "2022-03-09T06:32:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "khayalsherif/duo-navigation-drawer",
+                        "url": "https://github.com/khayalsherif/duo-navigation-drawer",
+                        "createdAt": "2022-03-31T11:58:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "andriboom/duo-navigation-drawer",
+                        "url": "https://github.com/andriboom/duo-navigation-drawer",
+                        "createdAt": "2022-05-10T04:33:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BasilRawashdeh/duo-navigation-drawer",
+                        "url": "https://github.com/BasilRawashdeh/duo-navigation-drawer",
+                        "createdAt": "2022-05-11T07:52:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JamSilverio/duo-navigation-drawer",
+                        "url": "https://github.com/JamSilverio/duo-navigation-drawer",
+                        "createdAt": "2022-06-27T13:37:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DruSadeMumba/duo-navigation-drawer",
+                        "url": "https://github.com/DruSadeMumba/duo-navigation-drawer",
+                        "createdAt": "2022-08-19T10:00:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "saicharan11111/duo-navigation-drawer",
+                        "url": "https://github.com/saicharan11111/duo-navigation-drawer",
+                        "createdAt": "2022-08-27T09:15:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sirojkhuja/duo-navigation-drawer",
+                        "url": "https://github.com/sirojkhuja/duo-navigation-drawer",
+                        "createdAt": "2022-10-04T03:00:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "EnDigitalUY/duo-navigation-drawer",
+                        "url": "https://github.com/EnDigitalUY/duo-navigation-drawer",
+                        "createdAt": "2023-04-23T03:02:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Coby232/duo-navigation-drawer",
+                        "url": "https://github.com/Coby232/duo-navigation-drawer",
+                        "createdAt": "2023-07-18T07:44:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-28T10:16:09Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJ8zo5A==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 122,
+                "nodes": [
+                    {
+                        "nameWithOwner": "spgunarath/webmail-lite",
+                        "url": "https://github.com/spgunarath/webmail-lite",
+                        "createdAt": "2019-07-22T22:19:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-01-09T11:54:40Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dpoper/webmail-lite",
+                        "url": "https://github.com/dpoper/webmail-lite",
+                        "createdAt": "2019-10-24T18:17:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-01-09T11:54:40Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Decoder1978/webmail-lite",
+                        "url": "https://github.com/Decoder1978/webmail-lite",
+                        "createdAt": "2020-01-08T08:27:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "erichuang2015/webmail-lite",
+                        "url": "https://github.com/erichuang2015/webmail-lite",
+                        "createdAt": "2020-04-01T01:24:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "P1eas1ng/webmail-lite",
+                        "url": "https://github.com/P1eas1ng/webmail-lite",
+                        "createdAt": "2020-04-13T07:01:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aijamie/webmail-lite",
+                        "url": "https://github.com/aijamie/webmail-lite",
+                        "createdAt": "2020-04-17T17:29:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Hdzjohan/webmail-lite",
+                        "url": "https://github.com/Hdzjohan/webmail-lite",
+                        "createdAt": "2020-06-09T17:37:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hixio-mh/webmail-lite",
+                        "url": "https://github.com/hixio-mh/webmail-lite",
+                        "createdAt": "2020-08-23T18:12:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-08-23T18:13:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "digitalosaurus/webmail-lite",
+                        "url": "https://github.com/digitalosaurus/webmail-lite",
+                        "createdAt": "2020-09-28T10:33:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "inmanturbo/webmail-lite",
+                        "url": "https://github.com/inmanturbo/webmail-lite",
+                        "createdAt": "2020-12-17T07:33:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rondeo-balos/webmail-lite",
+                        "url": "https://github.com/rondeo-balos/webmail-lite",
+                        "createdAt": "2021-01-05T14:06:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2021-01-06T17:02:52Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ryanbekabe/webmail-lite",
+                        "url": "https://github.com/ryanbekabe/webmail-lite",
+                        "createdAt": "2021-02-22T01:37:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mlzummo/webmail-lite",
+                        "url": "https://github.com/mlzummo/webmail-lite",
+                        "createdAt": "2021-05-31T21:51:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hw-1/webmail-lite",
+                        "url": "https://github.com/hw-1/webmail-lite",
+                        "createdAt": "2021-06-08T07:48:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2022-06-28T11:21:22Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "phil0x1/webmail-lite",
+                        "url": "https://github.com/phil0x1/webmail-lite",
+                        "createdAt": "2021-09-07T23:22:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hanjinhang/webmail-lite",
+                        "url": "https://github.com/hanjinhang/webmail-lite",
+                        "createdAt": "2022-02-21T05:45:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Dheia/webmail-lite",
+                        "url": "https://github.com/Dheia/webmail-lite",
+                        "createdAt": "2022-02-23T14:20:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dexit/webmail-lite",
+                        "url": "https://github.com/dexit/webmail-lite",
+                        "createdAt": "2022-07-05T16:22:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "eaglexmw-gmail/webmail-lite",
+                        "url": "https://github.com/eaglexmw-gmail/webmail-lite",
+                        "createdAt": "2022-08-05T01:59:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Boyquotes/webmail-lite",
+                        "url": "https://github.com/Boyquotes/webmail-lite",
+                        "createdAt": "2023-03-15T04:32:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kkeenee/webmail-lite",
+                        "url": "https://github.com/kkeenee/webmail-lite",
+                        "createdAt": "2023-08-28T01:03:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ebikjr/webmail-lite",
+                        "url": "https://github.com/ebikjr/webmail-lite",
+                        "createdAt": "2023-10-06T11:06:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-08T07:19:27Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKc0J9g==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

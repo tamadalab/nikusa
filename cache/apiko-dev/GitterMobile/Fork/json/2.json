@@ -1,0 +1,635 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 162,
+                "nodes": [
+                    {
+                        "nameWithOwner": "motogod/GitterMobile",
+                        "url": "https://github.com/motogod/GitterMobile",
+                        "createdAt": "2019-04-18T03:11:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Jucerweb/GitterMobile",
+                        "url": "https://github.com/Jucerweb/GitterMobile",
+                        "createdAt": "2019-04-24T16:31:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JensenSung/GitterMobile",
+                        "url": "https://github.com/JensenSung/GitterMobile",
+                        "createdAt": "2019-05-30T01:53:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Nitin-BSFT/GitterMobile",
+                        "url": "https://github.com/Nitin-BSFT/GitterMobile",
+                        "createdAt": "2019-05-30T04:34:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "matbakcode/GitterMobile",
+                        "url": "https://github.com/matbakcode/GitterMobile",
+                        "createdAt": "2019-06-02T19:43:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "piumsudhara/GitterMobile",
+                        "url": "https://github.com/piumsudhara/GitterMobile",
+                        "createdAt": "2019-06-08T16:27:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "isgas/GitterMobile",
+                        "url": "https://github.com/isgas/GitterMobile",
+                        "createdAt": "2019-06-10T12:02:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "beRoller/GitterMobile",
+                        "url": "https://github.com/beRoller/GitterMobile",
+                        "createdAt": "2019-06-13T20:29:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sayyidisal/GitterMobile",
+                        "url": "https://github.com/sayyidisal/GitterMobile",
+                        "createdAt": "2019-06-27T16:31:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sergiulucaci/GitterMobile",
+                        "url": "https://github.com/sergiulucaci/GitterMobile",
+                        "createdAt": "2019-07-08T09:54:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sbhat423/GitterMobile",
+                        "url": "https://github.com/sbhat423/GitterMobile",
+                        "createdAt": "2019-07-18T03:47:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ilhamsa1/GitterMobile",
+                        "url": "https://github.com/ilhamsa1/GitterMobile",
+                        "createdAt": "2019-07-22T06:22:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JaswanthReddy-Vutukuri/GitterMobile",
+                        "url": "https://github.com/JaswanthReddy-Vutukuri/GitterMobile",
+                        "createdAt": "2019-07-22T11:01:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ecode-ethiopia/GitterMobile",
+                        "url": "https://github.com/ecode-ethiopia/GitterMobile",
+                        "createdAt": "2019-07-26T04:03:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ankur729/GitterMobile",
+                        "url": "https://github.com/ankur729/GitterMobile",
+                        "createdAt": "2019-07-26T12:04:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "TestGitB/GitterMobile",
+                        "url": "https://github.com/TestGitB/GitterMobile",
+                        "createdAt": "2019-08-16T08:11:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vtgssiva/GitterMobile",
+                        "url": "https://github.com/vtgssiva/GitterMobile",
+                        "createdAt": "2019-08-19T15:27:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DBarreto1996/GitterMobile",
+                        "url": "https://github.com/DBarreto1996/GitterMobile",
+                        "createdAt": "2019-08-25T19:18:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nhat292/GitterMobile",
+                        "url": "https://github.com/nhat292/GitterMobile",
+                        "createdAt": "2019-08-31T16:00:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tayoagboola/GitterMobile",
+                        "url": "https://github.com/tayoagboola/GitterMobile",
+                        "createdAt": "2019-09-11T23:20:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dreamdev92/GitterMobile",
+                        "url": "https://github.com/dreamdev92/GitterMobile",
+                        "createdAt": "2019-09-13T02:45:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "CristianGarciaAlvarez93/GitterMobile",
+                        "url": "https://github.com/CristianGarciaAlvarez93/GitterMobile",
+                        "createdAt": "2019-09-20T18:32:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "harsh2201/GitterMobile",
+                        "url": "https://github.com/harsh2201/GitterMobile",
+                        "createdAt": "2019-10-03T06:36:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ghoshsam/GitterMobile",
+                        "url": "https://github.com/ghoshsam/GitterMobile",
+                        "createdAt": "2019-10-24T13:48:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mlutfiibra-playground/GitterMobile",
+                        "url": "https://github.com/mlutfiibra-playground/GitterMobile",
+                        "createdAt": "2019-12-04T03:13:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "r3sult/GitterMobile",
+                        "url": "https://github.com/r3sult/GitterMobile",
+                        "createdAt": "2019-12-05T18:59:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vidsgr/GitterMobile",
+                        "url": "https://github.com/vidsgr/GitterMobile",
+                        "createdAt": "2019-12-22T06:45:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Sheena1303/GitterMobile",
+                        "url": "https://github.com/Sheena1303/GitterMobile",
+                        "createdAt": "2019-12-27T06:51:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hoang89/GitterMobile",
+                        "url": "https://github.com/hoang89/GitterMobile",
+                        "createdAt": "2020-01-06T07:03:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "akunamatata701/GitterMobile",
+                        "url": "https://github.com/akunamatata701/GitterMobile",
+                        "createdAt": "2020-01-17T15:07:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mazensnap/GitterMobile",
+                        "url": "https://github.com/mazensnap/GitterMobile",
+                        "createdAt": "2020-01-18T11:00:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "waldow90/GitterMobile",
+                        "url": "https://github.com/waldow90/GitterMobile",
+                        "createdAt": "2020-01-22T21:38:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DarshitDsp/GitterMobile",
+                        "url": "https://github.com/DarshitDsp/GitterMobile",
+                        "createdAt": "2020-02-08T09:23:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "codecopy/GitterMobile",
+                        "url": "https://github.com/codecopy/GitterMobile",
+                        "createdAt": "2020-03-16T11:00:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jakkireddy/GitterMobile",
+                        "url": "https://github.com/jakkireddy/GitterMobile",
+                        "createdAt": "2020-03-22T17:50:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sudo-jack-admin/GitterMobile",
+                        "url": "https://github.com/sudo-jack-admin/GitterMobile",
+                        "createdAt": "2020-03-31T07:29:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "manirathnem/GitterMobile",
+                        "url": "https://github.com/manirathnem/GitterMobile",
+                        "createdAt": "2020-05-06T09:23:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Mudhol/GitterMobile",
+                        "url": "https://github.com/Mudhol/GitterMobile",
+                        "createdAt": "2020-05-06T17:33:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nguyenthanhcong101096/GitterMobile",
+                        "url": "https://github.com/nguyenthanhcong101096/GitterMobile",
+                        "createdAt": "2020-05-24T04:55:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "danymendez/GitterMobile",
+                        "url": "https://github.com/danymendez/GitterMobile",
+                        "createdAt": "2020-06-14T00:06:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SatalBill/GitterMobile",
+                        "url": "https://github.com/SatalBill/GitterMobile",
+                        "createdAt": "2020-06-24T04:22:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "EmreGumus1/GitterMobile",
+                        "url": "https://github.com/EmreGumus1/GitterMobile",
+                        "createdAt": "2020-09-26T12:28:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2023-06-21T19:52:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "amitnsky/GitterMobile",
+                        "url": "https://github.com/amitnsky/GitterMobile",
+                        "createdAt": "2020-09-30T14:27:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hohlyak/GitterMobile",
+                        "url": "https://github.com/hohlyak/GitterMobile",
+                        "createdAt": "2020-12-02T08:54:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "madept/GitterMobile",
+                        "url": "https://github.com/madept/GitterMobile",
+                        "createdAt": "2020-12-17T19:19:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "code-odyssey-trunk/GitterMobile",
+                        "url": "https://github.com/code-odyssey-trunk/GitterMobile",
+                        "createdAt": "2021-03-03T11:36:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AmineAouragh/GitterMobile",
+                        "url": "https://github.com/AmineAouragh/GitterMobile",
+                        "createdAt": "2021-03-27T21:38:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sshyran/Gitter-im-Mobile",
+                        "url": "https://github.com/sshyran/Gitter-im-Mobile",
+                        "createdAt": "2021-04-01T17:00:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "teczgirish/GitterMobile",
+                        "url": "https://github.com/teczgirish/GitterMobile",
+                        "createdAt": "2021-05-30T20:46:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bimlu/GitterMobile",
+                        "url": "https://github.com/bimlu/GitterMobile",
+                        "createdAt": "2021-06-04T18:32:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Xkill119966/GitterMobile",
+                        "url": "https://github.com/Xkill119966/GitterMobile",
+                        "createdAt": "2021-06-26T17:26:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MOUSSAhabib/GitterMobile",
+                        "url": "https://github.com/MOUSSAhabib/GitterMobile",
+                        "createdAt": "2021-09-04T17:52:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BrittoPaulo/GitterMobile",
+                        "url": "https://github.com/BrittoPaulo/GitterMobile",
+                        "createdAt": "2021-09-27T02:32:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "otisgbangba/GitterMobile",
+                        "url": "https://github.com/otisgbangba/GitterMobile",
+                        "createdAt": "2022-02-02T16:03:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "swantbo/GitterMobile",
+                        "url": "https://github.com/swantbo/GitterMobile",
+                        "createdAt": "2022-02-14T10:56:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ajunlonglive/GitterMobile",
+                        "url": "https://github.com/ajunlonglive/GitterMobile",
+                        "createdAt": "2022-02-14T15:30:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "anto-deepsource/GitterMobile",
+                        "url": "https://github.com/anto-deepsource/GitterMobile",
+                        "createdAt": "2022-02-16T10:34:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "haidi20/GitterMobile",
+                        "url": "https://github.com/haidi20/GitterMobile",
+                        "createdAt": "2022-04-09T16:29:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fong1966/GitterMobile",
+                        "url": "https://github.com/fong1966/GitterMobile",
+                        "createdAt": "2022-05-18T08:47:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "oops-shlok/GitterMobile",
+                        "url": "https://github.com/oops-shlok/GitterMobile",
+                        "createdAt": "2022-05-20T19:22:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SectionTN/GitterMobile",
+                        "url": "https://github.com/SectionTN/GitterMobile",
+                        "createdAt": "2022-09-28T16:07:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "simsimient1/GitterMobile",
+                        "url": "https://github.com/simsimient1/GitterMobile",
+                        "createdAt": "2023-08-16T20:27:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-12T12:34:32Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKH9Big==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

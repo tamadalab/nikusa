@@ -1,0 +1,1015 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 1065,
+                "nodes": [
+                    {
+                        "nameWithOwner": "jaymar85/react-4-afternoon",
+                        "url": "https://github.com/jaymar85/react-4-afternoon",
+                        "createdAt": "2019-08-22T19:15:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-22T23:28:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cwshields/react-3-afternoon",
+                        "url": "https://github.com/cwshields/react-3-afternoon",
+                        "createdAt": "2019-08-23T16:22:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-23T16:30:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tjamesstone/react-3-afternoon",
+                        "url": "https://github.com/tjamesstone/react-3-afternoon",
+                        "createdAt": "2019-08-29T14:36:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T18:26:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "beneccles/react-3-afternoon",
+                        "url": "https://github.com/beneccles/react-3-afternoon",
+                        "createdAt": "2019-08-29T15:46:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T23:05:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mlunceford/react-3-afternoon",
+                        "url": "https://github.com/mlunceford/react-3-afternoon",
+                        "createdAt": "2019-08-29T16:02:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T21:42:37Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "feliciamcfadden/react-3-afternoon",
+                        "url": "https://github.com/feliciamcfadden/react-3-afternoon",
+                        "createdAt": "2019-08-29T17:40:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-09T04:09:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Codus1127/react-3-afternoon",
+                        "url": "https://github.com/Codus1127/react-3-afternoon",
+                        "createdAt": "2019-08-29T19:27:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T22:50:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rhospencer/react-3-afternoon",
+                        "url": "https://github.com/rhospencer/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:28:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T21:24:24Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xeroxfiend/react-3-afternoon",
+                        "url": "https://github.com/xeroxfiend/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:28:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T22:50:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Ohlwilerj/react-3-afternoon",
+                        "url": "https://github.com/Ohlwilerj/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:29:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T22:48:23Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mallorym-dev/react-3-afternoon",
+                        "url": "https://github.com/mallorym-dev/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:29:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T23:08:57Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "k4cruise23/react-3-afternoon",
+                        "url": "https://github.com/k4cruise23/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:29:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T23:03:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ZacharySpilinek/react-3-afternoon",
+                        "url": "https://github.com/ZacharySpilinek/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:29:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T22:07:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rrgy/react-3-afternoon",
+                        "url": "https://github.com/rrgy/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:29:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-17T22:32:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SkylarSiggard/react-3-afternoon",
+                        "url": "https://github.com/SkylarSiggard/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:30:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T22:55:04Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mckaypaswaters/react-3-afternoon",
+                        "url": "https://github.com/mckaypaswaters/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:30:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T22:47:19Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "PopeDearden/react-3-afternoon",
+                        "url": "https://github.com/PopeDearden/react-3-afternoon",
+                        "createdAt": "2019-08-29T20:31:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-29T22:25:22Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "creativecode99/react-3-afternoon",
+                        "url": "https://github.com/creativecode99/react-3-afternoon",
+                        "createdAt": "2019-09-06T05:57:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-09T04:09:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "suthyscott/react-3-afternoon",
+                        "url": "https://github.com/suthyscott/react-3-afternoon",
+                        "createdAt": "2019-09-26T16:08:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-09T04:09:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "colefin8/react-3-afternoon",
+                        "url": "https://github.com/colefin8/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:10:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T20:42:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RobertReiss/react-3-afternoon",
+                        "url": "https://github.com/RobertReiss/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:29:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T20:54:28Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RSpenc123/react-3-afternoon",
+                        "url": "https://github.com/RSpenc123/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:29:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T22:18:58Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BraidenWinegar/react-3-afternoon",
+                        "url": "https://github.com/BraidenWinegar/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:31:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T22:28:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "grayluker05/react-3-afternoon",
+                        "url": "https://github.com/grayluker05/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:32:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T22:17:52Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SidAhrend/react-3-afternoon",
+                        "url": "https://github.com/SidAhrend/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:32:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T21:58:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "valAizcorbe/react-3-afternoon",
+                        "url": "https://github.com/valAizcorbe/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:32:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-30T02:21:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "thanjarvis/react-3-afternoon-1",
+                        "url": "https://github.com/thanjarvis/react-3-afternoon-1",
+                        "createdAt": "2019-09-26T19:33:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T21:38:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "trcasper/react-3-afternoon",
+                        "url": "https://github.com/trcasper/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:35:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T21:50:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "andeerowe/react-3-afternoon",
+                        "url": "https://github.com/andeerowe/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:35:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T21:38:01Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tavasjn/react-3-afternoon",
+                        "url": "https://github.com/tavasjn/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:36:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T22:37:37Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "derekcbutler/react-3-afternoon",
+                        "url": "https://github.com/derekcbutler/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:36:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T22:16:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pagecow/react-3-afternoon",
+                        "url": "https://github.com/pagecow/react-3-afternoon",
+                        "createdAt": "2019-09-26T19:49:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T21:50:22Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ShaneGallatin/react-3-afternoon",
+                        "url": "https://github.com/ShaneGallatin/react-3-afternoon",
+                        "createdAt": "2019-10-03T17:40:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T20:27:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ab364608/react-3-afternoon",
+                        "url": "https://github.com/ab364608/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:08:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T19:58:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JesseBadgley/react-3-afternoon",
+                        "url": "https://github.com/JesseBadgley/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:26:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T21:45:08Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JosefWalls/react-3-afternoon",
+                        "url": "https://github.com/JosefWalls/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:27:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-07T01:32:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "emilylee927/react-3-afternoon",
+                        "url": "https://github.com/emilylee927/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:33:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-06T23:42:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "camcraw30/react-3-afternoon",
+                        "url": "https://github.com/camcraw30/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:33:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-18T16:25:09Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pthibodeau11/react-3-afternoon",
+                        "url": "https://github.com/pthibodeau11/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:35:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T22:18:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "KyleKCarter/react-3-afternoon",
+                        "url": "https://github.com/KyleKCarter/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:39:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T23:12:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JamesBlountIV/react-3-afternoon",
+                        "url": "https://github.com/JamesBlountIV/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:43:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T21:19:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "devtb12/react-3-afternoon",
+                        "url": "https://github.com/devtb12/react-3-afternoon",
+                        "createdAt": "2019-10-03T18:58:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T22:13:23Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "thoover1/react-3-afternoon",
+                        "url": "https://github.com/thoover1/react-3-afternoon",
+                        "createdAt": "2019-10-03T19:37:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-09T04:09:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jorovernier/react-3-afternoon",
+                        "url": "https://github.com/jorovernier/react-3-afternoon",
+                        "createdAt": "2019-10-03T20:21:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T21:53:23Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NickTillinghast/react-3-afternoon",
+                        "url": "https://github.com/NickTillinghast/react-3-afternoon",
+                        "createdAt": "2019-10-03T20:26:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-04T00:32:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "isaachansen/react-3-afternoon",
+                        "url": "https://github.com/isaachansen/react-3-afternoon",
+                        "createdAt": "2019-10-03T21:07:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T22:44:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "C-E-Campbell/react-3-afternoon",
+                        "url": "https://github.com/C-E-Campbell/react-3-afternoon",
+                        "createdAt": "2019-10-03T21:08:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T22:54:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "maxhbrt/react-3-afternoon",
+                        "url": "https://github.com/maxhbrt/react-3-afternoon",
+                        "createdAt": "2019-10-03T21:09:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-03T23:51:43Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RobnettSean22/react-3-afternoon",
+                        "url": "https://github.com/RobnettSean22/react-3-afternoon",
+                        "createdAt": "2019-10-03T21:10:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-04T00:53:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "codus1127-1/react-3-afternoon",
+                        "url": "https://github.com/codus1127-1/react-3-afternoon",
+                        "createdAt": "2019-10-15T17:32:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-17T17:54:45Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fred-archive/react-3-afternoon",
+                        "url": "https://github.com/fred-archive/react-3-afternoon",
+                        "createdAt": "2019-10-15T22:53:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T20:24:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Chazensign/react-3-afternoon-1",
+                        "url": "https://github.com/Chazensign/react-3-afternoon-1",
+                        "createdAt": "2019-10-16T04:32:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T22:46:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Shokupanman/react-3-afternoon",
+                        "url": "https://github.com/Shokupanman/react-3-afternoon",
+                        "createdAt": "2019-10-16T17:35:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T21:46:08Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "StephenHubbard/react-3-afternoon",
+                        "url": "https://github.com/StephenHubbard/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:19:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T21:49:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RobertReissWLH12/react-3-afternoon",
+                        "url": "https://github.com/RobertReissWLH12/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:35:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T22:17:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jnjagod/react-3-afternoon",
+                        "url": "https://github.com/jnjagod/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:41:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-17T03:25:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ShayShayLaRae/react-3-afternoon",
+                        "url": "https://github.com/ShayShayLaRae/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:42:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-02T05:38:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nhloder/react-3-afternoon",
+                        "url": "https://github.com/nhloder/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:42:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T21:37:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JohnLewis917/react-3-afternoon",
+                        "url": "https://github.com/JohnLewis917/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:45:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T23:02:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MimiTraugott/react-3-afternoon",
+                        "url": "https://github.com/MimiTraugott/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:46:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T22:49:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Vosslc/react-3-afternoon",
+                        "url": "https://github.com/Vosslc/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:48:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-12T04:43:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "carterqe/react-3-afternoon",
+                        "url": "https://github.com/carterqe/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:49:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-17T22:34:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NicCall55/react-3-afternoon",
+                        "url": "https://github.com/NicCall55/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:54:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-29T02:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "williamTyrome2/react-3-afternoon",
+                        "url": "https://github.com/williamTyrome2/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:54:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T21:07:12Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "WillHoll/react-3-afternoon",
+                        "url": "https://github.com/WillHoll/react-3-afternoon",
+                        "createdAt": "2019-10-16T19:56:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T22:19:04Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "holly-ctrl/react-3-afternoon",
+                        "url": "https://github.com/holly-ctrl/react-3-afternoon",
+                        "createdAt": "2019-10-16T20:04:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-23T15:18:12Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jeramiah1017/react-3-afternoon",
+                        "url": "https://github.com/jeramiah1017/react-3-afternoon",
+                        "createdAt": "2019-10-16T20:19:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-21T00:50:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ethancall988/react-3-afternoon",
+                        "url": "https://github.com/ethancall988/react-3-afternoon",
+                        "createdAt": "2019-10-16T20:38:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-29T02:40:19Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "laprje/react-3-afternoon-1",
+                        "url": "https://github.com/laprje/react-3-afternoon-1",
+                        "createdAt": "2019-10-16T22:15:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-16T22:25:51Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sean3rd0/react-3-afternoon",
+                        "url": "https://github.com/sean3rd0/react-3-afternoon",
+                        "createdAt": "2019-10-21T21:03:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-21T22:29:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Anthonyavilz/react-3-afternoon",
+                        "url": "https://github.com/Anthonyavilz/react-3-afternoon",
+                        "createdAt": "2019-10-21T21:48:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-10-28T19:04:28Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Kmonterohenriquez/react-3-afternoon",
+                        "url": "https://github.com/Kmonterohenriquez/react-3-afternoon",
+                        "createdAt": "2019-11-12T20:29:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T22:09:04Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gray-luker-wlh13/react-3-afternoon-1",
+                        "url": "https://github.com/gray-luker-wlh13/react-3-afternoon-1",
+                        "createdAt": "2019-11-14T23:44:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T21:34:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "GregKezo/react-3-afternoon",
+                        "url": "https://github.com/GregKezo/react-3-afternoon",
+                        "createdAt": "2019-11-15T14:48:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T21:56:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aysa-wlh13/react-3-afternoon-1",
+                        "url": "https://github.com/aysa-wlh13/react-3-afternoon-1",
+                        "createdAt": "2019-11-15T16:28:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-21T18:59:14Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "casualtea4/react-3-afternoon",
+                        "url": "https://github.com/casualtea4/react-3-afternoon",
+                        "createdAt": "2019-11-15T19:19:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-02T21:58:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JameshNelson/react-3-afternoon-1",
+                        "url": "https://github.com/JameshNelson/react-3-afternoon-1",
+                        "createdAt": "2019-11-15T19:20:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T20:30:28Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Mimi-Traugott/react-3-afternoon",
+                        "url": "https://github.com/Mimi-Traugott/react-3-afternoon",
+                        "createdAt": "2019-11-15T19:52:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T23:19:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "slee1996/react-3-afternoon",
+                        "url": "https://github.com/slee1996/react-3-afternoon",
+                        "createdAt": "2019-11-15T20:25:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T22:53:23Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sunnyko3/react-3-afternoon",
+                        "url": "https://github.com/sunnyko3/react-3-afternoon",
+                        "createdAt": "2019-11-15T20:34:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T22:57:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "spiltmiruku/react-3-afternoon",
+                        "url": "https://github.com/spiltmiruku/react-3-afternoon",
+                        "createdAt": "2019-11-15T20:43:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-09T04:09:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dpouls/react-3-afternoon",
+                        "url": "https://github.com/dpouls/react-3-afternoon",
+                        "createdAt": "2019-11-15T20:46:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T23:31:24Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "seanpsweeney/react-3-afternoon",
+                        "url": "https://github.com/seanpsweeney/react-3-afternoon",
+                        "createdAt": "2019-11-15T20:47:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T23:21:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "stevengerard621/react-3-afternoon",
+                        "url": "https://github.com/stevengerard621/react-3-afternoon",
+                        "createdAt": "2019-11-15T20:52:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-15T23:18:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ADRIENNE-WLH13/react-3-afternoon",
+                        "url": "https://github.com/ADRIENNE-WLH13/react-3-afternoon",
+                        "createdAt": "2019-11-15T22:05:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-09T04:09:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gilbert-r/react-3-afternoon",
+                        "url": "https://github.com/gilbert-r/react-3-afternoon",
+                        "createdAt": "2019-11-21T18:46:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-09T04:09:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jz1611/react-3-afternoon",
+                        "url": "https://github.com/jz1611/react-3-afternoon",
+                        "createdAt": "2019-11-21T22:00:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-25T23:27:45Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sarmadkhan1991/react-3-afternoon",
+                        "url": "https://github.com/sarmadkhan1991/react-3-afternoon",
+                        "createdAt": "2019-11-21T22:23:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-17T22:46:12Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LaWoo09/react-3-afternoon",
+                        "url": "https://github.com/LaWoo09/react-3-afternoon",
+                        "createdAt": "2019-11-21T22:52:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-02-24T21:57:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "amantina05/react-3-afternoon",
+                        "url": "https://github.com/amantina05/react-3-afternoon",
+                        "createdAt": "2019-11-30T16:49:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-30T17:53:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "josialexa/react-3-afternoon",
+                        "url": "https://github.com/josialexa/react-3-afternoon",
+                        "createdAt": "2019-12-02T17:40:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-02T20:36:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rachaellinley/react-3-afternoon",
+                        "url": "https://github.com/rachaellinley/react-3-afternoon",
+                        "createdAt": "2019-12-05T18:47:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-05T22:37:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "saulmaldonado/react-3-afternoon",
+                        "url": "https://github.com/saulmaldonado/react-3-afternoon",
+                        "createdAt": "2019-12-05T19:47:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-06T07:51:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "acoats93/react-3-afternoon",
+                        "url": "https://github.com/acoats93/react-3-afternoon",
+                        "createdAt": "2019-12-05T19:49:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-05T22:10:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tracicrawford/react-3-afternoon",
+                        "url": "https://github.com/tracicrawford/react-3-afternoon",
+                        "createdAt": "2019-12-05T19:53:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-06T05:11:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JerrayChen/react-3-afternoon",
+                        "url": "https://github.com/JerrayChen/react-3-afternoon",
+                        "createdAt": "2019-12-05T19:58:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-05T22:35:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BethDunford/react-3-afternoon",
+                        "url": "https://github.com/BethDunford/react-3-afternoon",
+                        "createdAt": "2019-12-05T19:58:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-05T23:10:45Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "KleinCoding/react-3-afternoon",
+                        "url": "https://github.com/KleinCoding/react-3-afternoon",
+                        "createdAt": "2019-12-05T20:06:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-06T15:23:22Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "GabrielKim-web/react-3-afternoon",
+                        "url": "https://github.com/GabrielKim-web/react-3-afternoon",
+                        "createdAt": "2019-12-05T20:10:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-12-06T04:13:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "suheylatayfun/react-3-afternoon",
+                        "url": "https://github.com/suheylatayfun/react-3-afternoon",
+                        "createdAt": "2019-12-09T01:49:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-01-26T01:22:10Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHODYQd8w==",
+                    "hasNextPage": true
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 15,
+                "nodes": [
+                    {
+                        "nameWithOwner": "maacl/natal",
+                        "url": "https://github.com/maacl/natal",
+                        "createdAt": "2015-08-31T07:43:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2015-08-31T02:23:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "venkateshks/natal",
+                        "url": "https://github.com/venkateshks/natal",
+                        "createdAt": "2015-09-21T15:16:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2015-08-31T02:23:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "skhurram/natal",
+                        "url": "https://github.com/skhurram/natal",
+                        "createdAt": "2015-09-22T19:58:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2015-08-31T02:23:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "drapanjanas/re-natal",
+                        "url": "https://github.com/drapanjanas/re-natal",
+                        "createdAt": "2015-11-20T18:27:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-05-05T13:32:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jobez/natal",
+                        "url": "https://github.com/jobez/natal",
+                        "createdAt": "2015-11-21T17:54:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2015-11-17T06:01:58Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pombredanne/natal",
+                        "url": "https://github.com/pombredanne/natal",
+                        "createdAt": "2015-12-16T09:16:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2015-12-16T03:36:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "reactjs-alex-alex2006hw/natal",
+                        "url": "https://github.com/reactjs-alex-alex2006hw/natal",
+                        "createdAt": "2016-01-25T00:56:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-01-21T18:52:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "seantempesta/natal",
+                        "url": "https://github.com/seantempesta/natal",
+                        "createdAt": "2016-01-25T01:09:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-01-21T18:52:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lambder/natal",
+                        "url": "https://github.com/lambder/natal",
+                        "createdAt": "2016-02-04T15:57:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-01-21T18:52:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mloayzagahona/natal",
+                        "url": "https://github.com/mloayzagahona/natal",
+                        "createdAt": "2016-03-13T02:40:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-02-11T03:25:01Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MaxSt/natal",
+                        "url": "https://github.com/MaxSt/natal",
+                        "createdAt": "2016-03-22T07:39:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-02-11T03:25:01Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JoshvaR88/natal",
+                        "url": "https://github.com/JoshvaR88/natal",
+                        "createdAt": "2016-08-22T12:43:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-02-11T03:25:01Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AlexChartrand440/natal",
+                        "url": "https://github.com/AlexChartrand440/natal",
+                        "createdAt": "2021-02-21T20:38:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-02-11T03:25:01Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "haepiAbapma/natal",
+                        "url": "https://github.com/haepiAbapma/natal",
+                        "createdAt": "2023-07-06T08:22:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2023-07-06T08:26:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "suppvirPmigto/natal",
+                        "url": "https://github.com/suppvirPmigto/natal",
+                        "createdAt": "2023-07-07T18:22:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-02-11T03:25:01Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJ44aEw==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

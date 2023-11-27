@@ -1,0 +1,272 @@
+{
+    "condition": {
+        "selections": {
+            "forks_min": "100",
+            "forks_max": "5000",
+            "pushed_before": "2020-01-01",
+            "pushed_after": "",
+            "topic": "api",
+            "archived": "false",
+            "format": "json",
+            "filename": "2020_api"
+        }
+    },
+    "feature": {
+        "data": {
+            "search": {
+                "edges": [
+                    {
+                        "node": {
+                            "nameWithOwner": "Urinx/WeixinBot",
+                            "url": "https://github.com/Urinx/WeixinBot",
+                            "pushedAt": "2019-11-27T08:44:08Z",
+                            "forks": {
+                                "totalCount": 1864
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "brookshi/Hitchhiker",
+                            "url": "https://github.com/brookshi/Hitchhiker",
+                            "pushedAt": "2019-02-09T13:47:16Z",
+                            "forks": {
+                                "totalCount": 400
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "hexsum/Mojo-Webqq",
+                            "url": "https://github.com/hexsum/Mojo-Webqq",
+                            "pushedAt": "2019-04-10T06:21:40Z",
+                            "forks": {
+                                "totalCount": 317
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "francescomalatesta/laravel-api-boilerplate-jwt",
+                            "url": "https://github.com/francescomalatesta/laravel-api-boilerplate-jwt",
+                            "pushedAt": "2019-07-10T13:26:42Z",
+                            "forks": {
+                                "totalCount": 282
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "metowolf/MetingJS",
+                            "url": "https://github.com/metowolf/MetingJS",
+                            "pushedAt": "2019-02-27T08:42:17Z",
+                            "forks": {
+                                "totalCount": 137
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "hujingshuang/MTrans",
+                            "url": "https://github.com/hujingshuang/MTrans",
+                            "pushedAt": "2019-06-09T14:26:52Z",
+                            "forks": {
+                                "totalCount": 212
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "tianxuzhang/d3.v4-API-Translation",
+                            "url": "https://github.com/tianxuzhang/d3.v4-API-Translation",
+                            "pushedAt": "2019-04-16T03:46:18Z",
+                            "forks": {
+                                "totalCount": 118
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "george518/PPGo_ApiAdmin",
+                            "url": "https://github.com/george518/PPGo_ApiAdmin",
+                            "pushedAt": "2019-02-01T05:57:06Z",
+                            "forks": {
+                                "totalCount": 297
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "godruoyi/restful-api-specification",
+                            "url": "https://github.com/godruoyi/restful-api-specification",
+                            "pushedAt": "2018-08-06T01:04:11Z",
+                            "forks": {
+                                "totalCount": 150
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "b3nab/instapy-cli",
+                            "url": "https://github.com/b3nab/instapy-cli",
+                            "pushedAt": "2019-10-13T11:35:46Z",
+                            "forks": {
+                                "totalCount": 96
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "nbarbettini/BeautifulRestApi",
+                            "url": "https://github.com/nbarbettini/BeautifulRestApi",
+                            "pushedAt": "2019-11-23T18:33:44Z",
+                            "forks": {
+                                "totalCount": 140
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "sqaiyan/netmusic-node",
+                            "url": "https://github.com/sqaiyan/netmusic-node",
+                            "pushedAt": "2018-09-10T08:22:00Z",
+                            "forks": {
+                                "totalCount": 173
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "lkuza2/java-speech-api",
+                            "url": "https://github.com/lkuza2/java-speech-api",
+                            "pushedAt": "2019-05-02T01:19:43Z",
+                            "forks": {
+                                "totalCount": 291
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "zimplexing/vue-nReader",
+                            "url": "https://github.com/zimplexing/vue-nReader",
+                            "pushedAt": "2018-06-22T08:32:13Z",
+                            "forks": {
+                                "totalCount": 143
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "yixianle/google-translate",
+                            "url": "https://github.com/yixianle/google-translate",
+                            "pushedAt": "2019-02-20T11:40:24Z",
+                            "forks": {
+                                "totalCount": 96
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "leggedrobotics/free_gait",
+                            "url": "https://github.com/leggedrobotics/free_gait",
+                            "pushedAt": "2019-10-31T15:34:06Z",
+                            "forks": {
+                                "totalCount": 112
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "ChenSen5/api_autotest",
+                            "url": "https://github.com/ChenSen5/api_autotest",
+                            "pushedAt": "2017-07-20T08:43:59Z",
+                            "forks": {
+                                "totalCount": 215
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "amsokol/go-grpc-http-rest-microservice-tutorial",
+                            "url": "https://github.com/amsokol/go-grpc-http-rest-microservice-tutorial",
+                            "pushedAt": "2019-03-27T19:41:01Z",
+                            "forks": {
+                                "totalCount": 105
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "chanyipiaomiao/devops-api",
+                            "url": "https://github.com/chanyipiaomiao/devops-api",
+                            "pushedAt": "2019-04-02T01:58:12Z",
+                            "forks": {
+                                "totalCount": 101
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "gustavz/realtime_object_detection",
+                            "url": "https://github.com/gustavz/realtime_object_detection",
+                            "pushedAt": "2019-10-04T11:43:00Z",
+                            "forks": {
+                                "totalCount": 98
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "SmallRuralDog/cloud-doc",
+                            "url": "https://github.com/SmallRuralDog/cloud-doc",
+                            "pushedAt": "2018-09-28T03:13:23Z",
+                            "forks": {
+                                "totalCount": 98
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "codingforentrepreneurs/REST-API",
+                            "url": "https://github.com/codingforentrepreneurs/REST-API",
+                            "pushedAt": "2018-12-14T18:58:08Z",
+                            "forks": {
+                                "totalCount": 141
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "JeffreySu/WechatVideoCourse",
+                            "url": "https://github.com/JeffreySu/WechatVideoCourse",
+                            "pushedAt": "2019-01-28T12:10:12Z",
+                            "forks": {
+                                "totalCount": 219
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "whiney/springboot-elasticsearch",
+                            "url": "https://github.com/whiney/springboot-elasticsearch",
+                            "pushedAt": "2018-12-18T09:13:05Z",
+                            "forks": {
+                                "totalCount": 114
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "mattmakai/slack-starterbot",
+                            "url": "https://github.com/mattmakai/slack-starterbot",
+                            "pushedAt": "2019-01-07T18:13:20Z",
+                            "forks": {
+                                "totalCount": 133
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

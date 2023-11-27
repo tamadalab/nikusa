@@ -1,0 +1,635 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 162,
+                "nodes": [
+                    {
+                        "nameWithOwner": "maoqiq/react-antd-admin",
+                        "url": "https://github.com/maoqiq/react-antd-admin",
+                        "createdAt": "2017-12-08T05:17:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JayM0826/react-antd-admin",
+                        "url": "https://github.com/JayM0826/react-antd-admin",
+                        "createdAt": "2017-12-10T14:57:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nuaays/react-antd-admin",
+                        "url": "https://github.com/nuaays/react-antd-admin",
+                        "createdAt": "2017-12-14T04:38:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jianyunwei/react-antd-admin",
+                        "url": "https://github.com/jianyunwei/react-antd-admin",
+                        "createdAt": "2017-12-17T07:32:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fctx/react-antd-admin",
+                        "url": "https://github.com/fctx/react-antd-admin",
+                        "createdAt": "2018-01-08T09:10:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "FennyLiang/react-antd-admin",
+                        "url": "https://github.com/FennyLiang/react-antd-admin",
+                        "createdAt": "2018-01-09T10:10:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ladin157/react-antd-admin",
+                        "url": "https://github.com/ladin157/react-antd-admin",
+                        "createdAt": "2018-01-12T15:21:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "WoolYang/react-antd-admin",
+                        "url": "https://github.com/WoolYang/react-antd-admin",
+                        "createdAt": "2018-01-16T07:36:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liuwill-projects/react-antd-admin",
+                        "url": "https://github.com/liuwill-projects/react-antd-admin",
+                        "createdAt": "2018-01-23T07:00:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "huasheng718/react-antd-admin",
+                        "url": "https://github.com/huasheng718/react-antd-admin",
+                        "createdAt": "2018-02-02T06:24:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "joshLV/react-antd-admin",
+                        "url": "https://github.com/joshLV/react-antd-admin",
+                        "createdAt": "2018-03-01T07:38:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Hhylan/react-antd-admin",
+                        "url": "https://github.com/Hhylan/react-antd-admin",
+                        "createdAt": "2018-03-06T03:38:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ortizyc/react-antd-admin",
+                        "url": "https://github.com/ortizyc/react-antd-admin",
+                        "createdAt": "2018-03-06T16:01:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "WebHu/react-antd-admin",
+                        "url": "https://github.com/WebHu/react-antd-admin",
+                        "createdAt": "2018-03-15T13:48:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "demoxun/react-antd-admin",
+                        "url": "https://github.com/demoxun/react-antd-admin",
+                        "createdAt": "2018-03-19T08:29:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qinze118/react-antd-admin",
+                        "url": "https://github.com/qinze118/react-antd-admin",
+                        "createdAt": "2018-03-25T23:44:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "szhclaye/react-antd-admin",
+                        "url": "https://github.com/szhclaye/react-antd-admin",
+                        "createdAt": "2018-04-06T14:07:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "abduwaly/react-antd-admin",
+                        "url": "https://github.com/abduwaly/react-antd-admin",
+                        "createdAt": "2018-04-22T14:05:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "appzk/react-antd-admin",
+                        "url": "https://github.com/appzk/react-antd-admin",
+                        "createdAt": "2018-05-07T08:17:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zksfyz/react-antd-admin-1",
+                        "url": "https://github.com/zksfyz/react-antd-admin-1",
+                        "createdAt": "2018-05-25T02:26:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lwwjxz/react-antd-admin",
+                        "url": "https://github.com/lwwjxz/react-antd-admin",
+                        "createdAt": "2018-05-26T16:01:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "barrycug/react-antd-admin",
+                        "url": "https://github.com/barrycug/react-antd-admin",
+                        "createdAt": "2018-06-15T02:06:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "picnic-yu/react-antd-admin",
+                        "url": "https://github.com/picnic-yu/react-antd-admin",
+                        "createdAt": "2018-06-19T06:05:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ALicees/react-antd-admin",
+                        "url": "https://github.com/ALicees/react-antd-admin",
+                        "createdAt": "2018-07-06T03:28:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ran222/react-antd-admin",
+                        "url": "https://github.com/ran222/react-antd-admin",
+                        "createdAt": "2018-07-10T04:38:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wuxingtao/react-antd-admin",
+                        "url": "https://github.com/wuxingtao/react-antd-admin",
+                        "createdAt": "2018-07-18T10:52:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sugerent/react-antd-admin",
+                        "url": "https://github.com/sugerent/react-antd-admin",
+                        "createdAt": "2018-07-24T04:30:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xkf163/react-antd-admin",
+                        "url": "https://github.com/xkf163/react-antd-admin",
+                        "createdAt": "2018-07-27T14:17:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AlidaZeng/react-antd-admin",
+                        "url": "https://github.com/AlidaZeng/react-antd-admin",
+                        "createdAt": "2018-08-20T08:06:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vcvinci/react-antd-admin",
+                        "url": "https://github.com/vcvinci/react-antd-admin",
+                        "createdAt": "2018-08-23T03:37:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "CuityMiko/react-antd-admin-1",
+                        "url": "https://github.com/CuityMiko/react-antd-admin-1",
+                        "createdAt": "2018-08-24T08:29:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fengshuang110/react-antd-admin",
+                        "url": "https://github.com/fengshuang110/react-antd-admin",
+                        "createdAt": "2018-08-29T10:27:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hvp17/react-antd-admin",
+                        "url": "https://github.com/hvp17/react-antd-admin",
+                        "createdAt": "2018-09-25T22:54:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tykgit/react-antd-admin",
+                        "url": "https://github.com/tykgit/react-antd-admin",
+                        "createdAt": "2018-11-26T09:13:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "iamrameshkumar/react-antd-admin",
+                        "url": "https://github.com/iamrameshkumar/react-antd-admin",
+                        "createdAt": "2018-12-24T12:48:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dbavip/react-antd-admin",
+                        "url": "https://github.com/dbavip/react-antd-admin",
+                        "createdAt": "2019-01-01T13:41:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kalimad924/react-antd-admin",
+                        "url": "https://github.com/kalimad924/react-antd-admin",
+                        "createdAt": "2019-01-27T14:36:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "weizai118/react-antd-admin",
+                        "url": "https://github.com/weizai118/react-antd-admin",
+                        "createdAt": "2019-02-17T05:11:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "linxiaobing1005032863/react-antd-admin-1",
+                        "url": "https://github.com/linxiaobing1005032863/react-antd-admin-1",
+                        "createdAt": "2019-03-07T02:39:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/react-antd-admin-2",
+                        "url": "https://github.com/hhy5277/react-antd-admin-2",
+                        "createdAt": "2019-04-07T07:48:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "13554659514/react-antd-admin",
+                        "url": "https://github.com/13554659514/react-antd-admin",
+                        "createdAt": "2019-05-08T09:01:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lixiang241/react-antd-admin",
+                        "url": "https://github.com/lixiang241/react-antd-admin",
+                        "createdAt": "2019-06-20T09:33:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dalalsunil1986/react-antd-admin",
+                        "url": "https://github.com/dalalsunil1986/react-antd-admin",
+                        "createdAt": "2019-07-04T14:08:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "stardu/react-antd-admin",
+                        "url": "https://github.com/stardu/react-antd-admin",
+                        "createdAt": "2019-08-12T06:58:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ThomasLin8/react-antd-admin",
+                        "url": "https://github.com/ThomasLin8/react-antd-admin",
+                        "createdAt": "2019-10-15T11:17:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yxdh4620/react-antd-admin-1",
+                        "url": "https://github.com/yxdh4620/react-antd-admin-1",
+                        "createdAt": "2019-11-05T11:04:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangaz1/react-antd-admin-1",
+                        "url": "https://github.com/zhangaz1/react-antd-admin-1",
+                        "createdAt": "2019-11-23T04:22:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sparGuan/react-antd-admin",
+                        "url": "https://github.com/sparGuan/react-antd-admin",
+                        "createdAt": "2019-12-01T09:05:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sangkyunyoon/react-antd-admin",
+                        "url": "https://github.com/sangkyunyoon/react-antd-admin",
+                        "createdAt": "2020-02-26T01:51:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ysh0552/react-antd-admin",
+                        "url": "https://github.com/ysh0552/react-antd-admin",
+                        "createdAt": "2020-04-14T08:01:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tsjadambaa/react-antd-admin",
+                        "url": "https://github.com/tsjadambaa/react-antd-admin",
+                        "createdAt": "2020-06-08T22:51:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yanmyokyaw/react-antd-admin",
+                        "url": "https://github.com/yanmyokyaw/react-antd-admin",
+                        "createdAt": "2020-06-24T10:39:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fhk255a/react-antd-admin",
+                        "url": "https://github.com/fhk255a/react-antd-admin",
+                        "createdAt": "2020-11-13T08:56:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "peipei-zhang/react-antd-admin",
+                        "url": "https://github.com/peipei-zhang/react-antd-admin",
+                        "createdAt": "2021-01-04T07:58:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BlackShiningBird/react-antd-admin",
+                        "url": "https://github.com/BlackShiningBird/react-antd-admin",
+                        "createdAt": "2021-04-01T08:44:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ashimkarki7/react-antd-admin",
+                        "url": "https://github.com/ashimkarki7/react-antd-admin",
+                        "createdAt": "2021-05-01T19:29:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "johnnycheetah/react-antd-admin",
+                        "url": "https://github.com/johnnycheetah/react-antd-admin",
+                        "createdAt": "2021-08-26T02:35:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Naokiakazawa/react-antd-admin",
+                        "url": "https://github.com/Naokiakazawa/react-antd-admin",
+                        "createdAt": "2021-11-04T04:56:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "monirulislam027/react-antd-admin",
+                        "url": "https://github.com/monirulislam027/react-antd-admin",
+                        "createdAt": "2021-12-14T09:55:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Cconcerto/react-antd-admin",
+                        "url": "https://github.com/Cconcerto/react-antd-admin",
+                        "createdAt": "2021-12-30T13:15:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ewsq/react-antd-admin",
+                        "url": "https://github.com/ewsq/react-antd-admin",
+                        "createdAt": "2022-07-11T12:32:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leiyang0324/react-antd-admin",
+                        "url": "https://github.com/leiyang0324/react-antd-admin",
+                        "createdAt": "2022-12-07T12:49:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-22T09:48:18Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOIkwAYQ==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

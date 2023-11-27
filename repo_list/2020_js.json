@@ -1,0 +1,152 @@
+{
+    "condition": {
+        "selections": {
+            "forks_min": "100",
+            "forks_max": "5000",
+            "pushed_before": "2020-01-01",
+            "pushed_after": "",
+            "topic": "js",
+            "archived": "false",
+            "format": "json",
+            "filename": "2020_js"
+        }
+    },
+    "feature": {
+        "data": {
+            "search": {
+                "edges": [
+                    {
+                        "node": {
+                            "nameWithOwner": "jawil/blog",
+                            "url": "https://github.com/jawil/blog",
+                            "pushedAt": "2019-04-19T08:55:23Z",
+                            "forks": {
+                                "totalCount": 843
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "webkul/micron",
+                            "url": "https://github.com/webkul/micron",
+                            "pushedAt": "2018-10-04T10:52:29Z",
+                            "forks": {
+                                "totalCount": 103
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "aliyunfe/weekly",
+                            "url": "https://github.com/aliyunfe/weekly",
+                            "pushedAt": "2019-10-23T02:03:59Z",
+                            "forks": {
+                                "totalCount": 102
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "jasonmayes/Twitter-Post-Fetcher",
+                            "url": "https://github.com/jasonmayes/Twitter-Post-Fetcher",
+                            "pushedAt": "2019-12-15T03:18:48Z",
+                            "forks": {
+                                "totalCount": 237
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "vipstone/drawingboard",
+                            "url": "https://github.com/vipstone/drawingboard",
+                            "pushedAt": "2018-06-27T08:35:35Z",
+                            "forks": {
+                                "totalCount": 183
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "apiko-dev/GitterMobile",
+                            "url": "https://github.com/apiko-dev/GitterMobile",
+                            "pushedAt": "2018-02-12T12:34:33Z",
+                            "forks": {
+                                "totalCount": 162
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "xiugangzhang/video.github.io",
+                            "url": "https://github.com/xiugangzhang/video.github.io",
+                            "pushedAt": "2019-06-22T07:42:59Z",
+                            "forks": {
+                                "totalCount": 185
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "afterlogic/webmail-lite",
+                            "url": "https://github.com/afterlogic/webmail-lite",
+                            "pushedAt": "2019-11-08T07:19:27Z",
+                            "forks": {
+                                "totalCount": 122
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "fanjyy/nepadmin",
+                            "url": "https://github.com/fanjyy/nepadmin",
+                            "pushedAt": "2018-11-21T13:17:58Z",
+                            "forks": {
+                                "totalCount": 118
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "syscall0x80/ebook",
+                            "url": "https://github.com/syscall0x80/ebook",
+                            "pushedAt": "2019-07-04T08:47:33Z",
+                            "forks": {
+                                "totalCount": 222
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "petersommerhoff/jquery-course",
+                            "url": "https://github.com/petersommerhoff/jquery-course",
+                            "pushedAt": "2018-02-07T15:47:20Z",
+                            "forks": {
+                                "totalCount": 203
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "mayeedwin/profile",
+                            "url": "https://github.com/mayeedwin/profile",
+                            "pushedAt": "2019-09-03T08:17:27Z",
+                            "forks": {
+                                "totalCount": 133
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "SF-WDI-LABS/building-js-iterators-lab",
+                            "url": "https://github.com/SF-WDI-LABS/building-js-iterators-lab",
+                            "pushedAt": "2017-03-26T16:39:23Z",
+                            "forks": {
+                                "totalCount": 20
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

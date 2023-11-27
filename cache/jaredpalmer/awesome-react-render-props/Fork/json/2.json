@@ -1,0 +1,45 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 103,
+                "nodes": [
+                    {
+                        "nameWithOwner": "llq0802/awesome-react-render-props",
+                        "url": "https://github.com/llq0802/awesome-react-render-props",
+                        "createdAt": "2023-08-17T13:31:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-04T19:03:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dingzhanjun/awesome-react-render-props",
+                        "url": "https://github.com/dingzhanjun/awesome-react-render-props",
+                        "createdAt": "2023-09-18T15:19:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-04T19:03:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "amitpatil321/awesome-react-render-props",
+                        "url": "https://github.com/amitpatil321/awesome-react-render-props",
+                        "createdAt": "2023-10-19T15:23:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-04T19:03:59Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKihJIQ==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 101,
+                "nodes": [
+                    {
+                        "nameWithOwner": "IQ-SCM/Long-Shadows",
+                        "url": "https://github.com/IQ-SCM/Long-Shadows",
+                        "createdAt": "2023-05-19T00:54:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-18T12:27:00Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJk11rQ==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}
