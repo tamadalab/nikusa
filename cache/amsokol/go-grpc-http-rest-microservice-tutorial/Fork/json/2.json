@@ -1,0 +1,65 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 105,
+                "nodes": [
+                    {
+                        "nameWithOwner": "mazitovt/go-grpc-http-rest-microservice-tutorial",
+                        "url": "https://github.com/mazitovt/go-grpc-http-rest-microservice-tutorial",
+                        "createdAt": "2022-07-25T10:15:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-09-18T19:33:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vominhtrius/go-grpc-http-rest-microservice-tutorial",
+                        "url": "https://github.com/vominhtrius/go-grpc-http-rest-microservice-tutorial",
+                        "createdAt": "2022-08-13T16:37:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-09-18T19:33:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "anggastika/go-grpc-http-rest-microservice-tutorial",
+                        "url": "https://github.com/anggastika/go-grpc-http-rest-microservice-tutorial",
+                        "createdAt": "2022-11-03T11:50:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-09-18T19:33:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "m3k3r1/go-grpc-http-rest-microservice-tutorial",
+                        "url": "https://github.com/m3k3r1/go-grpc-http-rest-microservice-tutorial",
+                        "createdAt": "2023-01-24T08:46:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-09-18T19:33:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "deskamuhammad/go-grpc-http-rest-microservice-tutorial",
+                        "url": "https://github.com/deskamuhammad/go-grpc-http-rest-microservice-tutorial",
+                        "createdAt": "2023-05-24T04:04:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-09-18T19:33:07Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJm07Eg==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

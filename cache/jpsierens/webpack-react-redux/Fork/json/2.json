@@ -1,0 +1,955 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 194,
+                "nodes": [
+                    {
+                        "nameWithOwner": "kmtabish/webpack-react-redux",
+                        "url": "https://github.com/kmtabish/webpack-react-redux",
+                        "createdAt": "2017-07-07T10:25:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "reyadrahman/webpack-react-redux",
+                        "url": "https://github.com/reyadrahman/webpack-react-redux",
+                        "createdAt": "2017-07-08T21:23:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "caralluma/webpack-react-redux",
+                        "url": "https://github.com/caralluma/webpack-react-redux",
+                        "createdAt": "2017-07-10T05:30:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "joshtich/webpack-react-redux",
+                        "url": "https://github.com/joshtich/webpack-react-redux",
+                        "createdAt": "2017-07-12T04:10:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Bella-ti/webpack-react-redux",
+                        "url": "https://github.com/Bella-ti/webpack-react-redux",
+                        "createdAt": "2017-07-12T05:19:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "damiangolojuch/webpack-react-redux",
+                        "url": "https://github.com/damiangolojuch/webpack-react-redux",
+                        "createdAt": "2017-07-13T12:14:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Ghost990/webpack-react-redux",
+                        "url": "https://github.com/Ghost990/webpack-react-redux",
+                        "createdAt": "2017-07-18T08:55:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "helb/webpack-react-redux",
+                        "url": "https://github.com/helb/webpack-react-redux",
+                        "createdAt": "2017-07-18T14:10:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "obonyojimmy/webpack-react-redux",
+                        "url": "https://github.com/obonyojimmy/webpack-react-redux",
+                        "createdAt": "2017-07-21T01:07:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fauzanazhiman/webpack-react-redux",
+                        "url": "https://github.com/fauzanazhiman/webpack-react-redux",
+                        "createdAt": "2017-07-21T07:25:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "W3stside/webpack-react-redux",
+                        "url": "https://github.com/W3stside/webpack-react-redux",
+                        "createdAt": "2017-07-24T06:13:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-26T00:18:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "adkins2010/webpack-react-redux",
+                        "url": "https://github.com/adkins2010/webpack-react-redux",
+                        "createdAt": "2017-07-25T23:32:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "codeangler/webpack-react-redux",
+                        "url": "https://github.com/codeangler/webpack-react-redux",
+                        "createdAt": "2017-07-28T18:11:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ahyanarizky/webpack-react-redux",
+                        "url": "https://github.com/ahyanarizky/webpack-react-redux",
+                        "createdAt": "2017-08-05T02:11:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-08T15:29:19Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pacmessica/webpack-react-redux",
+                        "url": "https://github.com/pacmessica/webpack-react-redux",
+                        "createdAt": "2017-08-07T13:38:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lazdinst/webpack-react-redux",
+                        "url": "https://github.com/lazdinst/webpack-react-redux",
+                        "createdAt": "2017-08-08T23:49:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vishwasjois/webpack-react-redux",
+                        "url": "https://github.com/vishwasjois/webpack-react-redux",
+                        "createdAt": "2017-08-10T08:24:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jianli8/webpack-react-redux",
+                        "url": "https://github.com/jianli8/webpack-react-redux",
+                        "createdAt": "2017-08-15T13:48:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Deviad/webpack-react-redux",
+                        "url": "https://github.com/Deviad/webpack-react-redux",
+                        "createdAt": "2017-08-16T07:35:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rzfhlv/webpack-react-redux",
+                        "url": "https://github.com/rzfhlv/webpack-react-redux",
+                        "createdAt": "2017-08-21T08:18:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "izonder/webpack-react-redux",
+                        "url": "https://github.com/izonder/webpack-react-redux",
+                        "createdAt": "2017-08-22T13:25:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "PhyrionX/webpack-react-redux",
+                        "url": "https://github.com/PhyrionX/webpack-react-redux",
+                        "createdAt": "2017-08-30T08:58:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jamesecahill/webpack-react-redux",
+                        "url": "https://github.com/jamesecahill/webpack-react-redux",
+                        "createdAt": "2017-08-30T13:31:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "furixturi/webpack-react-redux",
+                        "url": "https://github.com/furixturi/webpack-react-redux",
+                        "createdAt": "2017-09-02T08:59:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mmendoza000/webpack-react-redux",
+                        "url": "https://github.com/mmendoza000/webpack-react-redux",
+                        "createdAt": "2017-09-05T00:39:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ezmiller/webpack-react-redux",
+                        "url": "https://github.com/ezmiller/webpack-react-redux",
+                        "createdAt": "2017-09-06T20:33:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Kosmin/webpack-react-redux",
+                        "url": "https://github.com/Kosmin/webpack-react-redux",
+                        "createdAt": "2017-09-07T22:27:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sed10/webpack-react-redux",
+                        "url": "https://github.com/sed10/webpack-react-redux",
+                        "createdAt": "2017-09-13T13:45:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-13T13:49:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "exil/webpack-react-redux",
+                        "url": "https://github.com/exil/webpack-react-redux",
+                        "createdAt": "2017-09-17T09:11:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fiberthrone/fiberthrone.github.io",
+                        "url": "https://github.com/fiberthrone/fiberthrone.github.io",
+                        "createdAt": "2017-09-19T22:14:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-27T22:01:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "karendi/webpack-react-redux",
+                        "url": "https://github.com/karendi/webpack-react-redux",
+                        "createdAt": "2017-09-20T08:52:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "suhailtajshaik/webpack-react-redux",
+                        "url": "https://github.com/suhailtajshaik/webpack-react-redux",
+                        "createdAt": "2017-09-28T06:52:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-28T16:02:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hjiehaohe/webpack-react-redux",
+                        "url": "https://github.com/hjiehaohe/webpack-react-redux",
+                        "createdAt": "2017-10-11T07:19:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liesislukas/webpack-react-redux",
+                        "url": "https://github.com/liesislukas/webpack-react-redux",
+                        "createdAt": "2017-10-21T14:59:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-21T16:03:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "smith-30/webpack-react-redux",
+                        "url": "https://github.com/smith-30/webpack-react-redux",
+                        "createdAt": "2017-10-22T13:19:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-09T11:01:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cloverstudio/webpack-react-redux",
+                        "url": "https://github.com/cloverstudio/webpack-react-redux",
+                        "createdAt": "2017-10-23T08:45:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shawwn/webpack-react-redux",
+                        "url": "https://github.com/shawwn/webpack-react-redux",
+                        "createdAt": "2017-10-24T05:38:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rvpanoz/webpack-react-redux",
+                        "url": "https://github.com/rvpanoz/webpack-react-redux",
+                        "createdAt": "2017-10-24T15:42:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "marrobins/webpack-react-redux",
+                        "url": "https://github.com/marrobins/webpack-react-redux",
+                        "createdAt": "2017-10-26T03:43:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cherewaty/webpack-react-redux",
+                        "url": "https://github.com/cherewaty/webpack-react-redux",
+                        "createdAt": "2017-10-26T18:08:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tomasdev/webpack-react-redux",
+                        "url": "https://github.com/tomasdev/webpack-react-redux",
+                        "createdAt": "2017-11-01T21:03:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jeftarmascarenhas/webpack-react-redux",
+                        "url": "https://github.com/jeftarmascarenhas/webpack-react-redux",
+                        "createdAt": "2017-11-02T19:21:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nidhinarendra/webpack-react-redux",
+                        "url": "https://github.com/nidhinarendra/webpack-react-redux",
+                        "createdAt": "2017-11-08T00:26:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "47analogy/webpack-react-redux",
+                        "url": "https://github.com/47analogy/webpack-react-redux",
+                        "createdAt": "2017-11-08T04:02:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shiraeeshi/products-crud-example-frontend",
+                        "url": "https://github.com/shiraeeshi/products-crud-example-frontend",
+                        "createdAt": "2017-11-12T22:58:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ducvietsqt/webpack-react-redux",
+                        "url": "https://github.com/ducvietsqt/webpack-react-redux",
+                        "createdAt": "2017-11-13T16:46:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "desker/webpack-react-redux",
+                        "url": "https://github.com/desker/webpack-react-redux",
+                        "createdAt": "2017-11-18T14:23:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ericojala/webpack-react-redux",
+                        "url": "https://github.com/ericojala/webpack-react-redux",
+                        "createdAt": "2017-11-21T05:40:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "recruit-tech/react-redux-analytics-sitecatalyst-sample",
+                        "url": "https://github.com/recruit-tech/react-redux-analytics-sitecatalyst-sample",
+                        "createdAt": "2017-11-24T06:10:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Mageking/webpack-react-redux",
+                        "url": "https://github.com/Mageking/webpack-react-redux",
+                        "createdAt": "2017-12-01T14:01:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bigappleinsider/webpack-react-redux",
+                        "url": "https://github.com/bigappleinsider/webpack-react-redux",
+                        "createdAt": "2017-12-01T20:14:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "theGame/webpack-react-redux",
+                        "url": "https://github.com/theGame/webpack-react-redux",
+                        "createdAt": "2017-12-04T21:16:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cjoy/webpack-react-redux",
+                        "url": "https://github.com/cjoy/webpack-react-redux",
+                        "createdAt": "2017-12-09T01:50:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mohan-palisetti/webpack-react-redux",
+                        "url": "https://github.com/mohan-palisetti/webpack-react-redux",
+                        "createdAt": "2017-12-13T08:24:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jampow/webpack-react-redux",
+                        "url": "https://github.com/jampow/webpack-react-redux",
+                        "createdAt": "2017-12-18T13:39:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-29T20:04:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nabil-nuvolo/webpack-react-redux",
+                        "url": "https://github.com/nabil-nuvolo/webpack-react-redux",
+                        "createdAt": "2017-12-31T01:42:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SameerMakhija/webpack-react-redux",
+                        "url": "https://github.com/SameerMakhija/webpack-react-redux",
+                        "createdAt": "2018-01-18T22:23:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-06-14T17:47:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "igez/webpack-react-redux",
+                        "url": "https://github.com/igez/webpack-react-redux",
+                        "createdAt": "2018-01-25T06:08:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "raven619claw/webpack-react-redux",
+                        "url": "https://github.com/raven619claw/webpack-react-redux",
+                        "createdAt": "2018-01-25T13:07:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mspSukhdeep/webpack-react-redux",
+                        "url": "https://github.com/mspSukhdeep/webpack-react-redux",
+                        "createdAt": "2018-02-03T08:54:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-03T08:53:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Sriramsrr/webpack-react-redux",
+                        "url": "https://github.com/Sriramsrr/webpack-react-redux",
+                        "createdAt": "2018-02-04T05:41:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "amifullstack/webpack-react-redux",
+                        "url": "https://github.com/amifullstack/webpack-react-redux",
+                        "createdAt": "2018-02-10T13:37:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ajayjayayy/webpack-react-redux",
+                        "url": "https://github.com/ajayjayayy/webpack-react-redux",
+                        "createdAt": "2018-02-13T08:06:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yomete/webpack-react-redux",
+                        "url": "https://github.com/yomete/webpack-react-redux",
+                        "createdAt": "2018-03-02T01:32:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "allebd/webpack-react-redux",
+                        "url": "https://github.com/allebd/webpack-react-redux",
+                        "createdAt": "2018-03-02T08:45:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "juslim/webpack-react-redux",
+                        "url": "https://github.com/juslim/webpack-react-redux",
+                        "createdAt": "2018-03-04T23:09:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "abgth/webpack-react-redux",
+                        "url": "https://github.com/abgth/webpack-react-redux",
+                        "createdAt": "2018-03-27T06:51:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AdrianBrown1/webpack-react-redux",
+                        "url": "https://github.com/AdrianBrown1/webpack-react-redux",
+                        "createdAt": "2018-03-28T21:27:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hyunwoona/webpack-react-redux",
+                        "url": "https://github.com/hyunwoona/webpack-react-redux",
+                        "createdAt": "2018-03-30T16:53:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "peterlazzarino/webpack-react-redux",
+                        "url": "https://github.com/peterlazzarino/webpack-react-redux",
+                        "createdAt": "2018-04-04T00:37:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "prashantalhat/webpack-react-redux",
+                        "url": "https://github.com/prashantalhat/webpack-react-redux",
+                        "createdAt": "2018-04-07T08:07:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-07T08:16:40Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SimonBryatov/mooovie",
+                        "url": "https://github.com/SimonBryatov/mooovie",
+                        "createdAt": "2018-04-07T11:57:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhengyangca/webpack-react-redux",
+                        "url": "https://github.com/zhengyangca/webpack-react-redux",
+                        "createdAt": "2018-04-08T02:19:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tmccarter/webpack-react-redux",
+                        "url": "https://github.com/tmccarter/webpack-react-redux",
+                        "createdAt": "2018-04-14T22:07:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "praveenith31/webpack-react-redux",
+                        "url": "https://github.com/praveenith31/webpack-react-redux",
+                        "createdAt": "2018-04-20T11:17:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mscaruf/Blobby",
+                        "url": "https://github.com/mscaruf/Blobby",
+                        "createdAt": "2018-05-14T19:59:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-16T19:17:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hiperlouro/webpack-react-redux",
+                        "url": "https://github.com/hiperlouro/webpack-react-redux",
+                        "createdAt": "2018-05-16T14:44:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-16T16:22:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fantianyu25/webpack-react-redux",
+                        "url": "https://github.com/fantianyu25/webpack-react-redux",
+                        "createdAt": "2018-06-04T11:46:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vietanh-it/webpack-react-redux",
+                        "url": "https://github.com/vietanh-it/webpack-react-redux",
+                        "createdAt": "2018-06-08T17:50:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-08T18:16:19Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "surendra20/webpack-react-redux",
+                        "url": "https://github.com/surendra20/webpack-react-redux",
+                        "createdAt": "2018-06-09T10:15:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "neeravarora/webpack-react-redux",
+                        "url": "https://github.com/neeravarora/webpack-react-redux",
+                        "createdAt": "2018-06-10T13:03:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "schabel12/webpack-react-redux",
+                        "url": "https://github.com/schabel12/webpack-react-redux",
+                        "createdAt": "2018-06-15T18:20:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sosproduction/webpack-react-redux",
+                        "url": "https://github.com/sosproduction/webpack-react-redux",
+                        "createdAt": "2018-06-24T18:21:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jolizbish/webpack-react-redux",
+                        "url": "https://github.com/jolizbish/webpack-react-redux",
+                        "createdAt": "2018-06-28T00:45:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-06T15:07:22Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sreenivas369/webpack-react-redux",
+                        "url": "https://github.com/sreenivas369/webpack-react-redux",
+                        "createdAt": "2018-07-12T11:00:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "csakai/demo-shop-react-redux",
+                        "url": "https://github.com/csakai/demo-shop-react-redux",
+                        "createdAt": "2018-07-28T04:16:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-30T19:16:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tanureja/webpack-react-redux",
+                        "url": "https://github.com/tanureja/webpack-react-redux",
+                        "createdAt": "2018-08-20T16:45:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "etnlbck/webpack-react-redux",
+                        "url": "https://github.com/etnlbck/webpack-react-redux",
+                        "createdAt": "2018-10-03T20:18:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "huchun666/webpack-react-redux",
+                        "url": "https://github.com/huchun666/webpack-react-redux",
+                        "createdAt": "2018-11-16T08:26:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-24T19:50:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tuluxmu/webpack-react-redux",
+                        "url": "https://github.com/tuluxmu/webpack-react-redux",
+                        "createdAt": "2018-12-18T08:55:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-11-28T01:58:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ParriauxMaxime/webpack-react-redux",
+                        "url": "https://github.com/ParriauxMaxime/webpack-react-redux",
+                        "createdAt": "2019-02-17T17:05:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-11-28T01:58:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/webpack-react-redux",
+                        "url": "https://github.com/hhy5277/webpack-react-redux",
+                        "createdAt": "2019-04-02T10:46:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-11-28T01:58:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jmoeller93/webpack-react-redux",
+                        "url": "https://github.com/jmoeller93/webpack-react-redux",
+                        "createdAt": "2019-07-16T07:30:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-11-28T01:58:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dmt-space/webpack-react-redux",
+                        "url": "https://github.com/dmt-space/webpack-react-redux",
+                        "createdAt": "2019-09-24T02:29:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-11-28T01:58:21Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHODIvjqw==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

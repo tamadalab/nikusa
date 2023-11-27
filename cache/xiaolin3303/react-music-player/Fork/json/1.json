@@ -1,0 +1,1015 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 152,
+                "nodes": [
+                    {
+                        "nameWithOwner": "mosincos/react-music-player",
+                        "url": "https://github.com/mosincos/react-music-player",
+                        "createdAt": "2017-04-04T00:38:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cyanar/react-music-player",
+                        "url": "https://github.com/cyanar/react-music-player",
+                        "createdAt": "2017-08-07T10:52:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LoveAndroid01/react-music-player",
+                        "url": "https://github.com/LoveAndroid01/react-music-player",
+                        "createdAt": "2017-08-07T11:30:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DreamerCK/react-music-player",
+                        "url": "https://github.com/DreamerCK/react-music-player",
+                        "createdAt": "2017-08-08T01:42:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "royalwang/react-music-player",
+                        "url": "https://github.com/royalwang/react-music-player",
+                        "createdAt": "2017-08-08T14:34:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ProZXCC/react-music-player",
+                        "url": "https://github.com/ProZXCC/react-music-player",
+                        "createdAt": "2017-08-09T09:58:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/react-music-player",
+                        "url": "https://github.com/hhy5277/react-music-player",
+                        "createdAt": "2017-08-09T11:22:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "binyellow/react-music-player",
+                        "url": "https://github.com/binyellow/react-music-player",
+                        "createdAt": "2017-08-10T13:21:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "WPanglelina/react-music-player",
+                        "url": "https://github.com/WPanglelina/react-music-player",
+                        "createdAt": "2017-08-11T09:24:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fengbide/react-music-player",
+                        "url": "https://github.com/fengbide/react-music-player",
+                        "createdAt": "2017-08-16T02:19:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ggaryChen/react-music-player",
+                        "url": "https://github.com/ggaryChen/react-music-player",
+                        "createdAt": "2017-08-17T10:09:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Zfang0620ls/react-music-player",
+                        "url": "https://github.com/Zfang0620ls/react-music-player",
+                        "createdAt": "2017-08-18T05:20:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "CaiFanglin/react-music-player",
+                        "url": "https://github.com/CaiFanglin/react-music-player",
+                        "createdAt": "2017-08-19T01:41:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "daweifly1/react-music-player",
+                        "url": "https://github.com/daweifly1/react-music-player",
+                        "createdAt": "2017-08-20T10:41:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "starfall-lion/react-music-player",
+                        "url": "https://github.com/starfall-lion/react-music-player",
+                        "createdAt": "2017-08-20T22:18:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sker003/react-music-player",
+                        "url": "https://github.com/sker003/react-music-player",
+                        "createdAt": "2017-08-22T09:25:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhengjinwei123/react-music-player",
+                        "url": "https://github.com/zhengjinwei123/react-music-player",
+                        "createdAt": "2017-08-23T07:54:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lu607601/react-music-player",
+                        "url": "https://github.com/lu607601/react-music-player",
+                        "createdAt": "2017-08-27T08:14:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yanlee26/react-music-player",
+                        "url": "https://github.com/yanlee26/react-music-player",
+                        "createdAt": "2017-08-27T14:24:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-30T01:49:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wangchuan2008888/react-music-player",
+                        "url": "https://github.com/wangchuan2008888/react-music-player",
+                        "createdAt": "2017-08-28T14:44:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wanezu/react-music-player",
+                        "url": "https://github.com/wanezu/react-music-player",
+                        "createdAt": "2017-08-28T22:05:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zjizly/react-music-player",
+                        "url": "https://github.com/zjizly/react-music-player",
+                        "createdAt": "2017-08-29T06:16:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Myskyscraper/react-music-player",
+                        "url": "https://github.com/Myskyscraper/react-music-player",
+                        "createdAt": "2017-08-29T07:05:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lvdengmei/react-music-player",
+                        "url": "https://github.com/lvdengmei/react-music-player",
+                        "createdAt": "2017-08-30T02:30:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jinux7/react-music-player",
+                        "url": "https://github.com/jinux7/react-music-player",
+                        "createdAt": "2017-09-01T05:09:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "baybay922/react-music-player",
+                        "url": "https://github.com/baybay922/react-music-player",
+                        "createdAt": "2017-09-04T09:52:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "winner-shiyi/react-music-player",
+                        "url": "https://github.com/winner-shiyi/react-music-player",
+                        "createdAt": "2017-09-05T14:32:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sumshare/react-music-player",
+                        "url": "https://github.com/sumshare/react-music-player",
+                        "createdAt": "2017-09-05T16:41:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "578608614/react-music-player",
+                        "url": "https://github.com/578608614/react-music-player",
+                        "createdAt": "2017-09-07T07:13:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "linylmfos/react-music-player",
+                        "url": "https://github.com/linylmfos/react-music-player",
+                        "createdAt": "2017-09-08T11:21:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liuweiyibai/react-music-player",
+                        "url": "https://github.com/liuweiyibai/react-music-player",
+                        "createdAt": "2017-09-11T11:03:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DZ-freddy/react-music-player",
+                        "url": "https://github.com/DZ-freddy/react-music-player",
+                        "createdAt": "2017-09-12T01:52:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LovEoRNot/react-music-player",
+                        "url": "https://github.com/LovEoRNot/react-music-player",
+                        "createdAt": "2017-09-12T06:09:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mrTcxWebber/react-music-player",
+                        "url": "https://github.com/mrTcxWebber/react-music-player",
+                        "createdAt": "2017-09-13T13:59:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "usx15237/react-music-player",
+                        "url": "https://github.com/usx15237/react-music-player",
+                        "createdAt": "2017-09-14T04:39:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dawei0937/react-music-player-1",
+                        "url": "https://github.com/dawei0937/react-music-player-1",
+                        "createdAt": "2017-09-16T03:37:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Mayage/react-music-player",
+                        "url": "https://github.com/Mayage/react-music-player",
+                        "createdAt": "2017-09-20T14:22:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tan520500/react-music-player",
+                        "url": "https://github.com/tan520500/react-music-player",
+                        "createdAt": "2017-09-21T14:57:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zbnfy/react-music-player",
+                        "url": "https://github.com/zbnfy/react-music-player",
+                        "createdAt": "2017-09-26T04:26:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "EricTop3/react-music-player",
+                        "url": "https://github.com/EricTop3/react-music-player",
+                        "createdAt": "2017-09-27T13:41:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "CrazyYounghaha/react-music-player",
+                        "url": "https://github.com/CrazyYounghaha/react-music-player",
+                        "createdAt": "2017-09-28T06:01:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "currygolden/react-music-player",
+                        "url": "https://github.com/currygolden/react-music-player",
+                        "createdAt": "2017-09-28T08:33:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "KelvinFanXian/react-music-player",
+                        "url": "https://github.com/KelvinFanXian/react-music-player",
+                        "createdAt": "2017-09-28T08:48:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lincy-chu/react-music-player",
+                        "url": "https://github.com/lincy-chu/react-music-player",
+                        "createdAt": "2017-10-07T13:11:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Zyawn/react-music-player",
+                        "url": "https://github.com/Zyawn/react-music-player",
+                        "createdAt": "2017-10-08T11:13:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Gong-Elory/react-music-player",
+                        "url": "https://github.com/Gong-Elory/react-music-player",
+                        "createdAt": "2017-10-09T05:49:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Eternal6/react-music-player",
+                        "url": "https://github.com/Eternal6/react-music-player",
+                        "createdAt": "2017-10-10T06:18:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gphgjcmqgg/react-music-player",
+                        "url": "https://github.com/gphgjcmqgg/react-music-player",
+                        "createdAt": "2017-10-11T08:54:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "knoxhy/react-music-player",
+                        "url": "https://github.com/knoxhy/react-music-player",
+                        "createdAt": "2017-10-13T14:31:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "skymeng/react-music-player",
+                        "url": "https://github.com/skymeng/react-music-player",
+                        "createdAt": "2017-10-22T01:14:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ProjectsByOthers/react-music-player",
+                        "url": "https://github.com/ProjectsByOthers/react-music-player",
+                        "createdAt": "2017-10-22T12:17:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lihwang/react-music-player",
+                        "url": "https://github.com/lihwang/react-music-player",
+                        "createdAt": "2017-10-23T14:33:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hehaibao/react-music-player",
+                        "url": "https://github.com/hehaibao/react-music-player",
+                        "createdAt": "2017-10-25T07:42:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zongyan86/react-music-player",
+                        "url": "https://github.com/zongyan86/react-music-player",
+                        "createdAt": "2017-10-29T14:44:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LIZHIBIN513/react-music-player",
+                        "url": "https://github.com/LIZHIBIN513/react-music-player",
+                        "createdAt": "2017-10-31T09:02:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "opendode/react-music-player",
+                        "url": "https://github.com/opendode/react-music-player",
+                        "createdAt": "2017-10-31T11:06:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "longxianlin/react-music-player",
+                        "url": "https://github.com/longxianlin/react-music-player",
+                        "createdAt": "2017-11-12T04:20:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "caomfan/react-music-player",
+                        "url": "https://github.com/caomfan/react-music-player",
+                        "createdAt": "2017-11-17T13:49:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Guardwu2015/react-music-player",
+                        "url": "https://github.com/Guardwu2015/react-music-player",
+                        "createdAt": "2017-11-18T13:31:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "veronicarepato/react-music-player",
+                        "url": "https://github.com/veronicarepato/react-music-player",
+                        "createdAt": "2017-11-22T14:35:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "itlixiaolong/react-music-player",
+                        "url": "https://github.com/itlixiaolong/react-music-player",
+                        "createdAt": "2017-11-25T03:13:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mongs/react-music-player",
+                        "url": "https://github.com/mongs/react-music-player",
+                        "createdAt": "2017-11-27T09:35:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangdongsh/react-music-player",
+                        "url": "https://github.com/zhangdongsh/react-music-player",
+                        "createdAt": "2017-12-05T04:44:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hsingyin/react-music-player",
+                        "url": "https://github.com/hsingyin/react-music-player",
+                        "createdAt": "2017-12-05T07:15:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ammmmh/react-music-player",
+                        "url": "https://github.com/ammmmh/react-music-player",
+                        "createdAt": "2017-12-06T00:55:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qmsggg/react-music-player",
+                        "url": "https://github.com/qmsggg/react-music-player",
+                        "createdAt": "2017-12-06T05:03:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zilicheOwns/react-music-player",
+                        "url": "https://github.com/zilicheOwns/react-music-player",
+                        "createdAt": "2017-12-09T13:32:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hanyingming/react-music-player",
+                        "url": "https://github.com/hanyingming/react-music-player",
+                        "createdAt": "2017-12-14T13:56:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zzzzed/react-music-player",
+                        "url": "https://github.com/zzzzed/react-music-player",
+                        "createdAt": "2017-12-18T03:35:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yinmay/react-music-player",
+                        "url": "https://github.com/yinmay/react-music-player",
+                        "createdAt": "2017-12-19T07:57:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luozhang002/react-music-player",
+                        "url": "https://github.com/luozhang002/react-music-player",
+                        "createdAt": "2017-12-23T14:12:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dxcamilla/react-music-player",
+                        "url": "https://github.com/dxcamilla/react-music-player",
+                        "createdAt": "2018-01-02T06:52:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ahiba/react-music-player-1",
+                        "url": "https://github.com/ahiba/react-music-player-1",
+                        "createdAt": "2018-01-08T03:22:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "machaosuper/react-music-player",
+                        "url": "https://github.com/machaosuper/react-music-player",
+                        "createdAt": "2018-01-23T07:44:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ChaiXiangguo/react-music-player",
+                        "url": "https://github.com/ChaiXiangguo/react-music-player",
+                        "createdAt": "2018-01-24T02:13:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-26T09:55:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "starlixin/react-music-player-1",
+                        "url": "https://github.com/starlixin/react-music-player-1",
+                        "createdAt": "2018-01-24T03:08:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhouyinfeng/react-music-player",
+                        "url": "https://github.com/zhouyinfeng/react-music-player",
+                        "createdAt": "2018-01-26T07:29:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "HershLau/react-music-player",
+                        "url": "https://github.com/HershLau/react-music-player",
+                        "createdAt": "2018-01-28T10:37:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "martinwithyou/react-music-player",
+                        "url": "https://github.com/martinwithyou/react-music-player",
+                        "createdAt": "2018-02-03T03:25:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "1011-1-000/react-music-player",
+                        "url": "https://github.com/1011-1-000/react-music-player",
+                        "createdAt": "2018-02-03T08:10:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AlvinTao0/react-music-player",
+                        "url": "https://github.com/AlvinTao0/react-music-player",
+                        "createdAt": "2018-02-07T03:45:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "agnij/react-music-player",
+                        "url": "https://github.com/agnij/react-music-player",
+                        "createdAt": "2018-02-22T09:15:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SDXYRR/react-music-player",
+                        "url": "https://github.com/SDXYRR/react-music-player",
+                        "createdAt": "2018-02-25T10:39:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ccgod/react-music-player",
+                        "url": "https://github.com/ccgod/react-music-player",
+                        "createdAt": "2018-02-26T06:39:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Jialeihu1993/react-music-player",
+                        "url": "https://github.com/Jialeihu1993/react-music-player",
+                        "createdAt": "2018-03-01T05:09:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lude1994/react-music-player",
+                        "url": "https://github.com/lude1994/react-music-player",
+                        "createdAt": "2018-03-07T02:02:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiehai001/react-music-player",
+                        "url": "https://github.com/xiehai001/react-music-player",
+                        "createdAt": "2018-03-08T10:35:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "honghongzhou/react-music-player",
+                        "url": "https://github.com/honghongzhou/react-music-player",
+                        "createdAt": "2018-03-11T09:55:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wang7777qiqi/react-music-player",
+                        "url": "https://github.com/wang7777qiqi/react-music-player",
+                        "createdAt": "2018-03-14T12:34:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangdexian/react-music-player",
+                        "url": "https://github.com/zhangdexian/react-music-player",
+                        "createdAt": "2018-03-27T02:57:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "maidong18/react-music-player",
+                        "url": "https://github.com/maidong18/react-music-player",
+                        "createdAt": "2018-03-30T06:03:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wyj18761874284/react-music-player",
+                        "url": "https://github.com/wyj18761874284/react-music-player",
+                        "createdAt": "2018-04-03T12:15:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "penelopeWu/react-music-player",
+                        "url": "https://github.com/penelopeWu/react-music-player",
+                        "createdAt": "2018-04-05T13:28:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tomyZhou/react-music-player",
+                        "url": "https://github.com/tomyZhou/react-music-player",
+                        "createdAt": "2018-04-13T08:53:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "verseboys/react-music-player",
+                        "url": "https://github.com/verseboys/react-music-player",
+                        "createdAt": "2018-04-22T08:40:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AmyLingJs/react-music-player",
+                        "url": "https://github.com/AmyLingJs/react-music-player",
+                        "createdAt": "2018-04-23T07:02:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-23T08:30:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "FelixLee1995/react-music-player",
+                        "url": "https://github.com/FelixLee1995/react-music-player",
+                        "createdAt": "2018-04-24T06:37:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lianzhiming/react-music-player",
+                        "url": "https://github.com/lianzhiming/react-music-player",
+                        "createdAt": "2018-04-28T06:38:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "woshixdgitbub/react-music-player",
+                        "url": "https://github.com/woshixdgitbub/react-music-player",
+                        "createdAt": "2018-04-29T03:41:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Carmiea/react-music-player",
+                        "url": "https://github.com/Carmiea/react-music-player",
+                        "createdAt": "2018-05-06T02:54:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-03T06:51:31Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOB-LC1A==",
+                    "hasNextPage": true
+                }
+            }
+        }
+    }
+}

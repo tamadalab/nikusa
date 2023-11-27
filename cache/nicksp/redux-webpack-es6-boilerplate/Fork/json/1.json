@@ -1,0 +1,1015 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 127,
+                "nodes": [
+                    {
+                        "nameWithOwner": "andyklimczak/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/andyklimczak/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-03-07T03:22:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-03-06T20:50:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "derekja/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/derekja/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-03-07T03:45:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-04-19T06:30:12Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chenfeifei/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/chenfeifei/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-03-09T01:27:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-03-06T20:50:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vgx32/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/vgx32/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-03-22T23:31:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-03-22T22:28:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "haribote/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/haribote/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-03-30T02:18:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-03-30T00:35:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fr101ed/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/fr101ed/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-04-04T10:40:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-03-30T00:35:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yuyaohshimo/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/yuyaohshimo/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-04-12T07:30:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-03-30T00:35:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bpmckee/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/bpmckee/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-04-13T22:05:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-03-30T00:35:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "adispezio/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/adispezio/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-04-24T01:27:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-03-30T00:35:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "andrevvalle/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/andrevvalle/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-04-25T00:15:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-04-24T21:46:03Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "andrepcg/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/andrepcg/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-04-27T14:23:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-04-28T17:30:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "maximveksler/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/maximveksler/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-04-28T07:39:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-04-27T22:16:38Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yunlong-tang/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/yunlong-tang/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-05-06T02:09:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-04-28T23:45:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "franciscolourenco/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/franciscolourenco/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-05-09T16:57:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-04-28T23:45:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cbor88/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/cbor88/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-05-09T17:19:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-04-28T23:45:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ilya-lopukhin/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/ilya-lopukhin/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-05-20T19:08:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-05-12T05:00:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bigthyme/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/bigthyme/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-06-13T04:11:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-05-24T20:36:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "InterStelios/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/InterStelios/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-06-13T07:28:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-05-24T20:36:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "seanmadden/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/seanmadden/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-06-20T22:06:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "webplus/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/webplus/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-06-21T01:11:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Jbarget/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/Jbarget/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-06-23T09:59:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MichaelWegrzyn/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/MichaelWegrzyn/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-07-01T15:12:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jondot/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/jondot/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-07-02T14:02:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-07-02T14:04:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "manishshanker/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/manishshanker/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-07-02T23:13:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-06-20T13:40:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pfncfen/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/pfncfen/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-07-07T08:00:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kevinraz/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/kevinraz/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-07-07T20:37:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SahilDude89ss/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/SahilDude89ss/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-07-13T04:56:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "starter69/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/starter69/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-08-01T19:23:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cliren/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/cliren/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-08-12T19:11:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-06-15T21:38:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gokultp/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/gokultp/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-08-25T18:16:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-08-21T15:02:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "amilajack/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/amilajack/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-08-29T17:19:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "atshakil/react-redux-scaffold",
+                        "url": "https://github.com/atshakil/react-redux-scaffold",
+                        "createdAt": "2016-09-02T09:15:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-06T04:49:43Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mdmahmudurrahman/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/mdmahmudurrahman/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-02T11:49:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-08-30T22:04:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "asakasinsky/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/asakasinsky/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-08T00:01:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-03T15:03:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "senior2junior/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/senior2junior/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-08T04:27:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-03T15:03:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "venture-vin/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/venture-vin/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-09T19:34:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-03T15:03:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "irvinlim/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/irvinlim/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-12T17:08:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-03T15:03:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "syntacticsugar/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/syntacticsugar/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-14T20:09:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-03T15:03:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hubpan/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/hubpan/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-16T07:41:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-16T08:01:08Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "alexandereof/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/alexandereof/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-16T22:48:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-03T15:03:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RanjithNair/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/RanjithNair/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-09-24T16:28:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-03T15:03:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fedxgibson/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/fedxgibson/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-10-05T16:21:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lanchunlei/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/lanchunlei/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-10-19T03:31:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "churchie317/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/churchie317/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-10-21T20:33:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "spiasecki/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/spiasecki/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-11-01T10:36:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kosiakMD/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/kosiakMD/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-11-05T14:56:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mfpiccolo/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/mfpiccolo/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-11-13T05:01:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "arjandepooter/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/arjandepooter/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-11-22T14:07:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "precorFadiQassem/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/precorFadiQassem/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-11-30T22:30:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "EmmaGrassi/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/EmmaGrassi/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-12-02T15:00:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "petercepeda/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/petercepeda/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-12-06T04:13:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sheldonzf/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/sheldonzf/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-12-23T08:01:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "umanghome/redux-webpack-es6-login",
+                        "url": "https://github.com/umanghome/redux-webpack-es6-login",
+                        "createdAt": "2016-12-26T13:52:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-12-26T14:15:26Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "brandenrodgers/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/brandenrodgers/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-12-27T19:22:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zarazi/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/zarazi/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-12-28T15:48:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "marvisdan/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/marvisdan/redux-webpack-es6-boilerplate",
+                        "createdAt": "2016-12-31T13:18:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Darkylin/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/Darkylin/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-01-02T08:07:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "teespring-labs/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/teespring-labs/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-01-03T23:28:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-03T23:36:45Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zfedoran/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/zfedoran/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-01-09T15:15:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-09-25T17:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "napon/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/napon/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-01-14T06:35:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-14T07:48:40Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hentry/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/hentry/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-01-14T18:19:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bertschneider/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/bertschneider/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-01-27T10:11:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kodell/ohm",
+                        "url": "https://github.com/kodell/ohm",
+                        "createdAt": "2017-01-29T20:43:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-23T00:51:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "peterorum/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/peterorum/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-02T13:24:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lilaja/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/lilaja/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-07T11:45:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "umarashfaq/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/umarashfaq/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-11T13:41:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vvstej/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/vvstej/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-13T00:21:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ThembisileNGQ/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/ThembisileNGQ/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-21T06:47:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-07T18:11:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "khubo/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/khubo/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-27T05:35:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ddameboyle/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/ddameboyle/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-27T22:58:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "react-cd/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/react-cd/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-28T03:40:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "atifchughtai/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/atifchughtai/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-28T20:55:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "posix4e/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/posix4e/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-02-28T23:35:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "laurensnl/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/laurensnl/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-03-01T18:09:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ddbcode/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/ddbcode/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-03-01T21:46:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jamesku/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/jamesku/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-03-07T18:57:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-11T16:12:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ssaucedo/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/ssaucedo/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-03-12T03:43:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yknx4/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/yknx4/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-03-17T17:24:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "angelyordanov/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/angelyordanov/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-03-24T11:28:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-30T11:20:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "senolakkas/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/senolakkas/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-03-29T20:56:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ChloeFitton/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/ChloeFitton/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-03-30T22:48:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nbarrera/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/nbarrera/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-04-07T20:44:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "birendra-90/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/birendra-90/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-04-13T17:36:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ne31oi/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/ne31oi/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-04-15T11:38:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "noru/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/noru/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-04-23T12:40:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "javiervalero/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/javiervalero/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-04-25T19:02:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "IzaGz/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/IzaGz/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-04-27T17:49:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dillyboy/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/dillyboy/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-04-30T12:47:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dkaimalu/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/dkaimalu/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-05-09T18:19:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hyejinkwon/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/hyejinkwon/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-05-16T11:48:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "199911/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/199911/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-05-16T15:26:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "brijesh-pant/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/brijesh-pant/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-05-19T04:47:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hansfindel/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/hansfindel/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-05-23T19:26:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leonorfmartins/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/leonorfmartins/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-05-26T16:17:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-30T07:39:38Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aLIEzsss4/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/aLIEzsss4/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-06-10T03:01:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nadavoran/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/nadavoran/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-06-11T13:56:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "slaweet/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/slaweet/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-06-16T10:12:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jumper-forked/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/jumper-forked/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-06-21T04:01:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "reshmasr/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/reshmasr/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-06-22T12:56:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "caralluma/redux-webpack-es6-boilerplate",
+                        "url": "https://github.com/caralluma/redux-webpack-es6-boilerplate",
+                        "createdAt": "2017-07-10T05:30:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-10T14:02:11Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOBcQfhw==",
+                    "hasNextPage": true
+                }
+            }
+        }
+    }
+}

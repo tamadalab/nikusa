@@ -1,0 +1,955 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 94,
+                "nodes": [
+                    {
+                        "nameWithOwner": "Montanasdelpablo/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/Montanasdelpablo/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-10-15T00:32:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-14T19:44:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fortunado/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/fortunado/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-10-17T13:51:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-14T19:44:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shaialon/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/shaialon/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-10-17T18:25:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-14T19:44:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JoshDrake-minted/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/JoshDrake-minted/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-10-19T15:21:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-14T19:44:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "schemex/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/schemex/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-10-21T01:03:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-14T19:44:56Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "devsli/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/devsli/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-10-21T13:31:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-21T15:32:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tbash/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/tbash/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-11-06T13:25:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-10-21T15:32:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "limweb/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/limweb/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-11-18T17:12:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-13T16:35:45Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "themre/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/themre/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2016-12-05T08:50:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-12-05T08:50:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JulianIsrael/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/JulianIsrael/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-01-01T22:11:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-13T16:35:45Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mjyoung/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/mjyoung/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-01-10T19:44:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-17T16:34:58Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BendyW/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/BendyW/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-01-29T22:37:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-28T13:00:14Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "veeracs/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/veeracs/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-02-03T19:42:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-01-31T20:20:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "brybrophy/brophy-react-starter",
+                        "url": "https://github.com/brybrophy/brophy-react-starter",
+                        "createdAt": "2017-02-05T04:11:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-15T19:40:42Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "darocha/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/darocha/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-02-20T00:39:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-17T23:39:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tonokim/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/tonokim/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-02-22T09:55:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-17T23:39:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "asanteb/react-creationx",
+                        "url": "https://github.com/asanteb/react-creationx",
+                        "createdAt": "2017-03-03T19:45:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-17T23:39:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DavidStrada/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/DavidStrada/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-03-07T22:16:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-17T23:39:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ChiralAlchemist/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/ChiralAlchemist/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-03-16T03:20:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-02-17T23:39:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ptzagk/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/ptzagk/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-04-10T18:06:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-10T17:50:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tequilaNiu/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/tequilaNiu/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-04-12T08:19:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-10T17:50:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Corey-Maler/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/Corey-Maler/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-04-17T09:02:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-10T17:50:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vlad-ovsyannikov/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/vlad-ovsyannikov/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-04-26T15:24:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-10T17:50:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leecsargent/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/leecsargent/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-04-26T20:58:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-10T17:50:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "earthslasthope/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/earthslasthope/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-05-04T19:07:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jaynakus/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/jaynakus/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-05-17T03:51:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-04T03:56:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ooyoow/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/ooyoow/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-05-17T15:08:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pc035860/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/pc035860/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-05-23T03:16:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hsrobbv/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/hsrobbv/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-05-26T19:58:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-26T22:10:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zanjs/react-mobx-react-router4-boilerplate-1",
+                        "url": "https://github.com/zanjs/react-mobx-react-router4-boilerplate-1",
+                        "createdAt": "2017-05-31T05:59:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "junxi/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/junxi/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-06-05T01:09:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "klausmyrseth/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/klausmyrseth/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-06-05T05:13:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "silencedcoder/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/silencedcoder/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-06-12T07:36:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yulongge/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/yulongge/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-06-14T06:49:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hailor/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/hailor/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-06-14T11:23:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "geyulong/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/geyulong/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-06-16T10:33:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qinkangwu/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/qinkangwu/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-06-26T11:46:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aldarund/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/aldarund/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-07-05T15:20:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-05T15:30:08Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MT-Libraries/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/MT-Libraries/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-07-10T03:05:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wangyinwei1/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/wangyinwei1/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-07-12T03:05:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rkarakulov/mobx-react-stackoverflow",
+                        "url": "https://github.com/rkarakulov/mobx-react-stackoverflow",
+                        "createdAt": "2017-07-14T05:48:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-07-14T05:56:22Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiangst0816/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/xiangst0816/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-07-19T09:26:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sqliang/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/sqliang/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-07-26T15:30:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jhjksaldfyu/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/jhjksaldfyu/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-07-27T06:32:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "androidjaijai/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/androidjaijai/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-08-03T07:15:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xingmengmeng/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/xingmengmeng/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-08-10T03:20:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "flwmau/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/flwmau/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-08-18T06:16:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "robksawyer/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/robksawyer/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-08-23T21:45:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-23T21:56:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shenggen1987/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/shenggen1987/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-09-01T02:49:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-05-03T07:42:21Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luarmr/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/luarmr/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-09-13T17:48:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-08T18:12:28Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "happyclassedu/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/happyclassedu/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-09-25T16:29:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pahaz/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/pahaz/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-09-28T07:56:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhihongzhong/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/zhihongzhong/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-10-28T03:13:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ggeorgaras/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/ggeorgaras/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-11-02T09:57:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "QTTQ/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/QTTQ/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-11-11T08:00:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rynelson/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/rynelson/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-11-17T17:32:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chenkechao/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/chenkechao/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-11-24T14:39:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "taikongfeizhu/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/taikongfeizhu/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-12-16T12:09:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-17T09:56:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hackkun/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/hackkun/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2017-12-25T11:30:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiaosunJessica/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/xiaosunJessica/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-01-17T09:43:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BringEasy/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/BringEasy/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-01-28T04:49:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhuqitao/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/zhuqitao/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-02-05T06:45:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "YoungsoonLee/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/YoungsoonLee/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-02-06T22:03:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Namanyahillary/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/Namanyahillary/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-02-07T23:17:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "karan-shah/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/karan-shah/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-02-15T07:42:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mallize/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/mallize/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-02-17T22:40:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jwhscholten/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/jwhscholten/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-03-01T15:05:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MingLow605/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/MingLow605/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-03-31T09:11:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aggron93/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/aggron93/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-04-19T10:02:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jgabriellima/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/jgabriellima/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-04-29T22:03:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wilsson/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/wilsson/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-05-06T03:08:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "imlinqin/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/imlinqin/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-05-22T02:31:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "erikasoares/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/erikasoares/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-05-29T13:12:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "GrzegorzGozdziak/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/GrzegorzGozdziak/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-06-06T07:01:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shaofeng-wang/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/shaofeng-wang/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-06-22T08:10:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-22T08:33:59Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jamacy/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/jamacy/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-07-27T08:42:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "realloser/Environment-Data-Web-page",
+                        "url": "https://github.com/realloser/Environment-Data-Web-page",
+                        "createdAt": "2018-09-07T19:34:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-09-11T17:34:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rvaidyaa/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/rvaidyaa/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-09-30T22:07:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pretty00butt/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/pretty00butt/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-10-02T02:51:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-10-02T03:15:45Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hupo256/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/hupo256/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2018-12-25T14:11:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Gwen106728/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/Gwen106728/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-01-29T13:50:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kc1116/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/kc1116/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-02-27T19:26:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Luminous13/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/Luminous13/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-03-19T12:21:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "whitewolf92/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/whitewolf92/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-03-21T07:45:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/hhy5277/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-04-04T08:22:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qinshuhaoqsh/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/qinshuhaoqsh/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-04-17T06:31:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mrcanon/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/mrcanon/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-05-10T02:35:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liyinglihuannan/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/liyinglihuannan/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-06-10T12:30:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wonder-the-world/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/wonder-the-world/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-07-07T08:38:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pcastelan/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/pcastelan/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-07-11T23:58:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "alexmay23/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/alexmay23/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2019-08-12T15:35:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ZeroHora/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/ZeroHora/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2020-06-10T19:03:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yangjingyu/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/yangjingyu/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2020-07-13T02:32:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-19T18:01:39Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "forky-mcforkface/react-mobx-react-router4-boilerplate",
+                        "url": "https://github.com/forky-mcforkface/react-mobx-react-router4-boilerplate",
+                        "createdAt": "2022-08-19T16:56:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2022-08-22T20:31:45Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOH2SYfg==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

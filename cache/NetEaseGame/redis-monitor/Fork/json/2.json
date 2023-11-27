@@ -1,0 +1,215 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 120,
+                "nodes": [
+                    {
+                        "nameWithOwner": "weilaizhou/redis-monitor",
+                        "url": "https://github.com/weilaizhou/redis-monitor",
+                        "createdAt": "2019-08-06T02:35:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tiandazhao/redis-monitor",
+                        "url": "https://github.com/tiandazhao/redis-monitor",
+                        "createdAt": "2019-09-05T01:59:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gaecom/redis-monitor-1",
+                        "url": "https://github.com/gaecom/redis-monitor-1",
+                        "createdAt": "2019-09-15T05:54:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JamesXu2017/redis-monitor",
+                        "url": "https://github.com/JamesXu2017/redis-monitor",
+                        "createdAt": "2019-09-20T16:13:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tools-env/redis-monitor",
+                        "url": "https://github.com/tools-env/redis-monitor",
+                        "createdAt": "2019-12-14T07:10:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liufeng8013/redis-monitor",
+                        "url": "https://github.com/liufeng8013/redis-monitor",
+                        "createdAt": "2019-12-19T06:14:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "erichuang2015/redis-monitor",
+                        "url": "https://github.com/erichuang2015/redis-monitor",
+                        "createdAt": "2020-04-12T00:55:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bjccz/redis-monitor",
+                        "url": "https://github.com/bjccz/redis-monitor",
+                        "createdAt": "2020-04-26T07:28:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jsntmf/redis-monitor",
+                        "url": "https://github.com/jsntmf/redis-monitor",
+                        "createdAt": "2020-08-13T06:04:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lidongwen5/redis-monitor",
+                        "url": "https://github.com/lidongwen5/redis-monitor",
+                        "createdAt": "2020-09-04T03:37:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sakshamk72/redis-monitor-1",
+                        "url": "https://github.com/sakshamk72/redis-monitor-1",
+                        "createdAt": "2020-11-09T05:21:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lqxt/redis-monitor-3",
+                        "url": "https://github.com/lqxt/redis-monitor-3",
+                        "createdAt": "2020-11-19T01:32:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kaustubh1993/redis-monitor",
+                        "url": "https://github.com/kaustubh1993/redis-monitor",
+                        "createdAt": "2020-11-28T18:50:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "laashub-soa/redis-monitor",
+                        "url": "https://github.com/laashub-soa/redis-monitor",
+                        "createdAt": "2020-12-02T03:43:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sdwangchanghui/redis-monitor",
+                        "url": "https://github.com/sdwangchanghui/redis-monitor",
+                        "createdAt": "2021-02-18T03:50:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "b05313fsldsp/redis-monitor",
+                        "url": "https://github.com/b05313fsldsp/redis-monitor",
+                        "createdAt": "2021-10-13T08:19:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NekoGaHoshiyi/redis-monitor",
+                        "url": "https://github.com/NekoGaHoshiyi/redis-monitor",
+                        "createdAt": "2022-01-28T03:46:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cctvbtx/redis-monitor",
+                        "url": "https://github.com/cctvbtx/redis-monitor",
+                        "createdAt": "2022-04-20T01:22:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MaplePlan/redis-monitor",
+                        "url": "https://github.com/MaplePlan/redis-monitor",
+                        "createdAt": "2022-09-08T02:15:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luashin/redis-monitor",
+                        "url": "https://github.com/luashin/redis-monitor",
+                        "createdAt": "2023-08-14T14:44:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-03-08T06:20:35Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKHAZhA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

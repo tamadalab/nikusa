@@ -1,0 +1,192 @@
+{
+    "condition": {
+        "selections": {
+            "forks_min": "100",
+            "forks_max": "5000",
+            "pushed_before": "2020-01-01",
+            "pushed_after": "",
+            "topic": "library",
+            "archived": "false",
+            "format": "json",
+            "filename": "2020_library"
+        }
+    },
+    "feature": {
+        "data": {
+            "search": {
+                "edges": [
+                    {
+                        "node": {
+                            "nameWithOwner": "sbstjn/timesheet.js",
+                            "url": "https://github.com/sbstjn/timesheet.js",
+                            "pushedAt": "2018-05-24T21:40:05Z",
+                            "forks": {
+                                "totalCount": 541
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "Devlight/NavigationTabBar",
+                            "url": "https://github.com/Devlight/NavigationTabBar",
+                            "pushedAt": "2019-10-25T13:29:42Z",
+                            "forks": {
+                                "totalCount": 846
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "gongwen/MarqueeViewLibrary",
+                            "url": "https://github.com/gongwen/MarqueeViewLibrary",
+                            "pushedAt": "2018-02-27T01:03:22Z",
+                            "forks": {
+                                "totalCount": 308
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "takuoka/TKSubmitTransition",
+                            "url": "https://github.com/takuoka/TKSubmitTransition",
+                            "pushedAt": "2019-12-04T12:29:02Z",
+                            "forks": {
+                                "totalCount": 223
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "takuoka/PullToBounce",
+                            "url": "https://github.com/takuoka/PullToBounce",
+                            "pushedAt": "2019-11-05T17:44:15Z",
+                            "forks": {
+                                "totalCount": 166
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "JVillella/JVFloatingDrawer",
+                            "url": "https://github.com/JVillella/JVFloatingDrawer",
+                            "pushedAt": "2017-10-13T02:06:40Z",
+                            "forks": {
+                                "totalCount": 151
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "asdsolutions-os/duo-navigation-drawer",
+                            "url": "https://github.com/asdsolutions-os/duo-navigation-drawer",
+                            "pushedAt": "2019-03-01T09:08:45Z",
+                            "forks": {
+                                "totalCount": 190
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "harjot-oberai/Long-Shadows",
+                            "url": "https://github.com/harjot-oberai/Long-Shadows",
+                            "pushedAt": "2018-04-18T12:27:33Z",
+                            "forks": {
+                                "totalCount": 101
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "webkul/csspin",
+                            "url": "https://github.com/webkul/csspin",
+                            "pushedAt": "2019-10-08T18:06:28Z",
+                            "forks": {
+                                "totalCount": 115
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "gongwen/SwipeBackLayout",
+                            "url": "https://github.com/gongwen/SwipeBackLayout",
+                            "pushedAt": "2018-02-24T05:25:39Z",
+                            "forks": {
+                                "totalCount": 101
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "michelelacorte/SwipeableCard",
+                            "url": "https://github.com/michelelacorte/SwipeableCard",
+                            "pushedAt": "2017-04-21T07:39:16Z",
+                            "forks": {
+                                "totalCount": 140
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "b3nab/instapy-cli",
+                            "url": "https://github.com/b3nab/instapy-cli",
+                            "pushedAt": "2019-10-13T11:35:46Z",
+                            "forks": {
+                                "totalCount": 96
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "ar-android/DrawRouteMaps",
+                            "url": "https://github.com/ar-android/DrawRouteMaps",
+                            "pushedAt": "2019-08-01T19:08:17Z",
+                            "forks": {
+                                "totalCount": 129
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "PikaLabs/floyd",
+                            "url": "https://github.com/PikaLabs/floyd",
+                            "pushedAt": "2018-11-17T15:16:25Z",
+                            "forks": {
+                                "totalCount": 55
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "danimahardhika/wallpaperboard",
+                            "url": "https://github.com/danimahardhika/wallpaperboard",
+                            "pushedAt": "2019-01-21T01:43:20Z",
+                            "forks": {
+                                "totalCount": 127
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "wuzhouhui/c_standard_lib",
+                            "url": "https://github.com/wuzhouhui/c_standard_lib",
+                            "pushedAt": "2016-10-06T01:13:36Z",
+                            "forks": {
+                                "totalCount": 118
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "janishar/Tutorials",
+                            "url": "https://github.com/janishar/Tutorials",
+                            "pushedAt": "2018-04-22T19:17:17Z",
+                            "forks": {
+                                "totalCount": 139
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

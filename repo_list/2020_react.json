@@ -1,0 +1,802 @@
+{
+    "condition": {
+        "selections": {
+            "forks_min": "100",
+            "forks_max": "5000",
+            "pushed_before": "2020-01-01",
+            "pushed_after": "",
+            "topic": "react",
+            "archived": "false",
+            "format": "json",
+            "filename": "2020_react"
+        }
+    },
+    "feature": {
+        "data": {
+            "search": {
+                "edges": [
+                    {
+                        "node": {
+                            "nameWithOwner": "kay-is/react-from-zero",
+                            "url": "https://github.com/kay-is/react-from-zero",
+                            "pushedAt": "2019-01-23T17:51:43Z",
+                            "forks": {
+                                "totalCount": 349
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "henryboldi/felony",
+                            "url": "https://github.com/henryboldi/felony",
+                            "pushedAt": "2019-03-27T02:13:25Z",
+                            "forks": {
+                                "totalCount": 129
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "MarnoDev/react-native-open-project",
+                            "url": "https://github.com/MarnoDev/react-native-open-project",
+                            "pushedAt": "2017-08-11T08:21:07Z",
+                            "forks": {
+                                "totalCount": 419
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "tylermcginnis/re-base",
+                            "url": "https://github.com/tylermcginnis/re-base",
+                            "pushedAt": "2018-07-23T06:04:04Z",
+                            "forks": {
+                                "totalCount": 142
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "pheuter/essential-react",
+                            "url": "https://github.com/pheuter/essential-react",
+                            "pushedAt": "2018-07-31T14:53:27Z",
+                            "forks": {
+                                "totalCount": 126
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "survivejs/react-book",
+                            "url": "https://github.com/survivejs/react-book",
+                            "pushedAt": "2018-03-13T15:32:40Z",
+                            "forks": {
+                                "totalCount": 368
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "webproblem/learning-article",
+                            "url": "https://github.com/webproblem/learning-article",
+                            "pushedAt": "2018-12-15T02:39:58Z",
+                            "forks": {
+                                "totalCount": 395
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "aliyunfe/weekly",
+                            "url": "https://github.com/aliyunfe/weekly",
+                            "pushedAt": "2019-10-23T02:03:59Z",
+                            "forks": {
+                                "totalCount": 102
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "bodyno/react-starter-kit",
+                            "url": "https://github.com/bodyno/react-starter-kit",
+                            "pushedAt": "2017-12-06T07:37:48Z",
+                            "forks": {
+                                "totalCount": 392
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "Lucifier129/react-lite",
+                            "url": "https://github.com/Lucifier129/react-lite",
+                            "pushedAt": "2019-03-29T05:26:10Z",
+                            "forks": {
+                                "totalCount": 97
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "mxstbr/login-flow",
+                            "url": "https://github.com/mxstbr/login-flow",
+                            "pushedAt": "2017-04-10T21:08:56Z",
+                            "forks": {
+                                "totalCount": 216
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "start-react/native-starter-kit",
+                            "url": "https://github.com/start-react/native-starter-kit",
+                            "pushedAt": "2018-09-12T01:05:08Z",
+                            "forks": {
+                                "totalCount": 370
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "jiangxy/react-antd-admin",
+                            "url": "https://github.com/jiangxy/react-antd-admin",
+                            "pushedAt": "2017-06-28T18:31:05Z",
+                            "forks": {
+                                "totalCount": 420
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "ivanseidel/Is-Now-Illegal",
+                            "url": "https://github.com/ivanseidel/Is-Now-Illegal",
+                            "pushedAt": "2018-02-01T12:38:09Z",
+                            "forks": {
+                                "totalCount": 91
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "jaredpalmer/awesome-react-render-props",
+                            "url": "https://github.com/jaredpalmer/awesome-react-render-props",
+                            "pushedAt": "2019-04-04T19:04:00Z",
+                            "forks": {
+                                "totalCount": 103
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "SangKa/react-in-patterns-cn",
+                            "url": "https://github.com/SangKa/react-in-patterns-cn",
+                            "pushedAt": "2018-08-10T04:10:46Z",
+                            "forks": {
+                                "totalCount": 121
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "lvarayut/relay-fullstack",
+                            "url": "https://github.com/lvarayut/relay-fullstack",
+                            "pushedAt": "2017-11-25T13:04:27Z",
+                            "forks": {
+                                "totalCount": 126
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "amazeui/amazeui-touch",
+                            "url": "https://github.com/amazeui/amazeui-touch",
+                            "pushedAt": "2018-10-10T02:39:19Z",
+                            "forks": {
+                                "totalCount": 271
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "GordyD/3ree",
+                            "url": "https://github.com/GordyD/3ree",
+                            "pushedAt": "2018-10-06T14:58:31Z",
+                            "forks": {
+                                "totalCount": 90
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "sdras/svg-workshop",
+                            "url": "https://github.com/sdras/svg-workshop",
+                            "pushedAt": "2019-01-15T00:27:34Z",
+                            "forks": {
+                                "totalCount": 310
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "Foveluy/Dragact",
+                            "url": "https://github.com/Foveluy/Dragact",
+                            "pushedAt": "2019-03-11T11:36:29Z",
+                            "forks": {
+                                "totalCount": 190
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "justadudewhohacks/websocket-chat",
+                            "url": "https://github.com/justadudewhohacks/websocket-chat",
+                            "pushedAt": "2018-02-22T21:21:24Z",
+                            "forks": {
+                                "totalCount": 296
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "tylermcginnis/react-router-firebase-auth",
+                            "url": "https://github.com/tylermcginnis/react-router-firebase-auth",
+                            "pushedAt": "2017-12-28T17:28:55Z",
+                            "forks": {
+                                "totalCount": 181
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "r-park/soundcloud-redux",
+                            "url": "https://github.com/r-park/soundcloud-redux",
+                            "pushedAt": "2017-07-30T00:55:35Z",
+                            "forks": {
+                                "totalCount": 163
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "LeoMobileDeveloper/ReactNativeMaterials",
+                            "url": "https://github.com/LeoMobileDeveloper/ReactNativeMaterials",
+                            "pushedAt": "2019-12-06T05:51:45Z",
+                            "forks": {
+                                "totalCount": 161
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "lzxb/react-cnode",
+                            "url": "https://github.com/lzxb/react-cnode",
+                            "pushedAt": "2018-10-26T01:45:03Z",
+                            "forks": {
+                                "totalCount": 229
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "themeteorchef/base",
+                            "url": "https://github.com/themeteorchef/base",
+                            "pushedAt": "2017-06-13T18:25:09Z",
+                            "forks": {
+                                "totalCount": 224
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "chikara-chan/react-isomorphic-boilerplate",
+                            "url": "https://github.com/chikara-chan/react-isomorphic-boilerplate",
+                            "pushedAt": "2017-11-29T19:51:10Z",
+                            "forks": {
+                                "totalCount": 142
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "shiningjason/react-quick-tutorial",
+                            "url": "https://github.com/shiningjason/react-quick-tutorial",
+                            "pushedAt": "2016-09-01T09:21:08Z",
+                            "forks": {
+                                "totalCount": 132
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "febobo/react-native-redux-FeInn",
+                            "url": "https://github.com/febobo/react-native-redux-FeInn",
+                            "pushedAt": "2017-09-14T10:02:29Z",
+                            "forks": {
+                                "totalCount": 147
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "apiko-dev/GitterMobile",
+                            "url": "https://github.com/apiko-dev/GitterMobile",
+                            "pushedAt": "2018-02-12T12:34:33Z",
+                            "forks": {
+                                "totalCount": 162
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "jpsierens/webpack-react-redux",
+                            "url": "https://github.com/jpsierens/webpack-react-redux",
+                            "pushedAt": "2018-11-28T01:58:22Z",
+                            "forks": {
+                                "totalCount": 194
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "fireyy/react-antd-admin",
+                            "url": "https://github.com/fireyy/react-antd-admin",
+                            "pushedAt": "2017-11-22T09:50:17Z",
+                            "forks": {
+                                "totalCount": 162
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "geowarin/boot-react",
+                            "url": "https://github.com/geowarin/boot-react",
+                            "pushedAt": "2017-11-03T15:53:02Z",
+                            "forks": {
+                                "totalCount": 150
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "dxcweb/watermark",
+                            "url": "https://github.com/dxcweb/watermark",
+                            "pushedAt": "2018-06-01T10:09:18Z",
+                            "forks": {
+                                "totalCount": 103
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "ShanaMaid/oho-reader",
+                            "url": "https://github.com/ShanaMaid/oho-reader",
+                            "pushedAt": "2018-04-01T02:32:19Z",
+                            "forks": {
+                                "totalCount": 168
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "RealOrangeOne/react-native-mock",
+                            "url": "https://github.com/RealOrangeOne/react-native-mock",
+                            "pushedAt": "2019-06-30T19:42:55Z",
+                            "forks": {
+                                "totalCount": 133
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "mhaagens/react-mobx-react-router4-boilerplate",
+                            "url": "https://github.com/mhaagens/react-mobx-react-router4-boilerplate",
+                            "pushedAt": "2019-11-17T09:56:26Z",
+                            "forks": {
+                                "totalCount": 94
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "nicksp/redux-webpack-es6-boilerplate",
+                            "url": "https://github.com/nicksp/redux-webpack-es6-boilerplate",
+                            "pushedAt": "2017-03-07T18:16:00Z",
+                            "forks": {
+                                "totalCount": 127
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "minooo/React-Study",
+                            "url": "https://github.com/minooo/React-Study",
+                            "pushedAt": "2018-01-11T11:29:12Z",
+                            "forks": {
+                                "totalCount": 181
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "winterbe/spring-react-example",
+                            "url": "https://github.com/winterbe/spring-react-example",
+                            "pushedAt": "2018-02-14T11:41:12Z",
+                            "forks": {
+                                "totalCount": 194
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "srtucker22/chatty",
+                            "url": "https://github.com/srtucker22/chatty",
+                            "pushedAt": "2018-08-26T21:41:04Z",
+                            "forks": {
+                                "totalCount": 112
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "alexmngn/react-native-authentication",
+                            "url": "https://github.com/alexmngn/react-native-authentication",
+                            "pushedAt": "2018-03-01T12:02:55Z",
+                            "forks": {
+                                "totalCount": 159
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "neroneroffy/private-project",
+                            "url": "https://github.com/neroneroffy/private-project",
+                            "pushedAt": "2018-01-06T09:07:15Z",
+                            "forks": {
+                                "totalCount": 141
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "rock-solid/pwa-theme-woocommerce",
+                            "url": "https://github.com/rock-solid/pwa-theme-woocommerce",
+                            "pushedAt": "2018-09-12T08:59:03Z",
+                            "forks": {
+                                "totalCount": 162
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "Justin-lu/react-redux-antd",
+                            "url": "https://github.com/Justin-lu/react-redux-antd",
+                            "pushedAt": "2018-03-20T03:33:05Z",
+                            "forks": {
+                                "totalCount": 115
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "dmotz/natal",
+                            "url": "https://github.com/dmotz/natal",
+                            "pushedAt": "2016-02-11T03:25:10Z",
+                            "forks": {
+                                "totalCount": 15
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "yixianle/google-translate",
+                            "url": "https://github.com/yixianle/google-translate",
+                            "pushedAt": "2019-02-20T11:40:24Z",
+                            "forks": {
+                                "totalCount": 96
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "peterchenhdu/webbf",
+                            "url": "https://github.com/peterchenhdu/webbf",
+                            "pushedAt": "2018-09-17T15:03:04Z",
+                            "forks": {
+                                "totalCount": 200
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "lvwangbeta/Poplar",
+                            "url": "https://github.com/lvwangbeta/Poplar",
+                            "pushedAt": "2018-07-15T12:11:33Z",
+                            "forks": {
+                                "totalCount": 120
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "lzxb/lazy-load-img",
+                            "url": "https://github.com/lzxb/lazy-load-img",
+                            "pushedAt": "2018-09-16T17:50:51Z",
+                            "forks": {
+                                "totalCount": 129
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "apiko-dev/Perfi",
+                            "url": "https://github.com/apiko-dev/Perfi",
+                            "pushedAt": "2018-12-17T14:16:17Z",
+                            "forks": {
+                                "totalCount": 183
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "NetEaseGame/redis-monitor",
+                            "url": "https://github.com/NetEaseGame/redis-monitor",
+                            "pushedAt": "2017-03-08T06:20:46Z",
+                            "forks": {
+                                "totalCount": 120
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "iroy2000/react-redux-boilerplate",
+                            "url": "https://github.com/iroy2000/react-redux-boilerplate",
+                            "pushedAt": "2019-05-17T05:45:16Z",
+                            "forks": {
+                                "totalCount": 116
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "xiaolin3303/react-music-player",
+                            "url": "https://github.com/xiaolin3303/react-music-player",
+                            "pushedAt": "2017-10-30T05:06:59Z",
+                            "forks": {
+                                "totalCount": 152
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "canfoo/react-taopiaopiao",
+                            "url": "https://github.com/canfoo/react-taopiaopiao",
+                            "pushedAt": "2018-02-22T03:14:55Z",
+                            "forks": {
+                                "totalCount": 109
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "xuchaobei/react-book",
+                            "url": "https://github.com/xuchaobei/react-book",
+                            "pushedAt": "2018-09-04T04:56:16Z",
+                            "forks": {
+                                "totalCount": 142
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "shaqian/tflite-react-native",
+                            "url": "https://github.com/shaqian/tflite-react-native",
+                            "pushedAt": "2019-09-13T00:22:16Z",
+                            "forks": {
+                                "totalCount": 90
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "simpletut/Testing-React-Redux-with-Jest-and-Enzyme",
+                            "url": "https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme",
+                            "pushedAt": "2019-05-18T22:17:47Z",
+                            "forks": {
+                                "totalCount": 150
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "narendrashetty/uber-mobile-web",
+                            "url": "https://github.com/narendrashetty/uber-mobile-web",
+                            "pushedAt": "2017-05-29T14:59:51Z",
+                            "forks": {
+                                "totalCount": 106
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "codingforentrepreneurs/Reactify-Django",
+                            "url": "https://github.com/codingforentrepreneurs/Reactify-Django",
+                            "pushedAt": "2019-12-25T15:27:22Z",
+                            "forks": {
+                                "totalCount": 103
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "ParryQiu/IMOOC-React",
+                            "url": "https://github.com/ParryQiu/IMOOC-React",
+                            "pushedAt": "2018-08-17T03:41:15Z",
+                            "forks": {
+                                "totalCount": 103
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "react-in-action/letters-social",
+                            "url": "https://github.com/react-in-action/letters-social",
+                            "pushedAt": "2019-12-02T04:35:10Z",
+                            "forks": {
+                                "totalCount": 153
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "iZaL/real-estate-app-ui",
+                            "url": "https://github.com/iZaL/real-estate-app-ui",
+                            "pushedAt": "2017-06-21T15:42:19Z",
+                            "forks": {
+                                "totalCount": 135
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "cjbi/weshop",
+                            "url": "https://github.com/cjbi/weshop",
+                            "pushedAt": "2019-09-25T02:44:46Z",
+                            "forks": {
+                                "totalCount": 98
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "lewis617/react-redux-book",
+                            "url": "https://github.com/lewis617/react-redux-book",
+                            "pushedAt": "2017-04-14T09:46:48Z",
+                            "forks": {
+                                "totalCount": 99
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "lyef/lyef-react-component",
+                            "url": "https://github.com/lyef/lyef-react-component",
+                            "pushedAt": "2017-10-02T16:37:01Z",
+                            "forks": {
+                                "totalCount": 164
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "rtivital/react-challenge-sort-and-search",
+                            "url": "https://github.com/rtivital/react-challenge-sort-and-search",
+                            "pushedAt": "2017-06-29T18:38:06Z",
+                            "forks": {
+                                "totalCount": 187
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/react-2-afternoon",
+                            "url": "https://github.com/DevMountain/react-2-afternoon",
+                            "pushedAt": "2018-07-02T15:59:24Z",
+                            "forks": {
+                                "totalCount": 401
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/react-5-mini",
+                            "url": "https://github.com/DevMountain/react-5-mini",
+                            "pushedAt": "2018-11-14T19:23:33Z",
+                            "forks": {
+                                "totalCount": 671
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/react-3-afternoon",
+                            "url": "https://github.com/DevMountain/react-3-afternoon",
+                            "pushedAt": "2019-04-09T04:09:21Z",
+                            "forks": {
+                                "totalCount": 1065
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "Thinkful-Ed/react-hot-cold",
+                            "url": "https://github.com/Thinkful-Ed/react-hot-cold",
+                            "pushedAt": "2019-02-20T19:20:02Z",
+                            "forks": {
+                                "totalCount": 120
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/react-1-mini",
+                            "url": "https://github.com/DevMountain/react-1-mini",
+                            "pushedAt": "2018-12-04T15:52:37Z",
+                            "forks": {
+                                "totalCount": 730
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/react-4-mini",
+                            "url": "https://github.com/DevMountain/react-4-mini",
+                            "pushedAt": "2019-03-20T17:56:06Z",
+                            "forks": {
+                                "totalCount": 977
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/react-animations-mini",
+                            "url": "https://github.com/DevMountain/react-animations-mini",
+                            "pushedAt": "2018-07-02T16:45:39Z",
+                            "forks": {
+                                "totalCount": 302
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/react-3-afternoon-2",
+                            "url": "https://github.com/DevMountain/react-3-afternoon-2",
+                            "pushedAt": "2018-07-02T16:05:07Z",
+                            "forks": {
+                                "totalCount": 166
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/react-5-afternoon",
+                            "url": "https://github.com/DevMountain/react-5-afternoon",
+                            "pushedAt": "2019-11-01T15:22:43Z",
+                            "forks": {
+                                "totalCount": 746
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "nameWithOwner": "DevMountain/framework-shop",
+                            "url": "https://github.com/DevMountain/framework-shop",
+                            "pushedAt": "2017-10-25T19:43:48Z",
+                            "forks": {
+                                "totalCount": 214
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

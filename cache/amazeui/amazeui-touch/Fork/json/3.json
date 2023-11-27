@@ -1,0 +1,725 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 271,
+                "nodes": [
+                    {
+                        "nameWithOwner": "DainLin/amazeui-touch",
+                        "url": "https://github.com/DainLin/amazeui-touch",
+                        "createdAt": "2017-08-11T03:46:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "algofran/amazeui-touch",
+                        "url": "https://github.com/algofran/amazeui-touch",
+                        "createdAt": "2017-08-29T05:08:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chinarefers/amazeui-touch",
+                        "url": "https://github.com/chinarefers/amazeui-touch",
+                        "createdAt": "2017-08-30T10:19:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "clakeboy/amazeui-touch",
+                        "url": "https://github.com/clakeboy/amazeui-touch",
+                        "createdAt": "2017-09-06T06:33:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "binbin/amazeui-touch",
+                        "url": "https://github.com/binbin/amazeui-touch",
+                        "createdAt": "2017-09-11T05:34:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-11T05:42:52Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lycals/amazeui-touch",
+                        "url": "https://github.com/lycals/amazeui-touch",
+                        "createdAt": "2017-09-15T01:39:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yan96in/amazeui-touch",
+                        "url": "https://github.com/yan96in/amazeui-touch",
+                        "createdAt": "2017-09-27T09:44:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "heckjiang/amazeui-touch",
+                        "url": "https://github.com/heckjiang/amazeui-touch",
+                        "createdAt": "2017-10-12T09:22:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "resilientred/amazeui-touch",
+                        "url": "https://github.com/resilientred/amazeui-touch",
+                        "createdAt": "2017-10-13T01:51:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cssjidi/amazeui-touch",
+                        "url": "https://github.com/cssjidi/amazeui-touch",
+                        "createdAt": "2017-10-14T13:58:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hzhgino/amazeui-touch",
+                        "url": "https://github.com/hzhgino/amazeui-touch",
+                        "createdAt": "2017-10-30T00:40:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hkjjjsxy/amazeui-touch",
+                        "url": "https://github.com/hkjjjsxy/amazeui-touch",
+                        "createdAt": "2017-11-01T04:03:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "maomaoyp/amazeui-touch",
+                        "url": "https://github.com/maomaoyp/amazeui-touch",
+                        "createdAt": "2017-11-02T03:00:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cf-tao/amazeui-touch",
+                        "url": "https://github.com/cf-tao/amazeui-touch",
+                        "createdAt": "2017-11-03T05:24:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "caiwulong/amazeui-touch",
+                        "url": "https://github.com/caiwulong/amazeui-touch",
+                        "createdAt": "2017-11-06T02:57:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hiandy168/amazeui-touch",
+                        "url": "https://github.com/hiandy168/amazeui-touch",
+                        "createdAt": "2017-11-11T10:06:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-11-07T16:40:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiaowangzimomo/amazeui-touch",
+                        "url": "https://github.com/xiaowangzimomo/amazeui-touch",
+                        "createdAt": "2017-12-17T06:30:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nishuojiaogesha/amazeui-touch",
+                        "url": "https://github.com/nishuojiaogesha/amazeui-touch",
+                        "createdAt": "2017-12-20T01:58:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "52tanbivv/amazeui-touch",
+                        "url": "https://github.com/52tanbivv/amazeui-touch",
+                        "createdAt": "2017-12-28T16:05:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "calmmo/amazeui-touch",
+                        "url": "https://github.com/calmmo/amazeui-touch",
+                        "createdAt": "2018-01-05T09:48:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MrZhangshengbaba/amazeui-touch",
+                        "url": "https://github.com/MrZhangshengbaba/amazeui-touch",
+                        "createdAt": "2018-01-12T02:36:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "daleboy/amazeui-touch",
+                        "url": "https://github.com/daleboy/amazeui-touch",
+                        "createdAt": "2018-01-18T09:14:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xuanxu11/amazeui-touch",
+                        "url": "https://github.com/xuanxu11/amazeui-touch",
+                        "createdAt": "2018-01-24T07:37:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ThinkLib/amazeui-touch",
+                        "url": "https://github.com/ThinkLib/amazeui-touch",
+                        "createdAt": "2018-01-25T08:55:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mengxiangtong/amazeui-touch",
+                        "url": "https://github.com/mengxiangtong/amazeui-touch",
+                        "createdAt": "2018-01-29T03:52:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "heliusa/amazeui-touch",
+                        "url": "https://github.com/heliusa/amazeui-touch",
+                        "createdAt": "2018-02-11T01:01:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "weijianghu/amazeui-touch",
+                        "url": "https://github.com/weijianghu/amazeui-touch",
+                        "createdAt": "2018-03-03T01:11:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "home201448/amazeui-touch",
+                        "url": "https://github.com/home201448/amazeui-touch",
+                        "createdAt": "2018-04-09T03:06:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JunnJi/amazeui-touch",
+                        "url": "https://github.com/JunnJi/amazeui-touch",
+                        "createdAt": "2018-04-10T02:00:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hezll/amazeui-touch",
+                        "url": "https://github.com/hezll/amazeui-touch",
+                        "createdAt": "2018-04-19T00:18:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JosonJiang/amazeui-touch",
+                        "url": "https://github.com/JosonJiang/amazeui-touch",
+                        "createdAt": "2018-04-26T06:25:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "niubiliter/amazeui-touch",
+                        "url": "https://github.com/niubiliter/amazeui-touch",
+                        "createdAt": "2018-04-30T06:32:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dishitian/amazeui-touch",
+                        "url": "https://github.com/dishitian/amazeui-touch",
+                        "createdAt": "2018-05-11T03:07:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "franksoong/amazeui-touch",
+                        "url": "https://github.com/franksoong/amazeui-touch",
+                        "createdAt": "2018-05-13T14:35:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shuicaibitou/amazeui-touch",
+                        "url": "https://github.com/shuicaibitou/amazeui-touch",
+                        "createdAt": "2018-05-16T02:52:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nlossert-fwge/amazeui-touch",
+                        "url": "https://github.com/nlossert-fwge/amazeui-touch",
+                        "createdAt": "2018-05-18T01:38:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wangdi18555ac/amazeui-touch",
+                        "url": "https://github.com/wangdi18555ac/amazeui-touch",
+                        "createdAt": "2018-05-30T02:21:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "w1146869587/amazeui-touch",
+                        "url": "https://github.com/w1146869587/amazeui-touch",
+                        "createdAt": "2018-06-11T21:59:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vincent5chen/amazeui-touch",
+                        "url": "https://github.com/vincent5chen/amazeui-touch",
+                        "createdAt": "2018-06-20T05:07:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tomeasure/amazeui-touch",
+                        "url": "https://github.com/tomeasure/amazeui-touch",
+                        "createdAt": "2018-07-23T06:56:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "taoyiqi/amazeui-touch",
+                        "url": "https://github.com/taoyiqi/amazeui-touch",
+                        "createdAt": "2018-08-14T13:31:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "peiili/amazeui-touch",
+                        "url": "https://github.com/peiili/amazeui-touch",
+                        "createdAt": "2018-08-20T01:23:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "felixgrey/amazeui-touch",
+                        "url": "https://github.com/felixgrey/amazeui-touch",
+                        "createdAt": "2018-08-21T07:38:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "406159192/amazeui-touch",
+                        "url": "https://github.com/406159192/amazeui-touch",
+                        "createdAt": "2018-11-02T11:26:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "weizx208/amazeui-touch",
+                        "url": "https://github.com/weizx208/amazeui-touch",
+                        "createdAt": "2018-12-04T11:45:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "PresleyHank/amazeui-touch",
+                        "url": "https://github.com/PresleyHank/amazeui-touch",
+                        "createdAt": "2018-12-16T06:12:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "396743672/amazeui-touch",
+                        "url": "https://github.com/396743672/amazeui-touch",
+                        "createdAt": "2018-12-26T00:58:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lsdfychen/amazeui-touch",
+                        "url": "https://github.com/lsdfychen/amazeui-touch",
+                        "createdAt": "2019-01-12T04:24:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wanqiwu/amazeui-touch",
+                        "url": "https://github.com/wanqiwu/amazeui-touch",
+                        "createdAt": "2019-01-22T07:01:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aFUZHOU/amazeui-touch",
+                        "url": "https://github.com/aFUZHOU/amazeui-touch",
+                        "createdAt": "2019-02-15T03:45:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hanwuwei/amazeui-touch",
+                        "url": "https://github.com/hanwuwei/amazeui-touch",
+                        "createdAt": "2019-03-09T01:06:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sunkailun1992/amazeui-touch",
+                        "url": "https://github.com/sunkailun1992/amazeui-touch",
+                        "createdAt": "2019-03-14T08:47:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Wind2esg/amazeui-touch",
+                        "url": "https://github.com/Wind2esg/amazeui-touch",
+                        "createdAt": "2019-04-22T01:39:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chaoge75/amazeui-touch",
+                        "url": "https://github.com/chaoge75/amazeui-touch",
+                        "createdAt": "2019-05-03T11:19:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luotuo19880328/amazeui-touch",
+                        "url": "https://github.com/luotuo19880328/amazeui-touch",
+                        "createdAt": "2019-05-12T13:53:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leezhang521/amazeui-touch",
+                        "url": "https://github.com/leezhang521/amazeui-touch",
+                        "createdAt": "2019-05-16T07:27:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/amazeui-touch",
+                        "url": "https://github.com/hhy5277/amazeui-touch",
+                        "createdAt": "2019-06-26T03:25:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "webin/amazeui-touch",
+                        "url": "https://github.com/webin/amazeui-touch",
+                        "createdAt": "2019-07-02T06:13:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cafe0430/amazeui-touch",
+                        "url": "https://github.com/cafe0430/amazeui-touch",
+                        "createdAt": "2019-07-03T09:24:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Xxx-Bin/amazeui-touch",
+                        "url": "https://github.com/Xxx-Bin/amazeui-touch",
+                        "createdAt": "2019-07-03T11:24:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wade1990/amazeui-touch",
+                        "url": "https://github.com/wade1990/amazeui-touch",
+                        "createdAt": "2019-09-07T23:21:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "flydragonle/amazeui-touch",
+                        "url": "https://github.com/flydragonle/amazeui-touch",
+                        "createdAt": "2019-10-01T15:54:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "loveguitarforyou/amazeui-touch",
+                        "url": "https://github.com/loveguitarforyou/amazeui-touch",
+                        "createdAt": "2019-11-01T08:04:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ch3ngxuyuan/amazeui-touch",
+                        "url": "https://github.com/ch3ngxuyuan/amazeui-touch",
+                        "createdAt": "2019-11-23T13:55:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liziqi7/amazeui-touch",
+                        "url": "https://github.com/liziqi7/amazeui-touch",
+                        "createdAt": "2019-11-28T04:27:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "szpcweb/amazeui-touch",
+                        "url": "https://github.com/szpcweb/amazeui-touch",
+                        "createdAt": "2019-12-23T09:32:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yangmain/amazeui-touch",
+                        "url": "https://github.com/yangmain/amazeui-touch",
+                        "createdAt": "2020-01-14T02:06:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "108518/amazeui-touch",
+                        "url": "https://github.com/108518/amazeui-touch",
+                        "createdAt": "2020-07-11T06:07:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shandianxiang/amazeui-touch",
+                        "url": "https://github.com/shandianxiang/amazeui-touch",
+                        "createdAt": "2020-11-25T04:22:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kjones12345/amazeui-touch",
+                        "url": "https://github.com/kjones12345/amazeui-touch",
+                        "createdAt": "2021-07-16T16:52:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "taillib/amazeui-touch",
+                        "url": "https://github.com/taillib/amazeui-touch",
+                        "createdAt": "2022-05-07T11:28:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T08:37:25Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOHS-J4A==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

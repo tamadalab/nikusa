@@ -1,0 +1,1015 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 114,
+                "nodes": [
+                    {
+                        "nameWithOwner": "chenglinjava68/springboot-elasticsearch",
+                        "url": "https://github.com/chenglinjava68/springboot-elasticsearch",
+                        "createdAt": "2017-08-30T14:44:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pin062788/springboot-elasticsearch",
+                        "url": "https://github.com/pin062788/springboot-elasticsearch",
+                        "createdAt": "2017-11-07T10:36:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "charleiWang/springboot-elasticsearch",
+                        "url": "https://github.com/charleiWang/springboot-elasticsearch",
+                        "createdAt": "2018-01-09T11:14:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhannb/springboot-elasticsearch",
+                        "url": "https://github.com/zhannb/springboot-elasticsearch",
+                        "createdAt": "2018-03-23T06:27:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jordonyu/springboot-elasticsearch",
+                        "url": "https://github.com/jordonyu/springboot-elasticsearch",
+                        "createdAt": "2018-03-28T06:48:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhiyingang/springboot-elasticsearch",
+                        "url": "https://github.com/zhiyingang/springboot-elasticsearch",
+                        "createdAt": "2018-04-15T12:45:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nenuwangd/springboot-elasticsearch",
+                        "url": "https://github.com/nenuwangd/springboot-elasticsearch",
+                        "createdAt": "2018-04-24T03:03:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LcritZ/springboot-elasticsearch",
+                        "url": "https://github.com/LcritZ/springboot-elasticsearch",
+                        "createdAt": "2018-05-16T02:49:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SpringMybatis/springboot-elasticsearch",
+                        "url": "https://github.com/SpringMybatis/springboot-elasticsearch",
+                        "createdAt": "2018-06-13T07:22:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wiseks/springboot-elasticsearch",
+                        "url": "https://github.com/wiseks/springboot-elasticsearch",
+                        "createdAt": "2018-06-15T03:22:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mikuYouJ/springboot-elasticsearch",
+                        "url": "https://github.com/mikuYouJ/springboot-elasticsearch",
+                        "createdAt": "2018-06-20T06:23:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xingganfengxing/springboot-elasticsearch",
+                        "url": "https://github.com/xingganfengxing/springboot-elasticsearch",
+                        "createdAt": "2018-06-29T02:04:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "snafuliao/springboot-elasticsearch",
+                        "url": "https://github.com/snafuliao/springboot-elasticsearch",
+                        "createdAt": "2018-08-21T10:42:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wufly01/springboot-elasticsearch",
+                        "url": "https://github.com/wufly01/springboot-elasticsearch",
+                        "createdAt": "2018-08-28T07:02:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangxin8105/springboot-elasticsearch",
+                        "url": "https://github.com/zhangxin8105/springboot-elasticsearch",
+                        "createdAt": "2018-08-31T02:44:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "huangtaomafan/springboot-elasticsearch",
+                        "url": "https://github.com/huangtaomafan/springboot-elasticsearch",
+                        "createdAt": "2018-09-03T01:48:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zningpc/springboot-elasticsearch",
+                        "url": "https://github.com/zningpc/springboot-elasticsearch",
+                        "createdAt": "2018-10-06T02:25:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liwenhui19941115/springboot-elasticsearch",
+                        "url": "https://github.com/liwenhui19941115/springboot-elasticsearch",
+                        "createdAt": "2018-10-14T04:20:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jamy888/springboot-elasticsearch",
+                        "url": "https://github.com/jamy888/springboot-elasticsearch",
+                        "createdAt": "2018-10-20T07:11:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qijunbo/springboot-elasticsearch",
+                        "url": "https://github.com/qijunbo/springboot-elasticsearch",
+                        "createdAt": "2018-11-06T08:08:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sun840330/springboot-elasticsearch",
+                        "url": "https://github.com/sun840330/springboot-elasticsearch",
+                        "createdAt": "2018-11-27T14:31:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-25T05:12:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "haolixiang623/springboot-elasticsearch",
+                        "url": "https://github.com/haolixiang623/springboot-elasticsearch",
+                        "createdAt": "2018-12-24T07:56:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-03-13T07:35:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tesions/springboot-elasticsearch",
+                        "url": "https://github.com/tesions/springboot-elasticsearch",
+                        "createdAt": "2019-01-03T07:35:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SmartTalk/springboot-elasticsearch",
+                        "url": "https://github.com/SmartTalk/springboot-elasticsearch",
+                        "createdAt": "2019-01-07T02:30:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LYP913/springboot-elasticsearch",
+                        "url": "https://github.com/LYP913/springboot-elasticsearch",
+                        "createdAt": "2019-01-09T03:35:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "seeleong/springboot-elasticsearch",
+                        "url": "https://github.com/seeleong/springboot-elasticsearch",
+                        "createdAt": "2019-01-17T09:31:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Purple-Jimmy/springboot-elasticsearch",
+                        "url": "https://github.com/Purple-Jimmy/springboot-elasticsearch",
+                        "createdAt": "2019-02-13T14:57:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "black128/springboot-elasticsearch",
+                        "url": "https://github.com/black128/springboot-elasticsearch",
+                        "createdAt": "2019-02-21T02:24:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "HeroOnline/springboot-elasticsearch",
+                        "url": "https://github.com/HeroOnline/springboot-elasticsearch",
+                        "createdAt": "2019-03-12T06:27:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "softWindXxx/springboot-elasticsearch",
+                        "url": "https://github.com/softWindXxx/springboot-elasticsearch",
+                        "createdAt": "2019-03-16T17:30:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yangsongqing1/springboot-elasticsearch",
+                        "url": "https://github.com/yangsongqing1/springboot-elasticsearch",
+                        "createdAt": "2019-04-02T13:19:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "trendsnet/springboot-elasticsearch",
+                        "url": "https://github.com/trendsnet/springboot-elasticsearch",
+                        "createdAt": "2019-04-24T03:30:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hecheng64/springboot-elasticsearch-1",
+                        "url": "https://github.com/hecheng64/springboot-elasticsearch-1",
+                        "createdAt": "2019-04-25T08:31:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bsklhao/springboot-elasticsearch",
+                        "url": "https://github.com/bsklhao/springboot-elasticsearch",
+                        "createdAt": "2019-05-05T06:38:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RookieClup/springboot-elasticsearch",
+                        "url": "https://github.com/RookieClup/springboot-elasticsearch",
+                        "createdAt": "2019-05-05T15:42:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "moocstudent/springboot-elasticsearch",
+                        "url": "https://github.com/moocstudent/springboot-elasticsearch",
+                        "createdAt": "2019-05-21T01:26:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zzp2github/springboot-elasticsearch",
+                        "url": "https://github.com/zzp2github/springboot-elasticsearch",
+                        "createdAt": "2019-05-21T08:33:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "moxinfly/springboot-elasticsearch",
+                        "url": "https://github.com/moxinfly/springboot-elasticsearch",
+                        "createdAt": "2019-06-04T14:44:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gongjian1990/springboot-elasticsearch",
+                        "url": "https://github.com/gongjian1990/springboot-elasticsearch",
+                        "createdAt": "2019-06-06T03:49:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiesir0/springboot-elasticsearch",
+                        "url": "https://github.com/xiesir0/springboot-elasticsearch",
+                        "createdAt": "2019-06-11T12:04:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zgcqxxs/springboot-elasticsearch",
+                        "url": "https://github.com/zgcqxxs/springboot-elasticsearch",
+                        "createdAt": "2019-06-20T07:44:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "347329/springboot-elasticsearch",
+                        "url": "https://github.com/347329/springboot-elasticsearch",
+                        "createdAt": "2019-06-28T05:17:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wuxh123/springboot-elasticsearch",
+                        "url": "https://github.com/wuxh123/springboot-elasticsearch",
+                        "createdAt": "2019-06-29T02:04:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "whnzyn/springboot-elasticsearch",
+                        "url": "https://github.com/whnzyn/springboot-elasticsearch",
+                        "createdAt": "2019-07-08T02:59:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xlh198593/springboot-elasticsearch",
+                        "url": "https://github.com/xlh198593/springboot-elasticsearch",
+                        "createdAt": "2019-07-25T16:05:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "intergrate-dev/springboot-elasticsearch",
+                        "url": "https://github.com/intergrate-dev/springboot-elasticsearch",
+                        "createdAt": "2019-08-04T04:44:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kamizgl/springboot-elasticsearch",
+                        "url": "https://github.com/kamizgl/springboot-elasticsearch",
+                        "createdAt": "2019-08-06T16:13:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BieTianShen2018/springboot-elasticsearch",
+                        "url": "https://github.com/BieTianShen2018/springboot-elasticsearch",
+                        "createdAt": "2019-08-09T16:44:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mengtingdin/springboot-elasticsearch",
+                        "url": "https://github.com/mengtingdin/springboot-elasticsearch",
+                        "createdAt": "2019-08-19T05:56:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "haobrave/springboot-elasticsearch",
+                        "url": "https://github.com/haobrave/springboot-elasticsearch",
+                        "createdAt": "2019-08-21T16:00:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zmzbody/springboot-elasticsearch",
+                        "url": "https://github.com/zmzbody/springboot-elasticsearch",
+                        "createdAt": "2019-09-05T03:33:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "625880436/springboot-elasticsearch",
+                        "url": "https://github.com/625880436/springboot-elasticsearch",
+                        "createdAt": "2019-09-17T09:10:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dyfangdy/springboot-elasticsearch",
+                        "url": "https://github.com/dyfangdy/springboot-elasticsearch",
+                        "createdAt": "2019-10-14T08:49:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "workhand/springboot-elasticsearch",
+                        "url": "https://github.com/workhand/springboot-elasticsearch",
+                        "createdAt": "2019-10-29T03:17:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "moshilangzi/springboot-elasticsearch",
+                        "url": "https://github.com/moshilangzi/springboot-elasticsearch",
+                        "createdAt": "2019-10-30T01:58:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "itming001/springboot-elasticsearch",
+                        "url": "https://github.com/itming001/springboot-elasticsearch",
+                        "createdAt": "2019-11-08T04:22:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "WeiRuiCoding/springboot-elasticsearch",
+                        "url": "https://github.com/WeiRuiCoding/springboot-elasticsearch",
+                        "createdAt": "2019-11-13T07:32:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qian0205/springboot-elasticsearch",
+                        "url": "https://github.com/qian0205/springboot-elasticsearch",
+                        "createdAt": "2019-11-14T06:26:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xfyecn/springboot-elasticsearch",
+                        "url": "https://github.com/xfyecn/springboot-elasticsearch",
+                        "createdAt": "2019-11-16T11:26:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ahongfenga/springboot-elasticsearch",
+                        "url": "https://github.com/ahongfenga/springboot-elasticsearch",
+                        "createdAt": "2019-11-25T06:03:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "geneseeq/springboot-elasticsearch",
+                        "url": "https://github.com/geneseeq/springboot-elasticsearch",
+                        "createdAt": "2019-11-26T01:12:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pzandsz/springboot-elasticsearch",
+                        "url": "https://github.com/pzandsz/springboot-elasticsearch",
+                        "createdAt": "2019-11-27T06:28:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "myslxy/springboot-elasticsearch",
+                        "url": "https://github.com/myslxy/springboot-elasticsearch",
+                        "createdAt": "2019-12-06T05:46:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiajiwushi/springboot-elasticsearch",
+                        "url": "https://github.com/xiajiwushi/springboot-elasticsearch",
+                        "createdAt": "2019-12-11T03:36:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yuchao81620/springboot-elasticsearch",
+                        "url": "https://github.com/yuchao81620/springboot-elasticsearch",
+                        "createdAt": "2019-12-31T06:34:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gotoseeworld/springboot-elasticsearch",
+                        "url": "https://github.com/gotoseeworld/springboot-elasticsearch",
+                        "createdAt": "2020-01-09T03:22:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yaom2018/springboot-elasticsearch",
+                        "url": "https://github.com/yaom2018/springboot-elasticsearch",
+                        "createdAt": "2020-01-29T09:18:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ArcticTernSky/springboot-elasticsearch",
+                        "url": "https://github.com/ArcticTernSky/springboot-elasticsearch",
+                        "createdAt": "2020-02-17T00:05:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LinQThomas/springboot-elasticsearch",
+                        "url": "https://github.com/LinQThomas/springboot-elasticsearch",
+                        "createdAt": "2020-02-22T03:07:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SlimentMax/springboot-elasticsearch",
+                        "url": "https://github.com/SlimentMax/springboot-elasticsearch",
+                        "createdAt": "2020-02-25T11:22:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yangxing1991/springboot-elasticsearch",
+                        "url": "https://github.com/yangxing1991/springboot-elasticsearch",
+                        "createdAt": "2020-03-15T04:06:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "KIMLX/springboot-elasticsearch",
+                        "url": "https://github.com/KIMLX/springboot-elasticsearch",
+                        "createdAt": "2020-03-25T08:51:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gavinge/springboot-elasticsearch",
+                        "url": "https://github.com/gavinge/springboot-elasticsearch",
+                        "createdAt": "2020-04-12T09:59:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LeslieYQY/springboot-elasticsearch",
+                        "url": "https://github.com/LeslieYQY/springboot-elasticsearch",
+                        "createdAt": "2020-04-27T09:57:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JcFiveZxl/springboot-elasticsearch",
+                        "url": "https://github.com/JcFiveZxl/springboot-elasticsearch",
+                        "createdAt": "2020-05-12T13:21:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangtaozhir/springboot-elasticsearch",
+                        "url": "https://github.com/zhangtaozhir/springboot-elasticsearch",
+                        "createdAt": "2020-05-23T04:02:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "poseidon2011/springboot-elasticsearch",
+                        "url": "https://github.com/poseidon2011/springboot-elasticsearch",
+                        "createdAt": "2020-05-26T14:42:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "codeflayer/springboot-elasticsearch",
+                        "url": "https://github.com/codeflayer/springboot-elasticsearch",
+                        "createdAt": "2020-06-11T10:27:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wh598633004/springboot-elasticsearch",
+                        "url": "https://github.com/wh598633004/springboot-elasticsearch",
+                        "createdAt": "2020-06-21T13:16:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xu-yi-qing/springboot-elasticsearch",
+                        "url": "https://github.com/xu-yi-qing/springboot-elasticsearch",
+                        "createdAt": "2020-07-08T11:33:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "625159739/springboot-elasticsearch",
+                        "url": "https://github.com/625159739/springboot-elasticsearch",
+                        "createdAt": "2020-07-25T18:19:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shenhufei/springboot-elasticsearch",
+                        "url": "https://github.com/shenhufei/springboot-elasticsearch",
+                        "createdAt": "2020-08-12T10:11:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leaderinwuwei/springboot-elasticsearch",
+                        "url": "https://github.com/leaderinwuwei/springboot-elasticsearch",
+                        "createdAt": "2020-08-26T07:23:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BigBigPaoPaoTang/springboot-elasticsearch",
+                        "url": "https://github.com/BigBigPaoPaoTang/springboot-elasticsearch",
+                        "createdAt": "2020-08-27T07:23:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qylhunter/springboot-elasticsearch",
+                        "url": "https://github.com/qylhunter/springboot-elasticsearch",
+                        "createdAt": "2020-10-15T06:51:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wjsshide/springboot-elasticsearch",
+                        "url": "https://github.com/wjsshide/springboot-elasticsearch",
+                        "createdAt": "2020-11-17T08:17:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wjj791014202/springboot-elasticsearch",
+                        "url": "https://github.com/wjj791014202/springboot-elasticsearch",
+                        "createdAt": "2020-12-04T07:37:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-12-04T07:45:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zdqcsty/springboot-elasticsearch",
+                        "url": "https://github.com/zdqcsty/springboot-elasticsearch",
+                        "createdAt": "2020-12-25T07:09:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "langjiangit/springboot-elasticsearch",
+                        "url": "https://github.com/langjiangit/springboot-elasticsearch",
+                        "createdAt": "2020-12-30T05:26:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NeoYeK/springboot-elasticsearch",
+                        "url": "https://github.com/NeoYeK/springboot-elasticsearch",
+                        "createdAt": "2021-01-24T13:49:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jackagoodguy/springboot-elasticsearch",
+                        "url": "https://github.com/jackagoodguy/springboot-elasticsearch",
+                        "createdAt": "2021-01-28T10:10:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hai0378/springboot-elasticsearch",
+                        "url": "https://github.com/hai0378/springboot-elasticsearch",
+                        "createdAt": "2021-02-25T08:02:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiaobbbbbbb/springboot-elasticsearch",
+                        "url": "https://github.com/xiaobbbbbbb/springboot-elasticsearch",
+                        "createdAt": "2021-03-10T09:58:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "canvaschen/springboot-elasticsearch",
+                        "url": "https://github.com/canvaschen/springboot-elasticsearch",
+                        "createdAt": "2021-04-16T10:06:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "PengOmar/springboot-elasticsearch",
+                        "url": "https://github.com/PengOmar/springboot-elasticsearch",
+                        "createdAt": "2021-05-03T08:21:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MrYangyanyan/springboot-elasticsearch",
+                        "url": "https://github.com/MrYangyanyan/springboot-elasticsearch",
+                        "createdAt": "2021-05-10T06:31:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hmqx309/springboot-elasticsearch",
+                        "url": "https://github.com/hmqx309/springboot-elasticsearch",
+                        "createdAt": "2021-05-31T07:18:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Dreamli2018/springboot-elasticsearch",
+                        "url": "https://github.com/Dreamli2018/springboot-elasticsearch",
+                        "createdAt": "2021-06-18T01:58:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cgb-redis-mysql-mongodb/springboot-elasticsearch",
+                        "url": "https://github.com/cgb-redis-mysql-mongodb/springboot-elasticsearch",
+                        "createdAt": "2021-08-25T15:32:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zmj320324/springboot-elasticsearch",
+                        "url": "https://github.com/zmj320324/springboot-elasticsearch",
+                        "createdAt": "2021-11-02T07:32:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-18T09:10:44Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOGUHbFQ==",
+                    "hasNextPage": true
+                }
+            }
+        }
+    }
+}

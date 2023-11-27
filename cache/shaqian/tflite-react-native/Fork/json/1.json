@@ -1,0 +1,915 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 90,
+                "nodes": [
+                    {
+                        "nameWithOwner": "ojiofong/tflite-react-native",
+                        "url": "https://github.com/ojiofong/tflite-react-native",
+                        "createdAt": "2019-02-10T15:44:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-10T01:15:26Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ChronSyn/tflite-react-native",
+                        "url": "https://github.com/ChronSyn/tflite-react-native",
+                        "createdAt": "2019-02-11T13:49:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-10T01:15:26Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dahburj/tflite-react-native",
+                        "url": "https://github.com/dahburj/tflite-react-native",
+                        "createdAt": "2019-02-19T10:27:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-02-10T01:15:26Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "oblank/tflite-react-native",
+                        "url": "https://github.com/oblank/tflite-react-native",
+                        "createdAt": "2019-03-18T02:26:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-03-17T14:54:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "techgig17/tflite-react-native",
+                        "url": "https://github.com/techgig17/tflite-react-native",
+                        "createdAt": "2019-05-07T00:19:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-03-17T14:54:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fl0yd/tflite-react-native",
+                        "url": "https://github.com/fl0yd/tflite-react-native",
+                        "createdAt": "2019-05-13T15:04:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-03-17T14:54:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "linhz1z/tflite-react-native",
+                        "url": "https://github.com/linhz1z/tflite-react-native",
+                        "createdAt": "2019-05-25T07:10:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-03-17T14:54:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "handled/tflite-react-native",
+                        "url": "https://github.com/handled/tflite-react-native",
+                        "createdAt": "2019-06-06T17:08:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-03T02:37:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "egasimus/tflite-react-native",
+                        "url": "https://github.com/egasimus/tflite-react-native",
+                        "createdAt": "2019-07-06T21:23:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-07T20:48:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JongtaekChoi/tflite-react-native",
+                        "url": "https://github.com/JongtaekChoi/tflite-react-native",
+                        "createdAt": "2019-07-09T00:08:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "physera/tflite-react-native",
+                        "url": "https://github.com/physera/tflite-react-native",
+                        "createdAt": "2019-07-16T00:42:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-11T22:27:32Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dfenglei/tflite-react-native",
+                        "url": "https://github.com/dfenglei/tflite-react-native",
+                        "createdAt": "2019-07-31T13:04:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "artur-heali/tflite-react-native",
+                        "url": "https://github.com/artur-heali/tflite-react-native",
+                        "createdAt": "2019-08-13T22:28:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LorandP/tflite-react-native",
+                        "url": "https://github.com/LorandP/tflite-react-native",
+                        "createdAt": "2019-08-25T07:44:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-25T07:48:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kaelhem/tflite-react-native",
+                        "url": "https://github.com/kaelhem/tflite-react-native",
+                        "createdAt": "2019-09-09T12:58:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-13T00:07:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shreyakamoji96/tflite-react-native",
+                        "url": "https://github.com/shreyakamoji96/tflite-react-native",
+                        "createdAt": "2019-09-19T07:31:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "oligoform/tflite-react-native",
+                        "url": "https://github.com/oligoform/tflite-react-native",
+                        "createdAt": "2019-10-30T11:46:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "metrnametr/tflite-react-native",
+                        "url": "https://github.com/metrnametr/tflite-react-native",
+                        "createdAt": "2019-11-11T20:25:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ngdlmk/tflite-react-native",
+                        "url": "https://github.com/ngdlmk/tflite-react-native",
+                        "createdAt": "2019-12-01T00:24:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Nirbhay1997/tflite-react-native",
+                        "url": "https://github.com/Nirbhay1997/tflite-react-native",
+                        "createdAt": "2019-12-11T18:06:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xDemon200/tflite-react-native",
+                        "url": "https://github.com/xDemon200/tflite-react-native",
+                        "createdAt": "2020-01-29T22:38:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tdminhvn/tflite-react-native",
+                        "url": "https://github.com/tdminhvn/tflite-react-native",
+                        "createdAt": "2020-02-07T13:34:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "giri-prasad/tflite-react-native",
+                        "url": "https://github.com/giri-prasad/tflite-react-native",
+                        "createdAt": "2020-02-17T02:10:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-02-17T02:54:16Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cmyeyi/tflite-react-native",
+                        "url": "https://github.com/cmyeyi/tflite-react-native",
+                        "createdAt": "2020-03-11T13:03:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "taco-tues-on-a-fri/tflite-react-native",
+                        "url": "https://github.com/taco-tues-on-a-fri/tflite-react-native",
+                        "createdAt": "2020-03-19T21:56:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aftadizca/tflite-react-native",
+                        "url": "https://github.com/aftadizca/tflite-react-native",
+                        "createdAt": "2020-04-02T17:57:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2021-04-12T13:20:00Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leonamjlpaula/tflite-react-native-alternative",
+                        "url": "https://github.com/leonamjlpaula/tflite-react-native-alternative",
+                        "createdAt": "2020-04-06T17:12:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-04-08T14:25:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Olaide-EO/tflite-react-native",
+                        "url": "https://github.com/Olaide-EO/tflite-react-native",
+                        "createdAt": "2020-04-07T21:35:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "antoniel123-zz/tflite-react-native",
+                        "url": "https://github.com/antoniel123-zz/tflite-react-native",
+                        "createdAt": "2020-04-13T14:59:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bingying0me/tflite-react-native",
+                        "url": "https://github.com/bingying0me/tflite-react-native",
+                        "createdAt": "2020-04-15T16:33:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "QuevedoIB/tflite-react-native",
+                        "url": "https://github.com/QuevedoIB/tflite-react-native",
+                        "createdAt": "2020-04-20T13:37:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MohanreddyMummareddy/tflite-react-native",
+                        "url": "https://github.com/MohanreddyMummareddy/tflite-react-native",
+                        "createdAt": "2020-05-03T17:44:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gildardoperez/tflite-react-native",
+                        "url": "https://github.com/gildardoperez/tflite-react-native",
+                        "createdAt": "2020-05-04T17:50:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "likhvar/tflite-react-native",
+                        "url": "https://github.com/likhvar/tflite-react-native",
+                        "createdAt": "2020-05-05T11:38:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "letrungphong95/tflite-react-native",
+                        "url": "https://github.com/letrungphong95/tflite-react-native",
+                        "createdAt": "2020-05-06T15:26:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MrClan/tflite-react-native",
+                        "url": "https://github.com/MrClan/tflite-react-native",
+                        "createdAt": "2020-05-06T21:52:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Manick94/tflite-react-native",
+                        "url": "https://github.com/Manick94/tflite-react-native",
+                        "createdAt": "2020-05-07T02:30:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "timyang-bowtie/tflite-react-native",
+                        "url": "https://github.com/timyang-bowtie/tflite-react-native",
+                        "createdAt": "2020-05-19T14:16:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dsdewi/tflite-react-native",
+                        "url": "https://github.com/dsdewi/tflite-react-native",
+                        "createdAt": "2020-05-22T04:04:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Danielson23/tflite-react-native",
+                        "url": "https://github.com/Danielson23/tflite-react-native",
+                        "createdAt": "2020-05-22T08:06:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Jinwook-shim/tflite-react-native",
+                        "url": "https://github.com/Jinwook-shim/tflite-react-native",
+                        "createdAt": "2020-07-07T01:52:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mohit95gole/tflite-react-native",
+                        "url": "https://github.com/mohit95gole/tflite-react-native",
+                        "createdAt": "2020-07-15T13:57:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Walter-Mata/tflite-react-native",
+                        "url": "https://github.com/Walter-Mata/tflite-react-native",
+                        "createdAt": "2020-08-13T14:18:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NgHuuNghia/tflite-react-native",
+                        "url": "https://github.com/NgHuuNghia/tflite-react-native",
+                        "createdAt": "2020-09-11T02:30:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Piyamin/tflite-react-native",
+                        "url": "https://github.com/Piyamin/tflite-react-native",
+                        "createdAt": "2020-09-14T09:04:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sajihassa/tflite-react-native",
+                        "url": "https://github.com/sajihassa/tflite-react-native",
+                        "createdAt": "2020-09-17T02:42:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Akashdeep312/tflite-react-native",
+                        "url": "https://github.com/Akashdeep312/tflite-react-native",
+                        "createdAt": "2020-09-25T16:39:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gash48/tflite-react-native",
+                        "url": "https://github.com/gash48/tflite-react-native",
+                        "createdAt": "2020-09-25T17:30:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-09-25T21:47:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ramki1979/tflite-react-native",
+                        "url": "https://github.com/ramki1979/tflite-react-native",
+                        "createdAt": "2020-10-10T02:23:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SatalBill/tflite-react-native",
+                        "url": "https://github.com/SatalBill/tflite-react-native",
+                        "createdAt": "2020-10-19T19:11:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RohSoyeong/tflite-react-native",
+                        "url": "https://github.com/RohSoyeong/tflite-react-native",
+                        "createdAt": "2020-11-12T13:14:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Ibnuard/tflite-react-native",
+                        "url": "https://github.com/Ibnuard/tflite-react-native",
+                        "createdAt": "2020-12-02T09:09:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fullstackers/tflite-react-native",
+                        "url": "https://github.com/fullstackers/tflite-react-native",
+                        "createdAt": "2021-01-05T16:34:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2021-01-08T21:26:02Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "onebot-collab/tflite-react-native",
+                        "url": "https://github.com/onebot-collab/tflite-react-native",
+                        "createdAt": "2021-02-17T12:27:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "thuytien28/tflite-react-native",
+                        "url": "https://github.com/thuytien28/tflite-react-native",
+                        "createdAt": "2021-03-04T06:59:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "stchau4work/tflite-react-native",
+                        "url": "https://github.com/stchau4work/tflite-react-native",
+                        "createdAt": "2021-03-06T04:56:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jlachondo/tflite-react-native",
+                        "url": "https://github.com/jlachondo/tflite-react-native",
+                        "createdAt": "2021-03-06T14:51:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MiriamOliveira/tflite-react-native",
+                        "url": "https://github.com/MiriamOliveira/tflite-react-native",
+                        "createdAt": "2021-03-13T21:17:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "amado-dev/tflite-react-native",
+                        "url": "https://github.com/amado-dev/tflite-react-native",
+                        "createdAt": "2021-05-25T22:42:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JulianoLoren/tflite-react-native",
+                        "url": "https://github.com/JulianoLoren/tflite-react-native",
+                        "createdAt": "2021-06-08T15:53:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2021-06-08T16:00:48Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shahanija/tflite-react-native",
+                        "url": "https://github.com/shahanija/tflite-react-native",
+                        "createdAt": "2021-06-17T13:01:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "phlizik/tflite-react-native",
+                        "url": "https://github.com/phlizik/tflite-react-native",
+                        "createdAt": "2021-08-17T17:09:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BILLXZY1215/tflite-react-native",
+                        "url": "https://github.com/BILLXZY1215/tflite-react-native",
+                        "createdAt": "2021-08-19T06:54:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Kyzyl-ool/tflite-react-native",
+                        "url": "https://github.com/Kyzyl-ool/tflite-react-native",
+                        "createdAt": "2021-09-19T16:16:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jamesalester/tflite-react-native",
+                        "url": "https://github.com/jamesalester/tflite-react-native",
+                        "createdAt": "2021-09-21T22:46:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Pingou/tflite-react-native",
+                        "url": "https://github.com/Pingou/tflite-react-native",
+                        "createdAt": "2021-10-26T09:05:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2021-10-26T09:18:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "EddyJens/tflite-react-native",
+                        "url": "https://github.com/EddyJens/tflite-react-native",
+                        "createdAt": "2021-12-30T20:55:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sarons/tflite-react-native",
+                        "url": "https://github.com/sarons/tflite-react-native",
+                        "createdAt": "2021-12-31T20:15:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2022-01-01T04:02:10Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "richardademefun/tflite-react-native",
+                        "url": "https://github.com/richardademefun/tflite-react-native",
+                        "createdAt": "2022-01-07T08:47:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "robtop/tflite-react-native",
+                        "url": "https://github.com/robtop/tflite-react-native",
+                        "createdAt": "2022-01-15T21:38:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AhmadBadah/tflite-react-native",
+                        "url": "https://github.com/AhmadBadah/tflite-react-native",
+                        "createdAt": "2022-01-28T16:21:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bunnywong/tflite-react-native",
+                        "url": "https://github.com/bunnywong/tflite-react-native",
+                        "createdAt": "2022-02-18T09:30:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liulinmei/tflite-react-native",
+                        "url": "https://github.com/liulinmei/tflite-react-native",
+                        "createdAt": "2022-03-24T07:03:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mingmingshen/tflite-react-native",
+                        "url": "https://github.com/mingmingshen/tflite-react-native",
+                        "createdAt": "2022-03-25T10:13:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dinesh-hannurkar/tflite-react-native",
+                        "url": "https://github.com/dinesh-hannurkar/tflite-react-native",
+                        "createdAt": "2022-04-08T11:03:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2022-04-08T11:20:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "batuctn/tflite-react-native",
+                        "url": "https://github.com/batuctn/tflite-react-native",
+                        "createdAt": "2022-04-15T08:31:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mumer29/tflite-react-native",
+                        "url": "https://github.com/mumer29/tflite-react-native",
+                        "createdAt": "2022-04-21T05:04:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Omega-Coders/tflite-react-native",
+                        "url": "https://github.com/Omega-Coders/tflite-react-native",
+                        "createdAt": "2022-05-06T05:55:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "1Kilo1/tflite-react-native",
+                        "url": "https://github.com/1Kilo1/tflite-react-native",
+                        "createdAt": "2022-05-30T09:33:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gpomponio/react-native-tensorflow-lite-android",
+                        "url": "https://github.com/gpomponio/react-native-tensorflow-lite-android",
+                        "createdAt": "2022-05-30T10:39:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2022-06-10T09:41:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ihsanhaaa/tflite-react-native",
+                        "url": "https://github.com/ihsanhaaa/tflite-react-native",
+                        "createdAt": "2022-06-07T11:35:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bsse9803/tflite-react-native",
+                        "url": "https://github.com/bsse9803/tflite-react-native",
+                        "createdAt": "2022-09-13T06:24:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Rahul-M-TanikaTech/tflite-react-native",
+                        "url": "https://github.com/Rahul-M-TanikaTech/tflite-react-native",
+                        "createdAt": "2022-11-08T05:56:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Lsohee/tflite-react-native",
+                        "url": "https://github.com/Lsohee/tflite-react-native",
+                        "createdAt": "2022-11-21T01:53:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MadimetjaBethuel/tflite-react-native",
+                        "url": "https://github.com/MadimetjaBethuel/tflite-react-native",
+                        "createdAt": "2022-11-28T09:14:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "marshalharman/tflite-react-native",
+                        "url": "https://github.com/marshalharman/tflite-react-native",
+                        "createdAt": "2022-11-30T19:34:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Tarun123-kittu/tflite-react-native",
+                        "url": "https://github.com/Tarun123-kittu/tflite-react-native",
+                        "createdAt": "2022-12-28T10:17:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gildniy/tflite-react-native",
+                        "url": "https://github.com/gildniy/tflite-react-native",
+                        "createdAt": "2023-02-03T06:32:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "arjun-namespace/tflite-react-native",
+                        "url": "https://github.com/arjun-namespace/tflite-react-native",
+                        "createdAt": "2023-05-22T04:18:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dhaneshdhatrak/tflite-react-native",
+                        "url": "https://github.com/dhaneshdhatrak/tflite-react-native",
+                        "createdAt": "2023-11-22T14:14:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-08T14:08:47Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKwr3Gw==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

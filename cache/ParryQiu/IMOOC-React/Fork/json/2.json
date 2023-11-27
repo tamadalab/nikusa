@@ -1,0 +1,45 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 103,
+                "nodes": [
+                    {
+                        "nameWithOwner": "harding067/IMOOC-React",
+                        "url": "https://github.com/harding067/IMOOC-React",
+                        "createdAt": "2022-04-14T11:58:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-17T03:41:14Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "haisha1/IMOOC-React",
+                        "url": "https://github.com/haisha1/IMOOC-React",
+                        "createdAt": "2022-04-15T07:27:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-17T03:41:14Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "XiGongDaZhangJie/IMOOC-React",
+                        "url": "https://github.com/XiGongDaZhangJie/IMOOC-React",
+                        "createdAt": "2023-07-09T05:55:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-17T03:41:14Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJ5Z2WA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 103,
+                "nodes": [
+                    {
+                        "nameWithOwner": "nbjevons/watermark",
+                        "url": "https://github.com/nbjevons/watermark",
+                        "createdAt": "2023-11-13T04:09:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-01T10:09:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiaodongxier/watermark",
+                        "url": "https://github.com/xiaodongxier/watermark",
+                        "createdAt": "2023-11-17T23:19:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-01T10:09:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mxsolid/watermark",
+                        "url": "https://github.com/mxsolid/watermark",
+                        "createdAt": "2023-11-23T01:15:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-01T10:09:07Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKw5OGg==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

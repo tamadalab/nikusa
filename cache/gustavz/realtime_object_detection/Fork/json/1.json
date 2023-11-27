@@ -1,0 +1,995 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 98,
+                "nodes": [
+                    {
+                        "nameWithOwner": "yuye1992/realtime_object_detection",
+                        "url": "https://github.com/yuye1992/realtime_object_detection",
+                        "createdAt": "2018-01-19T06:03:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-17T13:22:23Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Alro10/realtime_object_detection",
+                        "url": "https://github.com/Alro10/realtime_object_detection",
+                        "createdAt": "2018-01-26T23:54:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-08-07T18:32:26Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DeepRobot2020/realtime_object_detection",
+                        "url": "https://github.com/DeepRobot2020/realtime_object_detection",
+                        "createdAt": "2018-01-31T13:25:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-31T12:58:33Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "OSSDC/realtime_object_detection",
+                        "url": "https://github.com/OSSDC/realtime_object_detection",
+                        "createdAt": "2018-01-31T23:32:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-01-31T16:03:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "naisy/realtime_object_detection",
+                        "url": "https://github.com/naisy/realtime_object_detection",
+                        "createdAt": "2018-03-02T10:08:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-07-31T03:56:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vtaranti/realtime_object_detection",
+                        "url": "https://github.com/vtaranti/realtime_object_detection",
+                        "createdAt": "2018-03-02T16:27:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-02-23T12:49:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nvnnghia/realtime_object_detection",
+                        "url": "https://github.com/nvnnghia/realtime_object_detection",
+                        "createdAt": "2018-03-09T05:08:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-23T05:40:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fenniewxy/realtime_object_detection",
+                        "url": "https://github.com/fenniewxy/realtime_object_detection",
+                        "createdAt": "2018-03-17T10:39:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-03-12T08:59:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "2007anu-zz/realtime_object_detection",
+                        "url": "https://github.com/2007anu-zz/realtime_object_detection",
+                        "createdAt": "2018-03-19T08:23:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-03-12T08:59:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DapengChalmers/realtime_object_detection",
+                        "url": "https://github.com/DapengChalmers/realtime_object_detection",
+                        "createdAt": "2018-04-07T14:01:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-03-28T14:11:03Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Hothaifa/realtime_object_detection",
+                        "url": "https://github.com/Hothaifa/realtime_object_detection",
+                        "createdAt": "2018-04-14T18:30:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-03-28T14:11:03Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Zumbalamambo/realtime_object_detection",
+                        "url": "https://github.com/Zumbalamambo/realtime_object_detection",
+                        "createdAt": "2018-04-14T21:32:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-03-28T14:11:03Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "StarStyleSky/realtime_object_detection",
+                        "url": "https://github.com/StarStyleSky/realtime_object_detection",
+                        "createdAt": "2018-04-27T09:38:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-25T06:38:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ag-networks/realtime_object_detection",
+                        "url": "https://github.com/ag-networks/realtime_object_detection",
+                        "createdAt": "2018-05-05T01:01:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-25T06:38:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Optimus1072/realtime_object_detection",
+                        "url": "https://github.com/Optimus1072/realtime_object_detection",
+                        "createdAt": "2018-05-07T09:02:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-25T06:38:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vehicularkech/realtime_object_detection",
+                        "url": "https://github.com/vehicularkech/realtime_object_detection",
+                        "createdAt": "2018-05-11T06:16:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-25T06:38:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "balaji1994/realtime_object_detection",
+                        "url": "https://github.com/balaji1994/realtime_object_detection",
+                        "createdAt": "2018-05-14T08:39:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-25T06:38:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "robspringles/realtime_object_detection",
+                        "url": "https://github.com/robspringles/realtime_object_detection",
+                        "createdAt": "2018-05-19T09:56:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-25T06:38:13Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "QianYC/realtime_object_detection",
+                        "url": "https://github.com/QianYC/realtime_object_detection",
+                        "createdAt": "2018-05-28T01:17:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-24T15:04:51Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "afcarl/realtime_object_detection",
+                        "url": "https://github.com/afcarl/realtime_object_detection",
+                        "createdAt": "2018-05-28T17:49:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-24T15:04:51Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kanda-robotics/realtime_object_detection",
+                        "url": "https://github.com/kanda-robotics/realtime_object_detection",
+                        "createdAt": "2018-05-30T07:11:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-29T19:24:24Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nguyentienluat-adm/realtime_object_detection",
+                        "url": "https://github.com/nguyentienluat-adm/realtime_object_detection",
+                        "createdAt": "2018-05-30T08:14:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-29T19:24:24Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JussufIcarus/realtime_object_detection",
+                        "url": "https://github.com/JussufIcarus/realtime_object_detection",
+                        "createdAt": "2018-05-31T08:32:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-05-30T13:37:27Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "merryHunter/realtime_object_detection",
+                        "url": "https://github.com/merryHunter/realtime_object_detection",
+                        "createdAt": "2018-06-04T07:55:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-06T12:53:38Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Jeremyczhj/realtime_object_detection",
+                        "url": "https://github.com/Jeremyczhj/realtime_object_detection",
+                        "createdAt": "2018-06-08T14:18:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-06T22:43:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yougoforward/realtime_object_detection",
+                        "url": "https://github.com/yougoforward/realtime_object_detection",
+                        "createdAt": "2018-06-13T01:27:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-12T17:56:22Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "WillDamon/realtime_object_detection",
+                        "url": "https://github.com/WillDamon/realtime_object_detection",
+                        "createdAt": "2018-06-16T10:23:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-15T14:21:58Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "manishbajpai7/realtime_object_detection",
+                        "url": "https://github.com/manishbajpai7/realtime_object_detection",
+                        "createdAt": "2018-06-20T16:28:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-20T12:03:15Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "locussam/realtime_object_detection",
+                        "url": "https://github.com/locussam/realtime_object_detection",
+                        "createdAt": "2018-06-29T01:42:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-26T07:53:24Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shihclin/realtime_object_detection",
+                        "url": "https://github.com/shihclin/realtime_object_detection",
+                        "createdAt": "2018-06-29T19:24:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-29T13:07:14Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Richard-coder/realtime_object_detection",
+                        "url": "https://github.com/Richard-coder/realtime_object_detection",
+                        "createdAt": "2018-07-03T03:07:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-29T13:07:14Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "guoDebby/realtime_object_detection",
+                        "url": "https://github.com/guoDebby/realtime_object_detection",
+                        "createdAt": "2018-07-05T22:27:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-06-29T13:07:14Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vesor/realtime_object_detection",
+                        "url": "https://github.com/vesor/realtime_object_detection",
+                        "createdAt": "2018-07-11T12:44:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-11T08:09:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nehran/realtime_object_detection",
+                        "url": "https://github.com/nehran/realtime_object_detection",
+                        "createdAt": "2018-07-17T12:57:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-16T11:42:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "batigooal/realtime_object_detection",
+                        "url": "https://github.com/batigooal/realtime_object_detection",
+                        "createdAt": "2018-07-26T11:35:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-19T14:38:08Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cuulee/realtime_object_detection",
+                        "url": "https://github.com/cuulee/realtime_object_detection",
+                        "createdAt": "2018-07-27T08:49:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-07-19T14:38:08Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ilidar/realtime_object_detection",
+                        "url": "https://github.com/ilidar/realtime_object_detection",
+                        "createdAt": "2018-08-01T18:33:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-01T08:32:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JerryBonjour/realtime_object_detection",
+                        "url": "https://github.com/JerryBonjour/realtime_object_detection",
+                        "createdAt": "2018-08-02T06:01:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-01T08:32:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yangchuancv/realtime_object_detection",
+                        "url": "https://github.com/yangchuancv/realtime_object_detection",
+                        "createdAt": "2018-08-09T02:52:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-01T08:32:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xudongyang/realtime_object_detection",
+                        "url": "https://github.com/xudongyang/realtime_object_detection",
+                        "createdAt": "2018-08-13T07:31:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-01T08:32:34Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zds0/realtime_object_detection",
+                        "url": "https://github.com/zds0/realtime_object_detection",
+                        "createdAt": "2018-08-24T14:24:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jwen11/realtime_object_detection",
+                        "url": "https://github.com/jwen11/realtime_object_detection",
+                        "createdAt": "2018-08-31T22:14:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Shashiyadav187/realtime_object_detection",
+                        "url": "https://github.com/Shashiyadav187/realtime_object_detection",
+                        "createdAt": "2018-08-31T23:51:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liuwen-nj/realtime_object_detection",
+                        "url": "https://github.com/liuwen-nj/realtime_object_detection",
+                        "createdAt": "2018-09-12T05:49:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "diroepowerx/realtime_object_detection",
+                        "url": "https://github.com/diroepowerx/realtime_object_detection",
+                        "createdAt": "2018-09-13T22:55:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hajungong007/realtime_object_detection",
+                        "url": "https://github.com/hajungong007/realtime_object_detection",
+                        "createdAt": "2018-09-23T12:35:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "myagmur01/realtime_object_detection",
+                        "url": "https://github.com/myagmur01/realtime_object_detection",
+                        "createdAt": "2018-10-29T16:29:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gauthiermartin/realtime_object_detection",
+                        "url": "https://github.com/gauthiermartin/realtime_object_detection",
+                        "createdAt": "2018-11-01T20:01:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wuxiangchao/realtime_object_detection",
+                        "url": "https://github.com/wuxiangchao/realtime_object_detection",
+                        "createdAt": "2018-11-07T03:56:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ngadhvi/realtime_object_detection",
+                        "url": "https://github.com/ngadhvi/realtime_object_detection",
+                        "createdAt": "2018-11-07T22:22:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "seeker1943/realtime_object_detection",
+                        "url": "https://github.com/seeker1943/realtime_object_detection",
+                        "createdAt": "2018-11-12T03:31:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kangyuzhe666/realtime_object_detection",
+                        "url": "https://github.com/kangyuzhe666/realtime_object_detection",
+                        "createdAt": "2018-11-17T08:23:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "iscas-lee/realtime_object_detection",
+                        "url": "https://github.com/iscas-lee/realtime_object_detection",
+                        "createdAt": "2018-11-23T13:17:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dsp6414/realtime_object_detection",
+                        "url": "https://github.com/dsp6414/realtime_object_detection",
+                        "createdAt": "2018-11-26T09:34:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "syedrz/realtime_object_detection",
+                        "url": "https://github.com/syedrz/realtime_object_detection",
+                        "createdAt": "2018-12-15T09:41:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "robotlinker/realtime_object_detection",
+                        "url": "https://github.com/robotlinker/realtime_object_detection",
+                        "createdAt": "2018-12-27T08:49:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luckynote/realtime_object_detection",
+                        "url": "https://github.com/luckynote/realtime_object_detection",
+                        "createdAt": "2018-12-29T07:21:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yanhuizen/realtime_object_detection",
+                        "url": "https://github.com/yanhuizen/realtime_object_detection",
+                        "createdAt": "2019-01-02T18:57:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "amirunpri2018/realtime_object_detection",
+                        "url": "https://github.com/amirunpri2018/realtime_object_detection",
+                        "createdAt": "2019-01-13T05:53:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dineshresearch/realtime_object_detection",
+                        "url": "https://github.com/dineshresearch/realtime_object_detection",
+                        "createdAt": "2019-01-15T18:42:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Strings679/realtime_object_detection",
+                        "url": "https://github.com/Strings679/realtime_object_detection",
+                        "createdAt": "2019-01-20T08:25:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "CoderHaoranLee/realtime_object_detection",
+                        "url": "https://github.com/CoderHaoranLee/realtime_object_detection",
+                        "createdAt": "2019-02-05T13:43:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "a554142589/realtime_object_detection",
+                        "url": "https://github.com/a554142589/realtime_object_detection",
+                        "createdAt": "2019-02-20T09:28:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jbasttdi/realtime_object_detection",
+                        "url": "https://github.com/jbasttdi/realtime_object_detection",
+                        "createdAt": "2019-03-02T22:04:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ml-lab/realtime_object_detection",
+                        "url": "https://github.com/ml-lab/realtime_object_detection",
+                        "createdAt": "2019-03-06T04:58:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "676942089/realtime_object_detection",
+                        "url": "https://github.com/676942089/realtime_object_detection",
+                        "createdAt": "2019-03-15T07:03:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "arishin/realtime_object_detection",
+                        "url": "https://github.com/arishin/realtime_object_detection",
+                        "createdAt": "2019-03-20T08:07:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hamzatopal/realtime_object_detection",
+                        "url": "https://github.com/hamzatopal/realtime_object_detection",
+                        "createdAt": "2019-03-24T11:00:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiuxi/realtime_object_detection",
+                        "url": "https://github.com/xiuxi/realtime_object_detection",
+                        "createdAt": "2019-04-01T06:42:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "YaroslavSchubert/realtime_object_detection",
+                        "url": "https://github.com/YaroslavSchubert/realtime_object_detection",
+                        "createdAt": "2019-04-16T09:44:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "alphamary/realtime_object_detection",
+                        "url": "https://github.com/alphamary/realtime_object_detection",
+                        "createdAt": "2019-05-16T10:42:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "alexanderdurr/realtime_object_detection",
+                        "url": "https://github.com/alexanderdurr/realtime_object_detection",
+                        "createdAt": "2019-05-28T14:40:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JavadFiyuzi/realtime_object_detection",
+                        "url": "https://github.com/JavadFiyuzi/realtime_object_detection",
+                        "createdAt": "2019-06-11T11:53:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wmjpillow/realtime_object_detection",
+                        "url": "https://github.com/wmjpillow/realtime_object_detection",
+                        "createdAt": "2019-06-12T03:20:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ankitshah009/realtime_object_detection",
+                        "url": "https://github.com/ankitshah009/realtime_object_detection",
+                        "createdAt": "2019-07-18T00:28:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yudongheon/realtime_object_detection",
+                        "url": "https://github.com/yudongheon/realtime_object_detection",
+                        "createdAt": "2019-07-19T05:28:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-08-16T11:08:30Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "djangid/realtime_object_detection",
+                        "url": "https://github.com/djangid/realtime_object_detection",
+                        "createdAt": "2019-08-01T00:03:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "EddieBurning/realtime_object_detection",
+                        "url": "https://github.com/EddieBurning/realtime_object_detection",
+                        "createdAt": "2019-08-06T05:47:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cyitian/realtime_object_detection",
+                        "url": "https://github.com/cyitian/realtime_object_detection",
+                        "createdAt": "2019-08-15T06:19:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yuliusd/realtime_object_detection",
+                        "url": "https://github.com/yuliusd/realtime_object_detection",
+                        "createdAt": "2019-08-28T08:08:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hoonkai/realtime_object_detection",
+                        "url": "https://github.com/hoonkai/realtime_object_detection",
+                        "createdAt": "2019-09-26T09:22:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-09-26T09:30:05Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mafangfang9/realtime_object_detection",
+                        "url": "https://github.com/mafangfang9/realtime_object_detection",
+                        "createdAt": "2019-10-24T02:34:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jonyboy2000/realtime_object_detection",
+                        "url": "https://github.com/jonyboy2000/realtime_object_detection",
+                        "createdAt": "2019-11-26T08:18:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hanghangxie/realtime_object_detection",
+                        "url": "https://github.com/hanghangxie/realtime_object_detection",
+                        "createdAt": "2019-12-03T04:17:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wuzuqing/realtime_object_detection",
+                        "url": "https://github.com/wuzuqing/realtime_object_detection",
+                        "createdAt": "2020-01-08T03:51:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "abkonate/realtime_object_detection",
+                        "url": "https://github.com/abkonate/realtime_object_detection",
+                        "createdAt": "2020-02-02T16:18:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "patricksabry1/realtime_object_detection",
+                        "url": "https://github.com/patricksabry1/realtime_object_detection",
+                        "createdAt": "2020-09-15T04:33:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "thomas545/realtime_object_detection",
+                        "url": "https://github.com/thomas545/realtime_object_detection",
+                        "createdAt": "2020-10-21T16:06:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "quantumtechnologies/realtime_object_detection",
+                        "url": "https://github.com/quantumtechnologies/realtime_object_detection",
+                        "createdAt": "2020-12-28T06:34:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "adityajakap/realtime_object_detection",
+                        "url": "https://github.com/adityajakap/realtime_object_detection",
+                        "createdAt": "2021-01-07T01:44:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MIPromis/realtime_object_detection",
+                        "url": "https://github.com/MIPromis/realtime_object_detection",
+                        "createdAt": "2021-01-23T23:15:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mpraveen10/realtime_object_detection",
+                        "url": "https://github.com/mpraveen10/realtime_object_detection",
+                        "createdAt": "2021-02-22T11:37:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DrRoad/realtime_object_detection",
+                        "url": "https://github.com/DrRoad/realtime_object_detection",
+                        "createdAt": "2021-03-01T03:22:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "VaramIshitha/realtime_object_detection",
+                        "url": "https://github.com/VaramIshitha/realtime_object_detection",
+                        "createdAt": "2021-03-09T13:53:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ygexe/realtime_object_detection",
+                        "url": "https://github.com/ygexe/realtime_object_detection",
+                        "createdAt": "2021-05-28T07:45:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ajunlonglive/realtime_object_detection",
+                        "url": "https://github.com/ajunlonglive/realtime_object_detection",
+                        "createdAt": "2022-10-19T14:02:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Dragonius/realtime_object_detection",
+                        "url": "https://github.com/Dragonius/realtime_object_detection",
+                        "createdAt": "2023-03-27T17:26:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rajgithub009/realtime_object_detection",
+                        "url": "https://github.com/rajgithub009/realtime_object_detection",
+                        "createdAt": "2023-06-03T12:10:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-07-24T07:05:17Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJq60bA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

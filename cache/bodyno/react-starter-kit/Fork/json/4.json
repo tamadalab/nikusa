@@ -1,0 +1,935 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 392,
+                "nodes": [
+                    {
+                        "nameWithOwner": "tianfuzhou/react-starter-kit",
+                        "url": "https://github.com/tianfuzhou/react-starter-kit",
+                        "createdAt": "2017-09-29T02:08:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Sarlaka/react-starter-kit",
+                        "url": "https://github.com/Sarlaka/react-starter-kit",
+                        "createdAt": "2017-10-09T03:57:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BillyLuo/react-starter-kit",
+                        "url": "https://github.com/BillyLuo/react-starter-kit",
+                        "createdAt": "2017-10-12T09:26:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhebocaozuozenmeshuo/react-starter-kit",
+                        "url": "https://github.com/zhebocaozuozenmeshuo/react-starter-kit",
+                        "createdAt": "2017-10-19T00:39:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DearUse/react-starter-kit",
+                        "url": "https://github.com/DearUse/react-starter-kit",
+                        "createdAt": "2017-10-25T05:54:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wz-fork/react-starter-kit",
+                        "url": "https://github.com/wz-fork/react-starter-kit",
+                        "createdAt": "2017-10-27T03:52:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "react-xzc/react-starter-kit",
+                        "url": "https://github.com/react-xzc/react-starter-kit",
+                        "createdAt": "2017-10-31T01:49:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dgylyt/react-starter-kit",
+                        "url": "https://github.com/dgylyt/react-starter-kit",
+                        "createdAt": "2017-11-02T16:00:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "domyhero/react-starter-kit",
+                        "url": "https://github.com/domyhero/react-starter-kit",
+                        "createdAt": "2017-11-13T08:18:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-14T02:30:07Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "HoChine/react-starter-kit",
+                        "url": "https://github.com/HoChine/react-starter-kit",
+                        "createdAt": "2017-11-27T12:33:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-27T09:54:45Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lineCode/react-starter-kit",
+                        "url": "https://github.com/lineCode/react-starter-kit",
+                        "createdAt": "2017-12-01T11:20:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "a709691139/react-starter-kit",
+                        "url": "https://github.com/a709691139/react-starter-kit",
+                        "createdAt": "2017-12-02T05:06:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ohmygold/react-starter-kit",
+                        "url": "https://github.com/ohmygold/react-starter-kit",
+                        "createdAt": "2017-12-05T07:27:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BetterCodeHubResearch/react-starter-kit",
+                        "url": "https://github.com/BetterCodeHubResearch/react-starter-kit",
+                        "createdAt": "2017-12-06T10:19:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "liumangtul/react-starter-kit",
+                        "url": "https://github.com/liumangtul/react-starter-kit",
+                        "createdAt": "2017-12-12T03:19:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "irislian199092/react-starter-kit",
+                        "url": "https://github.com/irislian199092/react-starter-kit",
+                        "createdAt": "2017-12-22T09:52:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "oylx/react-starter-kit",
+                        "url": "https://github.com/oylx/react-starter-kit",
+                        "createdAt": "2017-12-26T07:28:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xizil/react-starter-kit-1",
+                        "url": "https://github.com/xizil/react-starter-kit-1",
+                        "createdAt": "2018-01-03T08:36:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xuyl0104/react-starter-kit",
+                        "url": "https://github.com/xuyl0104/react-starter-kit",
+                        "createdAt": "2018-01-03T08:41:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cclam0827/react-starter-kit-1",
+                        "url": "https://github.com/cclam0827/react-starter-kit-1",
+                        "createdAt": "2018-01-04T03:14:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hongshanzhu/react-starter-kit",
+                        "url": "https://github.com/hongshanzhu/react-starter-kit",
+                        "createdAt": "2018-01-07T10:58:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Niulimei/react-starter-kit",
+                        "url": "https://github.com/Niulimei/react-starter-kit",
+                        "createdAt": "2018-01-08T02:43:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LyShine/react-starter-kit",
+                        "url": "https://github.com/LyShine/react-starter-kit",
+                        "createdAt": "2018-01-15T09:25:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lietoumai/react-starter-kit",
+                        "url": "https://github.com/lietoumai/react-starter-kit",
+                        "createdAt": "2018-01-19T09:19:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kingice/react-starter-kit",
+                        "url": "https://github.com/kingice/react-starter-kit",
+                        "createdAt": "2018-01-24T06:33:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "QiZhou-Tang/react-starter-kit",
+                        "url": "https://github.com/QiZhou-Tang/react-starter-kit",
+                        "createdAt": "2018-01-28T14:59:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vincentpanqi/react-starter-kit",
+                        "url": "https://github.com/vincentpanqi/react-starter-kit",
+                        "createdAt": "2018-02-09T13:09:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "teng2015/react-starter-kit",
+                        "url": "https://github.com/teng2015/react-starter-kit",
+                        "createdAt": "2018-02-12T12:21:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "luogeger/react-starter-kit",
+                        "url": "https://github.com/luogeger/react-starter-kit",
+                        "createdAt": "2018-02-23T05:12:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2016-07-21T11:28:18Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cbq926/react-starter-kit",
+                        "url": "https://github.com/cbq926/react-starter-kit",
+                        "createdAt": "2018-02-27T03:02:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cxlll/react-starter-kit",
+                        "url": "https://github.com/cxlll/react-starter-kit",
+                        "createdAt": "2018-02-27T09:24:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "openokay/react-starter-kit-1",
+                        "url": "https://github.com/openokay/react-starter-kit-1",
+                        "createdAt": "2018-02-28T13:46:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "54sword/react-starter-kit",
+                        "url": "https://github.com/54sword/react-starter-kit",
+                        "createdAt": "2018-03-03T15:12:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wolfoxonly/react-starter-kit",
+                        "url": "https://github.com/wolfoxonly/react-starter-kit",
+                        "createdAt": "2018-03-07T02:21:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xinqilela/react-starter-kit",
+                        "url": "https://github.com/xinqilela/react-starter-kit",
+                        "createdAt": "2018-03-18T11:17:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "angelia-yuqi/react-starter-kit",
+                        "url": "https://github.com/angelia-yuqi/react-starter-kit",
+                        "createdAt": "2018-03-22T09:17:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wangweibiao/react-starter-kit",
+                        "url": "https://github.com/wangweibiao/react-starter-kit",
+                        "createdAt": "2018-03-26T03:57:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "PerfectYan/react-starter-kit-1",
+                        "url": "https://github.com/PerfectYan/react-starter-kit-1",
+                        "createdAt": "2018-03-27T06:34:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zjh65204/react-starter-kit-1",
+                        "url": "https://github.com/zjh65204/react-starter-kit-1",
+                        "createdAt": "2018-04-02T07:19:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bailu666/react-starter-kit",
+                        "url": "https://github.com/bailu666/react-starter-kit",
+                        "createdAt": "2018-04-04T08:51:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "WooodHead/react-starter-kit",
+                        "url": "https://github.com/WooodHead/react-starter-kit",
+                        "createdAt": "2018-04-16T04:45:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhaochaoyang/react-starter-kit",
+                        "url": "https://github.com/zhaochaoyang/react-starter-kit",
+                        "createdAt": "2018-04-28T13:41:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Old-Camel/react-starter-kit",
+                        "url": "https://github.com/Old-Camel/react-starter-kit",
+                        "createdAt": "2018-05-03T09:10:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yang-andy-YANG/react-starter-kit",
+                        "url": "https://github.com/yang-andy-YANG/react-starter-kit",
+                        "createdAt": "2018-05-11T06:36:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "2892931976/react-starter-kit",
+                        "url": "https://github.com/2892931976/react-starter-kit",
+                        "createdAt": "2018-05-23T06:57:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tommytong2002/react-starter-kit",
+                        "url": "https://github.com/tommytong2002/react-starter-kit",
+                        "createdAt": "2018-06-29T08:03:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangshaoliu/react-starter-kit",
+                        "url": "https://github.com/zhangshaoliu/react-starter-kit",
+                        "createdAt": "2018-07-12T03:42:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jianxiyan/react-starter-kit",
+                        "url": "https://github.com/jianxiyan/react-starter-kit",
+                        "createdAt": "2018-10-26T03:53:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "llp0114/react-starter-kit",
+                        "url": "https://github.com/llp0114/react-starter-kit",
+                        "createdAt": "2018-10-29T16:35:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fortitude001/react-starter-kit",
+                        "url": "https://github.com/fortitude001/react-starter-kit",
+                        "createdAt": "2018-11-21T09:25:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "X-sirs/react-starter-kit",
+                        "url": "https://github.com/X-sirs/react-starter-kit",
+                        "createdAt": "2018-12-21T00:47:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gedenghlz/react-starter-kit",
+                        "url": "https://github.com/gedenghlz/react-starter-kit",
+                        "createdAt": "2019-01-12T05:42:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vinneli/react-starter-kit",
+                        "url": "https://github.com/vinneli/react-starter-kit",
+                        "createdAt": "2019-01-29T18:00:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hongxiyu/react-starter-kit",
+                        "url": "https://github.com/hongxiyu/react-starter-kit",
+                        "createdAt": "2019-02-18T12:46:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bothyan/react-starter-kit",
+                        "url": "https://github.com/bothyan/react-starter-kit",
+                        "createdAt": "2019-03-05T02:22:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/react-starter-kit-1",
+                        "url": "https://github.com/hhy5277/react-starter-kit-1",
+                        "createdAt": "2019-04-04T06:45:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chenhaiyun/react-starter-kit",
+                        "url": "https://github.com/chenhaiyun/react-starter-kit",
+                        "createdAt": "2019-04-15T14:33:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "losgod/react-starter-kit",
+                        "url": "https://github.com/losgod/react-starter-kit",
+                        "createdAt": "2019-04-23T08:35:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "littleserendipity/react-starter-kit",
+                        "url": "https://github.com/littleserendipity/react-starter-kit",
+                        "createdAt": "2019-05-01T16:03:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zyxdeveloper/react-starter-kit",
+                        "url": "https://github.com/zyxdeveloper/react-starter-kit",
+                        "createdAt": "2019-05-09T12:55:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiongcehngqiang/react-starter-kit",
+                        "url": "https://github.com/xiongcehngqiang/react-starter-kit",
+                        "createdAt": "2019-05-18T02:39:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mpg-chong-huang/react-starter-kit",
+                        "url": "https://github.com/mpg-chong-huang/react-starter-kit",
+                        "createdAt": "2019-05-19T10:35:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NBNull/react-starter-kit-1",
+                        "url": "https://github.com/NBNull/react-starter-kit-1",
+                        "createdAt": "2019-05-29T08:36:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "symdata01/react-starter-kit",
+                        "url": "https://github.com/symdata01/react-starter-kit",
+                        "createdAt": "2019-07-23T06:55:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiaxzp/react-starter-kit-1",
+                        "url": "https://github.com/xiaxzp/react-starter-kit-1",
+                        "createdAt": "2019-07-26T05:16:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Sean529/react-starter-kit",
+                        "url": "https://github.com/Sean529/react-starter-kit",
+                        "createdAt": "2019-08-02T09:30:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "wang0633/react-starter-kit",
+                        "url": "https://github.com/wang0633/react-starter-kit",
+                        "createdAt": "2019-08-07T03:26:21Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nevergiveup-j/react-starter-kit",
+                        "url": "https://github.com/nevergiveup-j/react-starter-kit",
+                        "createdAt": "2019-08-12T09:31:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Heshiyu1996/react-starter-kit",
+                        "url": "https://github.com/Heshiyu1996/react-starter-kit",
+                        "createdAt": "2019-09-10T09:41:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NGTS-AUS/react-starter-kit",
+                        "url": "https://github.com/NGTS-AUS/react-starter-kit",
+                        "createdAt": "2019-09-23T13:19:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chenhuiliu/react-starter-kit",
+                        "url": "https://github.com/chenhuiliu/react-starter-kit",
+                        "createdAt": "2019-10-07T01:24:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "meiyuu/react-starter-kit",
+                        "url": "https://github.com/meiyuu/react-starter-kit",
+                        "createdAt": "2019-10-16T04:24:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "water-ice/react-starter-kit",
+                        "url": "https://github.com/water-ice/react-starter-kit",
+                        "createdAt": "2019-11-05T08:18:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kunhai-88/react-starter-kit",
+                        "url": "https://github.com/kunhai-88/react-starter-kit",
+                        "createdAt": "2020-04-24T08:42:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhidanwang19910111/react-starter-kit",
+                        "url": "https://github.com/zhidanwang19910111/react-starter-kit",
+                        "createdAt": "2020-06-08T16:28:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "alwayswithmestand/react-starter-kit",
+                        "url": "https://github.com/alwayswithmestand/react-starter-kit",
+                        "createdAt": "2020-06-21T12:05:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bao-cli/react-starter-kit",
+                        "url": "https://github.com/bao-cli/react-starter-kit",
+                        "createdAt": "2020-07-06T13:43:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "baobao12356/react-starter-kit",
+                        "url": "https://github.com/baobao12356/react-starter-kit",
+                        "createdAt": "2020-07-06T13:44:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "WTZPT/react-starter-kit",
+                        "url": "https://github.com/WTZPT/react-starter-kit",
+                        "createdAt": "2020-08-07T17:22:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bojueWjt/react-starter-kit",
+                        "url": "https://github.com/bojueWjt/react-starter-kit",
+                        "createdAt": "2020-08-10T06:18:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Visupervi/react-starter-kit",
+                        "url": "https://github.com/Visupervi/react-starter-kit",
+                        "createdAt": "2020-09-18T06:16:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Nice-yang/react-starter-kit",
+                        "url": "https://github.com/Nice-yang/react-starter-kit",
+                        "createdAt": "2020-10-29T10:21:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "acgfbr/react-starter-kit",
+                        "url": "https://github.com/acgfbr/react-starter-kit",
+                        "createdAt": "2020-11-03T23:59:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fengqinghuaYA/react-starter-kit",
+                        "url": "https://github.com/fengqinghuaYA/react-starter-kit",
+                        "createdAt": "2020-11-08T13:46:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "breakcount/react-starter-kit",
+                        "url": "https://github.com/breakcount/react-starter-kit",
+                        "createdAt": "2020-11-15T12:04:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jaysontatum87/react-starter-kit",
+                        "url": "https://github.com/jaysontatum87/react-starter-kit",
+                        "createdAt": "2021-07-13T07:29:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mgrxf/react-starter-kit",
+                        "url": "https://github.com/mgrxf/react-starter-kit",
+                        "createdAt": "2021-10-02T10:12:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xyzsky/react-starter-kit",
+                        "url": "https://github.com/xyzsky/react-starter-kit",
+                        "createdAt": "2021-11-13T08:06:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "forky-mcforkface/react-starter-kit",
+                        "url": "https://github.com/forky-mcforkface/react-starter-kit",
+                        "createdAt": "2022-08-17T23:11:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2022-08-22T19:59:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "withoutCoder/react-starter-kit",
+                        "url": "https://github.com/withoutCoder/react-starter-kit",
+                        "createdAt": "2023-06-03T06:41:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "taoxi1/react-starter-kit8",
+                        "url": "https://github.com/taoxi1/react-starter-kit8",
+                        "createdAt": "2023-06-21T06:37:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rickwwh/react-starter-kit",
+                        "url": "https://github.com/rickwwh/react-starter-kit",
+                        "createdAt": "2023-07-20T16:02:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-11-20T07:49:11Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJ90P7A==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

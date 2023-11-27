@@ -1,0 +1,715 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 370,
+                "nodes": [
+                    {
+                        "nameWithOwner": "ajeetbpr/native-starter-kit",
+                        "url": "https://github.com/ajeetbpr/native-starter-kit",
+                        "createdAt": "2018-05-06T04:20:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "domorethings/native-starter-kit",
+                        "url": "https://github.com/domorethings/native-starter-kit",
+                        "createdAt": "2018-05-14T02:13:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gabrielmacedoo/native-starter-kit",
+                        "url": "https://github.com/gabrielmacedoo/native-starter-kit",
+                        "createdAt": "2018-05-17T21:56:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "DamilolaAlao/native-starter-kit",
+                        "url": "https://github.com/DamilolaAlao/native-starter-kit",
+                        "createdAt": "2018-05-22T22:39:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pandeynk/native-starter-kit",
+                        "url": "https://github.com/pandeynk/native-starter-kit",
+                        "createdAt": "2018-05-24T18:31:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aplgsd/native-starter-kit",
+                        "url": "https://github.com/aplgsd/native-starter-kit",
+                        "createdAt": "2018-06-08T06:35:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ahmedjamshed/native-starter-kit",
+                        "url": "https://github.com/ahmedjamshed/native-starter-kit",
+                        "createdAt": "2018-06-13T15:40:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "stungkit/native-starter-kit",
+                        "url": "https://github.com/stungkit/native-starter-kit",
+                        "createdAt": "2018-06-14T02:13:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "journeywith-dev/native-starter-kit",
+                        "url": "https://github.com/journeywith-dev/native-starter-kit",
+                        "createdAt": "2018-06-18T13:01:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Vaccan/native-starter-kit",
+                        "url": "https://github.com/Vaccan/native-starter-kit",
+                        "createdAt": "2018-06-19T17:25:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "HotWordland/native-starter-kit",
+                        "url": "https://github.com/HotWordland/native-starter-kit",
+                        "createdAt": "2018-06-26T06:43:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "KennyWZhang/native-starter-kit",
+                        "url": "https://github.com/KennyWZhang/native-starter-kit",
+                        "createdAt": "2018-07-06T06:23:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "PeterBen90/native-starter-kit",
+                        "url": "https://github.com/PeterBen90/native-starter-kit",
+                        "createdAt": "2018-07-06T18:58:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "noecorp/native-starter-kit",
+                        "url": "https://github.com/noecorp/native-starter-kit",
+                        "createdAt": "2018-07-14T22:02:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nikhiysham/native-starter-kit",
+                        "url": "https://github.com/nikhiysham/native-starter-kit",
+                        "createdAt": "2018-07-27T01:23:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xiaomaijiang/native-starter-kit",
+                        "url": "https://github.com/xiaomaijiang/native-starter-kit",
+                        "createdAt": "2018-09-02T12:30:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ergestnako/native-starter-kit",
+                        "url": "https://github.com/ergestnako/native-starter-kit",
+                        "createdAt": "2018-09-09T20:58:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "petekeller2/native-starter-kit",
+                        "url": "https://github.com/petekeller2/native-starter-kit",
+                        "createdAt": "2018-09-12T00:48:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-09-12T00:58:43Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yton/native-starter-kit",
+                        "url": "https://github.com/yton/native-starter-kit",
+                        "createdAt": "2018-09-14T14:46:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "devpro9219/native-starter-kit",
+                        "url": "https://github.com/devpro9219/native-starter-kit",
+                        "createdAt": "2018-09-17T14:13:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sachgits/native-starter-kit",
+                        "url": "https://github.com/sachgits/native-starter-kit",
+                        "createdAt": "2018-09-17T15:19:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qianqianguo/native-starter-kit",
+                        "url": "https://github.com/qianqianguo/native-starter-kit",
+                        "createdAt": "2018-09-20T06:34:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jt6161/native-starter-kit",
+                        "url": "https://github.com/jt6161/native-starter-kit",
+                        "createdAt": "2018-10-01T07:35:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "natuanorg/native-starter-kit",
+                        "url": "https://github.com/natuanorg/native-starter-kit",
+                        "createdAt": "2018-10-12T09:08:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gustavoperito/native-starter-kit",
+                        "url": "https://github.com/gustavoperito/native-starter-kit",
+                        "createdAt": "2018-10-14T21:48:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fearlessforever/native-starter-kit",
+                        "url": "https://github.com/fearlessforever/native-starter-kit",
+                        "createdAt": "2018-11-03T17:20:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Edgar7777/native-starter-kit",
+                        "url": "https://github.com/Edgar7777/native-starter-kit",
+                        "createdAt": "2018-11-07T17:27:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hackcat/native-starter-kit",
+                        "url": "https://github.com/hackcat/native-starter-kit",
+                        "createdAt": "2018-11-27T16:00:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "payshah/native-starter-kit",
+                        "url": "https://github.com/payshah/native-starter-kit",
+                        "createdAt": "2018-12-04T22:48:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "carlosgonzalezucv/native-starter-kit",
+                        "url": "https://github.com/carlosgonzalezucv/native-starter-kit",
+                        "createdAt": "2019-01-07T00:21:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AkioUnity/native-starter-kit",
+                        "url": "https://github.com/AkioUnity/native-starter-kit",
+                        "createdAt": "2019-01-25T14:29:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mbukovy/native-starter-kit",
+                        "url": "https://github.com/mbukovy/native-starter-kit",
+                        "createdAt": "2019-01-30T15:16:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "leopeli/native-starter-kit",
+                        "url": "https://github.com/leopeli/native-starter-kit",
+                        "createdAt": "2019-02-07T21:34:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fork-apps/native-starter-kit",
+                        "url": "https://github.com/fork-apps/native-starter-kit",
+                        "createdAt": "2019-02-13T08:50:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ryanhigaro/native-starter-kit",
+                        "url": "https://github.com/ryanhigaro/native-starter-kit",
+                        "createdAt": "2019-03-12T02:32:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "serv2000/native-starter-kit",
+                        "url": "https://github.com/serv2000/native-starter-kit",
+                        "createdAt": "2019-03-14T12:37:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tan-duong/native-starter-kit",
+                        "url": "https://github.com/tan-duong/native-starter-kit",
+                        "createdAt": "2019-03-15T10:25:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "castaway2000/native-starter-kit",
+                        "url": "https://github.com/castaway2000/native-starter-kit",
+                        "createdAt": "2019-03-19T00:54:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "surmol/native-starter-kit",
+                        "url": "https://github.com/surmol/native-starter-kit",
+                        "createdAt": "2019-03-28T11:03:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "RLLDLBF/native-starter-kit",
+                        "url": "https://github.com/RLLDLBF/native-starter-kit",
+                        "createdAt": "2019-04-04T12:29:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/native-starter-kit",
+                        "url": "https://github.com/hhy5277/native-starter-kit",
+                        "createdAt": "2019-04-16T11:02:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "saidiadegoke/native-starter-kit",
+                        "url": "https://github.com/saidiadegoke/native-starter-kit",
+                        "createdAt": "2019-05-08T16:08:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "git-thinh/native-starter-kit",
+                        "url": "https://github.com/git-thinh/native-starter-kit",
+                        "createdAt": "2019-08-21T06:09:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cgunawan85/native-starter-kit",
+                        "url": "https://github.com/cgunawan85/native-starter-kit",
+                        "createdAt": "2019-08-22T02:03:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "duannhqb/native-starter-kit",
+                        "url": "https://github.com/duannhqb/native-starter-kit",
+                        "createdAt": "2019-09-02T12:54:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "JediMindTricks/native-starter-kit",
+                        "url": "https://github.com/JediMindTricks/native-starter-kit",
+                        "createdAt": "2019-09-03T14:48:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "enorms/native-starter-kit",
+                        "url": "https://github.com/enorms/native-starter-kit",
+                        "createdAt": "2019-09-15T19:08:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "meanhive/native-starter-kit",
+                        "url": "https://github.com/meanhive/native-starter-kit",
+                        "createdAt": "2019-09-24T03:42:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "unbanksytv/native-starter-kit",
+                        "url": "https://github.com/unbanksytv/native-starter-kit",
+                        "createdAt": "2019-11-11T02:17:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mohammedNali/native-starter-kit",
+                        "url": "https://github.com/mohammedNali/native-starter-kit",
+                        "createdAt": "2019-11-12T19:07:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "flyskyg/native-starter-kit",
+                        "url": "https://github.com/flyskyg/native-starter-kit",
+                        "createdAt": "2019-12-21T05:27:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ziyunxiao/native-starter-kit",
+                        "url": "https://github.com/ziyunxiao/native-starter-kit",
+                        "createdAt": "2020-02-26T14:40:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lafeillou/native-starter-kit",
+                        "url": "https://github.com/lafeillou/native-starter-kit",
+                        "createdAt": "2020-04-13T06:28:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "arunkarka/native-starter-kit",
+                        "url": "https://github.com/arunkarka/native-starter-kit",
+                        "createdAt": "2020-05-15T05:43:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-08-21T02:38:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yusufpamukcu/native-starter-kit",
+                        "url": "https://github.com/yusufpamukcu/native-starter-kit",
+                        "createdAt": "2020-07-06T07:46:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shivamsnaik/native-starter-kit",
+                        "url": "https://github.com/shivamsnaik/native-starter-kit",
+                        "createdAt": "2020-07-09T17:33:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dalalsunil1986/native-starter-kit",
+                        "url": "https://github.com/dalalsunil1986/native-starter-kit",
+                        "createdAt": "2020-07-26T01:47:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fadiquader/native-starter-kit",
+                        "url": "https://github.com/fadiquader/native-starter-kit",
+                        "createdAt": "2020-09-30T02:43:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "askaaqib/native-starter-kit",
+                        "url": "https://github.com/askaaqib/native-starter-kit",
+                        "createdAt": "2020-10-19T13:42:14Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "xqccc257990/native-starter-kit",
+                        "url": "https://github.com/xqccc257990/native-starter-kit",
+                        "createdAt": "2020-11-01T05:19:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "neoyaas/native-starter-kit",
+                        "url": "https://github.com/neoyaas/native-starter-kit",
+                        "createdAt": "2020-11-09T19:57:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cgorka/native-starter-kit",
+                        "url": "https://github.com/cgorka/native-starter-kit",
+                        "createdAt": "2021-01-23T19:16:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AlexChartrand440/native-starter-kit",
+                        "url": "https://github.com/AlexChartrand440/native-starter-kit",
+                        "createdAt": "2021-02-21T02:51:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Whitelotuscorp/native-starter-kit",
+                        "url": "https://github.com/Whitelotuscorp/native-starter-kit",
+                        "createdAt": "2021-04-26T13:28:54Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "funmore/native-starter-kit",
+                        "url": "https://github.com/funmore/native-starter-kit",
+                        "createdAt": "2021-05-16T10:43:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Dotson-Show/native-starter-kit",
+                        "url": "https://github.com/Dotson-Show/native-starter-kit",
+                        "createdAt": "2021-06-19T03:56:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "devapp0/native-starter-kit",
+                        "url": "https://github.com/devapp0/native-starter-kit",
+                        "createdAt": "2021-10-18T04:33:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "evrimulgen/native-starter-kit",
+                        "url": "https://github.com/evrimulgen/native-starter-kit",
+                        "createdAt": "2021-11-09T22:43:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ajunlonglive/native-starter-kit",
+                        "url": "https://github.com/ajunlonglive/native-starter-kit",
+                        "createdAt": "2022-02-14T14:21:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AlexRogalskiy/native-starter-kit",
+                        "url": "https://github.com/AlexRogalskiy/native-starter-kit",
+                        "createdAt": "2022-04-11T15:37:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-10-20T04:53:55Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOHKL6TQ==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

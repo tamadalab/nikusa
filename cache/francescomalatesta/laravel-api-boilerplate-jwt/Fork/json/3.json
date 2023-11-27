@@ -1,0 +1,835 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 282,
+                "nodes": [
+                    {
+                        "nameWithOwner": "intelij/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/intelij/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-05-11T00:41:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "christophervistal25/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/christophervistal25/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-05-13T20:13:47Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lgfinfo/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/lgfinfo/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-05-14T06:25:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sanjok1988/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/sanjok1988/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-05-21T02:05:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nulllpointer/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/nulllpointer/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-05-24T08:11:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sd2924308/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/sd2924308/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-05-31T02:08:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kuaiph/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/kuaiph/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-05-31T11:47:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "burnz/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/burnz/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-06-03T21:54:51Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zhangmin-x/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/zhangmin-x/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-06-08T09:36:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sayyidisal/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/sayyidisal/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-06-27T16:05:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "henryemekaonuorah92/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/henryemekaonuorah92/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-07-06T16:54:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yoga-pratama/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/yoga-pratama/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-07-08T02:42:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AmujoDotun/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/AmujoDotun/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-07-10T10:01:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "edwsno29/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/edwsno29/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-07-24T23:23:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "brandsafric-incorporated/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/brandsafric-incorporated/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-08-20T14:02:15Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "deogw/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/deogw/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-09-06T18:25:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "phalconVee/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/phalconVee/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-09-07T20:48:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mrBicool/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/mrBicool/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-09-09T14:48:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Bunix/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/Bunix/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-09-10T01:14:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "aramkumar06/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/aramkumar06/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-09-27T07:07:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pokurivijay/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/pokurivijay/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-10-04T08:25:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "quocbaondvn2000/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/quocbaondvn2000/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-10-21T01:42:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "viktortat/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/viktortat/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-10-27T07:49:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kishanbhatt89/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/kishanbhatt89/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-11-01T08:25:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shetch/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/shetch/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-11-09T13:13:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "toniastro/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/toniastro/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-11-17T15:19:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cliassi/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/cliassi/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-11-23T08:25:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Wisit/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/Wisit/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-11-27T07:49:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "githubgobi/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/githubgobi/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-11-27T18:55:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "markokeeffe/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/markokeeffe/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-11-28T23:59:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "codermahadi/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/codermahadi/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-11-29T12:23:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mokhlesurrahman/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/mokhlesurrahman/laravel-api-boilerplate-jwt",
+                        "createdAt": "2019-12-25T17:30:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "devators/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/devators/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-01-01T00:18:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "khairulcs/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/khairulcs/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-01-04T09:01:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2020-01-04T13:41:46Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yordi024/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/yordi024/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-01-29T23:25:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jaishirb/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/jaishirb/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-01-30T02:58:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "itschrisrichards/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/itschrisrichards/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-02-05T15:01:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "THEBESTSZ/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/THEBESTSZ/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-02-19T13:06:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sadiqumar18/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/sadiqumar18/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-03-24T14:43:30Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dsasmita/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/dsasmita/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-04-02T01:22:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Francescou2/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/Francescou2/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-04-05T10:16:50Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "imyuvii/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/imyuvii/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-04-05T10:32:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "teodoziod/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/teodoziod/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-04-11T08:49:04Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "fathanqoriba/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/fathanqoriba/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-04-16T14:53:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "vladd8050/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/vladd8050/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-04-25T05:38:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ukik/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/ukik/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-04-28T08:13:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pedropalau/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/pedropalau/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-05-17T04:49:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ssitcloud/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/ssitcloud/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-06-04T17:39:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "letian1225/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/letian1225/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-06-26T13:52:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Ip03L/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/Ip03L/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-07-16T11:05:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nagu741/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/nagu741/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-08-06T02:43:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BardoQi/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/BardoQi/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-08-10T16:29:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cookie-coffee/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/cookie-coffee/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-08-19T13:11:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tameryalcin/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/tameryalcin/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-08-25T10:17:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ghostidentity/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/ghostidentity/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-08-31T19:04:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "NizarNaufal/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/NizarNaufal/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-09-01T03:55:07Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "samuelokellogum/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/samuelokellogum/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-10-03T05:38:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Dennis-Mgba/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/Dennis-Mgba/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-10-05T14:07:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "pabmar68hotmail/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/pabmar68hotmail/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-11-02T16:30:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "qianqchengithub/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/qianqchengithub/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-11-20T12:59:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "bruceleon0805/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/bruceleon0805/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-11-24T13:38:25Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cheanizer/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/cheanizer/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-11-24T14:37:11Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "swport/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/swport/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-11-26T17:54:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "SiroDiaz/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/SiroDiaz/laravel-api-boilerplate-jwt",
+                        "createdAt": "2020-12-31T18:49:24Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LovegameNoob/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/LovegameNoob/laravel-api-boilerplate-jwt",
+                        "createdAt": "2021-03-19T03:58:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "defelper/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/defelper/laravel-api-boilerplate-jwt",
+                        "createdAt": "2021-04-08T05:03:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "flavianohonorato/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/flavianohonorato/laravel-api-boilerplate-jwt",
+                        "createdAt": "2021-04-10T12:54:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "samprog4u/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/samprog4u/laravel-api-boilerplate-jwt",
+                        "createdAt": "2021-04-29T14:08:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "phoenix-lib/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/phoenix-lib/laravel-api-boilerplate-jwt",
+                        "createdAt": "2021-05-13T08:07:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "minhtvtb/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/minhtvtb/laravel-api-boilerplate-jwt",
+                        "createdAt": "2021-10-14T04:49:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "TamaraAbells/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/TamaraAbells/laravel-api-boilerplate-jwt",
+                        "createdAt": "2021-12-15T10:58:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "soumairi/laravel-api-boilerplate-jwt-1",
+                        "url": "https://github.com/soumairi/laravel-api-boilerplate-jwt-1",
+                        "createdAt": "2022-01-03T09:34:18Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "mdruger/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/mdruger/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-02-17T03:39:52Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jpalala/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/jpalala/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-02-27T15:33:06Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2022-02-27T16:15:04Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BearerPipelineTest/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/BearerPipelineTest/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-03-15T17:36:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rlodhiya2502/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/rlodhiya2502/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-03-28T19:18:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "yzchengrui/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/yzchengrui/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-05-16T07:46:19Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rayiik/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/rayiik/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-05-18T22:48:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "scfobao/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/scfobao/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-10-10T05:25:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "cloudforge-oy/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/cloudforge-oy/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-11-10T15:57:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ManeeshDev/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/ManeeshDev/laravel-api-boilerplate-jwt",
+                        "createdAt": "2022-12-12T14:54:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Integram-Solution/laravel-api-boilerplate-jwt",
+                        "url": "https://github.com/Integram-Solution/laravel-api-boilerplate-jwt",
+                        "createdAt": "2023-11-21T20:34:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-04-18T21:47:20Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOKwYFng==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

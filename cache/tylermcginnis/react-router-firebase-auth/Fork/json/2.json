@@ -1,0 +1,825 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 181,
+                "nodes": [
+                    {
+                        "nameWithOwner": "arantessergio/react-router-firebase-auth",
+                        "url": "https://github.com/arantessergio/react-router-firebase-auth",
+                        "createdAt": "2017-08-07T15:12:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jchen54/react-router-firebase-auth",
+                        "url": "https://github.com/jchen54/react-router-firebase-auth",
+                        "createdAt": "2017-08-09T21:10:05Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "rpassafaro/react-router-firebase-auth",
+                        "url": "https://github.com/rpassafaro/react-router-firebase-auth",
+                        "createdAt": "2017-08-10T10:59:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-08-10T20:13:29Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "1242035/react-router-firebase-auth",
+                        "url": "https://github.com/1242035/react-router-firebase-auth",
+                        "createdAt": "2017-08-12T11:47:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dtmkeng/react-router-firebase-auth",
+                        "url": "https://github.com/dtmkeng/react-router-firebase-auth",
+                        "createdAt": "2017-08-18T19:10:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tingtingchan/react-router-firebase-auth",
+                        "url": "https://github.com/tingtingchan/react-router-firebase-auth",
+                        "createdAt": "2017-08-24T16:18:22Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kcfgl/react-router-firebase-auth",
+                        "url": "https://github.com/kcfgl/react-router-firebase-auth",
+                        "createdAt": "2017-08-26T18:41:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "primaulia/react-router-firebase-auth",
+                        "url": "https://github.com/primaulia/react-router-firebase-auth",
+                        "createdAt": "2017-08-28T10:39:17Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Sventenhaaf/react-router-firebase-auth",
+                        "url": "https://github.com/Sventenhaaf/react-router-firebase-auth",
+                        "createdAt": "2017-09-07T12:41:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "sivaraj-v/react-router-firebase-auth",
+                        "url": "https://github.com/sivaraj-v/react-router-firebase-auth",
+                        "createdAt": "2017-09-08T09:41:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jeffDevelops/react-router-firebase-auth",
+                        "url": "https://github.com/jeffDevelops/react-router-firebase-auth",
+                        "createdAt": "2017-09-13T22:30:55Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "azimuth3d/react-router-firebase-auth",
+                        "url": "https://github.com/azimuth3d/react-router-firebase-auth",
+                        "createdAt": "2017-09-14T07:32:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ITECHINN/react-router-firebase-auth",
+                        "url": "https://github.com/ITECHINN/react-router-firebase-auth",
+                        "createdAt": "2017-09-16T08:35:45Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ashishdommety/react-router-firebase-auth",
+                        "url": "https://github.com/ashishdommety/react-router-firebase-auth",
+                        "createdAt": "2017-09-25T00:24:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "s3603075/react-router-firebase-auth",
+                        "url": "https://github.com/s3603075/react-router-firebase-auth",
+                        "createdAt": "2017-09-25T04:57:31Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "samyilias/react-router-firebase-auth",
+                        "url": "https://github.com/samyilias/react-router-firebase-auth",
+                        "createdAt": "2017-10-03T22:17:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gitBizzy10/react-router-firebase-auth",
+                        "url": "https://github.com/gitBizzy10/react-router-firebase-auth",
+                        "createdAt": "2017-10-23T15:58:41Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "klaytonolavi/react-router-firebase-auth",
+                        "url": "https://github.com/klaytonolavi/react-router-firebase-auth",
+                        "createdAt": "2017-10-24T20:55:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "obonyojimmy/react-router-firebase-auth",
+                        "url": "https://github.com/obonyojimmy/react-router-firebase-auth",
+                        "createdAt": "2017-10-29T02:31:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "edwindeleon/react-router-firebase-auth",
+                        "url": "https://github.com/edwindeleon/react-router-firebase-auth",
+                        "createdAt": "2017-11-01T20:03:26Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Dcampb007/react-router-firebase-auth",
+                        "url": "https://github.com/Dcampb007/react-router-firebase-auth",
+                        "createdAt": "2017-11-04T22:52:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Lazercat/react-router-firebase-auth",
+                        "url": "https://github.com/Lazercat/react-router-firebase-auth",
+                        "createdAt": "2017-11-06T18:41:49Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ftmatsumoto/react-router-firebase-auth",
+                        "url": "https://github.com/ftmatsumoto/react-router-firebase-auth",
+                        "createdAt": "2017-11-11T22:09:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "shivamsupr/react-router-firebase-auth",
+                        "url": "https://github.com/shivamsupr/react-router-firebase-auth",
+                        "createdAt": "2017-11-13T07:55:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jannainm/react-router-firebase-auth",
+                        "url": "https://github.com/jannainm/react-router-firebase-auth",
+                        "createdAt": "2017-11-14T14:07:29Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "snalegave/react-router-firebase-auth",
+                        "url": "https://github.com/snalegave/react-router-firebase-auth",
+                        "createdAt": "2017-11-18T21:56:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-04-17T02:28:53Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "stungkit/react-router-firebase-auth",
+                        "url": "https://github.com/stungkit/react-router-firebase-auth",
+                        "createdAt": "2017-12-04T00:53:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nderkach/react-router-firebase-auth",
+                        "url": "https://github.com/nderkach/react-router-firebase-auth",
+                        "createdAt": "2017-12-10T15:38:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T19:00:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "metd/react-router-firebase-auth",
+                        "url": "https://github.com/metd/react-router-firebase-auth",
+                        "createdAt": "2017-12-15T07:34:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T19:00:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "derlloyd/react-router-firebase-auth",
+                        "url": "https://github.com/derlloyd/react-router-firebase-auth",
+                        "createdAt": "2017-12-25T20:44:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T19:00:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "gauravagarwal2704/react-router-firebase-auth",
+                        "url": "https://github.com/gauravagarwal2704/react-router-firebase-auth",
+                        "createdAt": "2017-12-26T14:51:39Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T19:00:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dockerizeallthethings/react-router-firebase-auth",
+                        "url": "https://github.com/dockerizeallthethings/react-router-firebase-auth",
+                        "createdAt": "2017-12-27T04:57:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T19:00:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "avj2352/react-router-firebase-auth",
+                        "url": "https://github.com/avj2352/react-router-firebase-auth",
+                        "createdAt": "2017-12-28T13:46:23Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-03T19:00:06Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "squibbleFish/react-router-firebase-auth",
+                        "url": "https://github.com/squibbleFish/react-router-firebase-auth",
+                        "createdAt": "2018-01-09T05:11:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "claudiagreen/react-router-firebase-auth",
+                        "url": "https://github.com/claudiagreen/react-router-firebase-auth",
+                        "createdAt": "2018-01-28T21:28:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "msvzero/react-router-firebase-auth",
+                        "url": "https://github.com/msvzero/react-router-firebase-auth",
+                        "createdAt": "2018-02-04T03:16:28Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-12-06T16:33:43Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Robo-romeski/react-router-firebase-auth",
+                        "url": "https://github.com/Robo-romeski/react-router-firebase-auth",
+                        "createdAt": "2018-02-05T19:18:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jikotw74/react-router-firebase-auth",
+                        "url": "https://github.com/jikotw74/react-router-firebase-auth",
+                        "createdAt": "2018-02-17T09:21:53Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Bravo2500/react-router-firebase-auth",
+                        "url": "https://github.com/Bravo2500/react-router-firebase-auth",
+                        "createdAt": "2018-02-21T00:20:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "TobiasAndre/react-router-firebase-auth",
+                        "url": "https://github.com/TobiasAndre/react-router-firebase-auth",
+                        "createdAt": "2018-03-01T00:09:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "burhanyilmazz/react-router-firebase-auth",
+                        "url": "https://github.com/burhanyilmazz/react-router-firebase-auth",
+                        "createdAt": "2018-03-04T15:20:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dghalbr/react-router-firebase-auth",
+                        "url": "https://github.com/dghalbr/react-router-firebase-auth",
+                        "createdAt": "2018-03-07T14:51:09Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "disruptdigital/react-router-firebase-auth",
+                        "url": "https://github.com/disruptdigital/react-router-firebase-auth",
+                        "createdAt": "2018-03-28T11:25:16Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "codegician/react-router-firebase-auth",
+                        "url": "https://github.com/codegician/react-router-firebase-auth",
+                        "createdAt": "2018-03-31T15:19:40Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Ammarmasud/react-router-firebase-auth",
+                        "url": "https://github.com/Ammarmasud/react-router-firebase-auth",
+                        "createdAt": "2018-04-01T20:04:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "schach0415/FindCapsule2",
+                        "url": "https://github.com/schach0415/FindCapsule2",
+                        "createdAt": "2018-04-09T22:28:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2018-04-11T19:37:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "evancooney/react-router-firebase-auth",
+                        "url": "https://github.com/evancooney/react-router-firebase-auth",
+                        "createdAt": "2018-04-27T19:29:03Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "YYY-TEAM/react-router-firebase-auth",
+                        "url": "https://github.com/YYY-TEAM/react-router-firebase-auth",
+                        "createdAt": "2018-05-17T08:40:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "nopparat9pi/react-router-firebase-auth",
+                        "url": "https://github.com/nopparat9pi/react-router-firebase-auth",
+                        "createdAt": "2018-05-21T04:46:08Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "juanunix/react-router-firebase-auth",
+                        "url": "https://github.com/juanunix/react-router-firebase-auth",
+                        "createdAt": "2018-05-21T14:26:46Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Glinduff/react-router-firebase-auth",
+                        "url": "https://github.com/Glinduff/react-router-firebase-auth",
+                        "createdAt": "2018-05-25T03:28:35Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "BigUncleYemi/react-router-firebase-auth",
+                        "url": "https://github.com/BigUncleYemi/react-router-firebase-auth",
+                        "createdAt": "2018-06-29T01:58:36Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "kfidrych/react-router-firebase-auth",
+                        "url": "https://github.com/kfidrych/react-router-firebase-auth",
+                        "createdAt": "2018-07-18T16:36:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jaytrepka/react-router-firebase-auth",
+                        "url": "https://github.com/jaytrepka/react-router-firebase-auth",
+                        "createdAt": "2018-07-31T09:43:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "tiaraAinalsalsabilla/react-router-firebase-auth",
+                        "url": "https://github.com/tiaraAinalsalsabilla/react-router-firebase-auth",
+                        "createdAt": "2018-08-02T10:43:42Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "danielvportlandia/react-router-firebase-auth",
+                        "url": "https://github.com/danielvportlandia/react-router-firebase-auth",
+                        "createdAt": "2018-08-08T03:02:33Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "freshmilkdev/react-router-firebase-auth",
+                        "url": "https://github.com/freshmilkdev/react-router-firebase-auth",
+                        "createdAt": "2018-08-22T18:20:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AdithyaBhat17/react-router-firebase-auth",
+                        "url": "https://github.com/AdithyaBhat17/react-router-firebase-auth",
+                        "createdAt": "2018-08-23T14:10:59Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2019-11-23T14:58:41Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "alireza8101/react-router-firebase-auth",
+                        "url": "https://github.com/alireza8101/react-router-firebase-auth",
+                        "createdAt": "2018-10-25T05:09:44Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dandriskill/react-router-firebase-auth",
+                        "url": "https://github.com/dandriskill/react-router-firebase-auth",
+                        "createdAt": "2018-11-12T20:58:38Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "webeli/react-router-firebase-auth",
+                        "url": "https://github.com/webeli/react-router-firebase-auth",
+                        "createdAt": "2019-02-07T11:03:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "OndroS/react-router-firebase-auth",
+                        "url": "https://github.com/OndroS/react-router-firebase-auth",
+                        "createdAt": "2019-03-01T07:47:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hhy5277/react-router-firebase-auth",
+                        "url": "https://github.com/hhy5277/react-router-firebase-auth",
+                        "createdAt": "2019-04-04T09:57:13Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "dyangua/react-router-firebase-auth",
+                        "url": "https://github.com/dyangua/react-router-firebase-auth",
+                        "createdAt": "2019-07-24T05:17:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "MarkHarper/react-router-firebase-auth",
+                        "url": "https://github.com/MarkHarper/react-router-firebase-auth",
+                        "createdAt": "2019-08-09T22:36:57Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Odinndev/react-router-firebase-auth",
+                        "url": "https://github.com/Odinndev/react-router-firebase-auth",
+                        "createdAt": "2019-09-19T12:48:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "miko-engr/react-router-firebase-auth",
+                        "url": "https://github.com/miko-engr/react-router-firebase-auth",
+                        "createdAt": "2019-09-28T13:36:27Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "masterbulla/react-router-firebase-auth",
+                        "url": "https://github.com/masterbulla/react-router-firebase-auth",
+                        "createdAt": "2019-11-28T12:54:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "jair1823/react-router-firebase-auth",
+                        "url": "https://github.com/jair1823/react-router-firebase-auth",
+                        "createdAt": "2020-02-04T06:18:12Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zachmayberry/react-router-firebase-auth",
+                        "url": "https://github.com/zachmayberry/react-router-firebase-auth",
+                        "createdAt": "2020-03-13T20:20:56Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "chayyccee/react-router-firebase-auth",
+                        "url": "https://github.com/chayyccee/react-router-firebase-auth",
+                        "createdAt": "2021-01-11T08:54:10Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "AngeloDeveloper/react-router-firebase-auth",
+                        "url": "https://github.com/AngeloDeveloper/react-router-firebase-auth",
+                        "createdAt": "2021-02-05T05:02:32Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "LucianoBicaku/react-router-firebase-auth",
+                        "url": "https://github.com/LucianoBicaku/react-router-firebase-auth",
+                        "createdAt": "2021-03-03T15:56:58Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "atomic-tree/react-router-firebase-auth",
+                        "url": "https://github.com/atomic-tree/react-router-firebase-auth",
+                        "createdAt": "2021-04-28T07:20:20Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "zeluizr/react-router-firebase-auth",
+                        "url": "https://github.com/zeluizr/react-router-firebase-auth",
+                        "createdAt": "2021-06-10T22:48:02Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "hussain-imtiaz/react-router-firebase-auth",
+                        "url": "https://github.com/hussain-imtiaz/react-router-firebase-auth",
+                        "createdAt": "2021-09-22T11:59:48Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2021-09-22T13:26:49Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "Micro121/react-router-firebase-auth",
+                        "url": "https://github.com/Micro121/react-router-firebase-auth",
+                        "createdAt": "2022-02-25T06:54:37Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "ben-kennedy1/react-router-firebase-auth",
+                        "url": "https://github.com/ben-kennedy1/react-router-firebase-auth",
+                        "createdAt": "2022-04-08T03:46:34Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "plowsai/react-router-firebase-auth",
+                        "url": "https://github.com/plowsai/react-router-firebase-auth",
+                        "createdAt": "2022-08-13T07:25:43Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "District3developers/district3developers-react-router-auth-firebase",
+                        "url": "https://github.com/District3developers/district3developers-react-router-auth-firebase",
+                        "createdAt": "2023-01-19T16:34:01Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-12-28T17:28:54Z"
+                            }
+                        }
+                    },
+                    {
+                        "nameWithOwner": "lustscidstatra/react-router-firebase-auth",
+                        "url": "https://github.com/lustscidstatra/react-router-firebase-auth",
+                        "createdAt": "2023-07-07T03:06:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2023-07-07T03:31:11Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOJ4lbUA==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "data": {
+        "repository": {
+            "forks": {
+                "totalCount": 101,
+                "nodes": [
+                    {
+                        "nameWithOwner": "duxl/SwipeBackLayout",
+                        "url": "https://github.com/duxl/SwipeBackLayout",
+                        "createdAt": "2022-12-31T05:57:00Z",
+                        "defaultBranchRef": {
+                            "target": {
+                                "committedDate": "2017-09-06T03:21:39Z"
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOIsy9Dg==",
+                    "hasNextPage": false
+                }
+            }
+        }
+    }
+}
