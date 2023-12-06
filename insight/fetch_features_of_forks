@@ -26,7 +26,7 @@ show_progress() {
 
 
 THIS_DIR_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)" # insight/
-INPUT_CSV="$THIS_DIR_PATH/../app/result/$1/unsorted.csv"
+INPUT_CSV="$THIS_DIR_PATH/../result/$1/unsorted.csv"
 FEATURES_CSV="$THIS_DIR_PATH/$1/features.csv"
 ORIGINAL_REPO_URL="git@github.com:$1.git"
 

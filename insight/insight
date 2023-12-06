@@ -3,11 +3,12 @@
 print_help() {
     echo "Usage: $0 [-r="owner"/"repository"] [-f] [-m] [-h]
     -r:repository = ["owner"/"repository"]
+    -a:all repository
     -f:fetch
     -m:measure
     -h:help
-    
-    [-r]は必須。
+
+    [-a]:resultディレクトリのある全てのリポジトリの活動率を計測
     [-f]と[-m]どちらも指定せず[-r]のみの場合は、fetch、measureどちらも行う。"
 
     exit 1
@@ -17,11 +18,12 @@ if [ $# -eq 0 ]; then
     print_help
 fi
 
-
+a_mode=0
 f_mode=0
 m_mode=0
-while getopts "r:fmh" opt; do
+while getopts "r:afmh" opt; do
   case $opt in
+    a) a_mode=1 ;;
     r) owner_repo=$OPTARG ;;
     f) f_mode=1 ;;
     m) m_mode=1 ;;
@@ -32,6 +34,26 @@ while getopts "r:fmh" opt; do
 done
 
 THIS_DIR_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+if [ "$a_mode" -eq 1 ]; then
+    base_dir="$THIS_DIR_PATH/../../research/result/"
+
+    # findコマンドでunSorted.csvファイルを検索し、その結果に対してループ処理
+    find "$base_dir" -type f -name 'unSorted.csv' | while read -r csv_file; do
+    # ファイルパスから"owner/repository"を抽出
+    owner_repo=$(echo "$csv_file" | sed -n "s|$base_dir\(.*\)/unSorted.csv|\1|p")
+    owner_repo=$(echo $owner_repo | sed 's|^/||')
+
+    # ここでowner_repoを使用した処理
+    echo "Processing: $owner_repo"
+
+    $THIS_DIR_PATH/'fetch_features_of_forks' $owner_repo
+    python3 $THIS_DIR_PATH/measure_active_rates.py $THIS_DIR_PATH/$owner_repo/features.csv $THIS_DIR_PATH/$owner_repo/active_rates.csv
+
+    done
+
+    exit 0
+fi
 
 if [ "$f_mode" -eq 1 ]; then
     $THIS_DIR_PATH/'fetch_features_of_forks' $owner_repo
