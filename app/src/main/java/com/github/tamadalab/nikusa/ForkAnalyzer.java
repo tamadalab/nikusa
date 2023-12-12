@@ -91,7 +91,6 @@ public class ForkAnalyzer {
 
             bufferedWriter.close();
 
-            System.out.printf("wrote %s%n", csvFileName);
         }
         catch (FileNotFoundException anException) { anException.printStackTrace(); }
         catch (UnsupportedEncodingException anException) { anException.printStackTrace(); }
@@ -123,7 +122,6 @@ public class ForkAnalyzer {
 
             bufferedWriter.close();
 
-            System.out.printf("wrote %s%n", csvFileName);
         }
         catch (FileNotFoundException anException) { anException.printStackTrace(); }
         catch (UnsupportedEncodingException anException) { anException.printStackTrace(); }

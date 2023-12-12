@@ -27,6 +27,8 @@ public class Main extends Object {
             Fetcher.fetch(aRepository);
             System.out.printf("%ndata analying...%n");
             ForkAnalyzer.analyze(aRepository);
+            System.out.printf("%n%s%ncompletion!%n", aRepository);
+            System.err.println("--------------------------");
         }
     }
 
