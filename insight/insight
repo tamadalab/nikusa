@@ -36,7 +36,7 @@ done
 THIS_DIR_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [ "$a_mode" -eq 1 ]; then
-    base_dir="$THIS_DIR_PATH/../../research/result/"
+    base_dir="$THIS_DIR_PATH/../result/"
 
     # findコマンドでunSorted.csvファイルを検索し、その結果に対してループ処理
     find "$base_dir" -type f -name 'unSorted.csv' | while read -r csv_file; do
