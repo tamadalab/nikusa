@@ -21,6 +21,7 @@ public class ForkAnalyzer {
      */
     public static void analyze(String nameWithOwner) {
         String[] splitedRepoName = nameWithOwner.split("[/]");
+        ForkAnalyzer.forks.clear();
         ForkAnalyzer.readCacheCSV(splitedRepoName[0], splitedRepoName[1]);
         ForkAnalyzer.writeSortedCSV(splitedRepoName[0], splitedRepoName[1]);
     }
